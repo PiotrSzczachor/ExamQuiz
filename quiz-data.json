@@ -1289,7 +1289,7 @@
       "a. apelacje w postępowaniu uproszczonym",
       "b. zażalenia w elektronicznym postępowaniu upominawczym",
       "c. wszystkie sprawy z zakresu prawa pracy -",
-      "d. wnioski u ubezwłasnowolnienie (3 sędziów)"
+      "d. wnioski u ubezwłasnowolnienie"
     ],
     "correct": [
       0,
@@ -1326,7 +1326,7 @@
     "question": "W II instancji sąd orzeka w składzie trzyosobowym rozpoznając:",
     "answers": [
       "a. apelacje, z wyjątkiem postępowania uproszczonego",
-      "b. co do zasady zażalenia (Izba SN)",
+      "b. co do zasady zażalenia",
       "c. apelacje",
       "d. żadna z odpowiedzi nie jest prawidłowa"
     ],
@@ -2368,7 +2368,7 @@
       "c. sprawa zostaje przekazana do sądu właściwości ogólnej pozwanego",
       "d. postępowanie zostaje umorzone"
     ],
-    "correct": []
+    "correct": [3]
   },
   {
     "question": "W EPU:",
@@ -3057,7 +3057,7 @@
       "c. może być wydany wyrok sądu I instancji zawsze, jeśli sąd uzna że wyznaczenie rozprawy jest zbędne",
       "d. może być wydany wyrok sądu I instancji tylko, jeśli konkretny przepis pozwala na"
     ],
-    "correct": []
+    "correct": [0,3]
   },
   {
     "question": "W postępowaniu procesowym na posiedzeniu niejawnym:",
@@ -3390,7 +3390,7 @@
     ]
   },
   {
-    "question": "Ustanowienie kuratora dla osoby nieznanej z miejsca pobytu w postępowaniu cywilnym jest niezbędne:",
+    "question": "Ustanowienie kuratora dla osoby nieznanej apelacji. w tej sytuacji cywilnym jest niezbędne:",
     "answers": [
       "a. tylko gdy zachodzi potrzeba doręczenia tej osobie odpisu pozwu lub wniosku wszczynającego postępowanie nieprocesowe",
       "b. gdy zachodzi potrzeba doręczenia tej osobie jakiegokolwiek pisma procesowego wywołującego potrzebę obrony jej praw",
@@ -4473,7 +4473,8 @@
     ],
     "correct": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
@@ -4563,9 +4564,7 @@
       "d. Wniesienie skargi o wznowienie tamuje wykonanie zaskarżonego wyroku"
     ],
     "correct": [
-      1,
-      2,
-      3
+      1
     ]
   },
   {
@@ -5091,9 +5090,7 @@
       "d. w których wartość przedmiotu sporu przewyższa 75 000 zł  k.p.c., np. w sprawie o alimenty będzie właściwy sąd rejonowy)"
     ],
     "correct": [
-      0,
-      1,
-      3
+      0
     ]
   },
   {
@@ -5291,7 +5288,7 @@
       "c. 26 czerwca 2018",
       "d. 29 czerwca 2018"
     ],
-    "correct": []
+    "correct": [0]
   },
   {
     "question": "W dniu 3 stycznia 2018 r wskutek niezastania adresata w domu, została ona po raz drugi złożona w urzędzie pocztowym. W dniu 10 stycznia 2018 upłynął termin do odbioru złożonego pisma w oddawczym urzędzie pocztowym, a adresat znów nie zgłosił się w celu jego odbioru. W tej sytuacji:",
@@ -5473,7 +5470,6 @@
       "d. W postępowaniu nieprocesowym akta sprawy są dostępne tylko dla uczestników"
     ],
     "correct": [
-      0,
       2
     ]
   },
@@ -5486,9 +5482,7 @@
       "d. Sprawy o przysposobienie w pierwszej instancji sąd rozpoznaje w składzie trzech sędziów zawodowych"
     ],
     "correct": [
-      0,
-      1,
-      3
+      1
     ]
   },
   {
