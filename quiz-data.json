@@ -7,7 +7,7 @@
       "c. dowód z przesłuchania świadka jako dowód subsydiarny – postępowanie w sprawach gospodarczych, art. 45810 k.p.c.",
       "d. „świadko-biegły” – postępowanie uproszczone, art. 5057 k.p.c."
     ],
-    "correct": []
+    "correct": [2,3]
   },
   {
     "question": "Proszę wskazać zdanie fałszywe:",
@@ -17,7 +17,7 @@
       "c. Niedopuszczalne jest przywrócenie terminu do złożenia środka odwoławczego od wyroku orzekającego unieważnienie małżeństwa lub rozwód albo ustalającego nieistnienie małżeństwa, jeżeli choćby jedna ze stron zawarła po uprawomocnieniu się wyroku nowy związek małżeński",
       "d. Po upływie roku od uchybionego terminu, jego przywrócenie jest dopuszczalne w wyjątkowych przypadkach"
     ],
-    "correct": []
+    "correct": [0]
   },
   {
     "question": "Wskaż zdanie fałszywe:",
@@ -27,7 +27,7 @@
       "c. W sprawach z zakresu prawa pracy sąd jest związany żądaniem pozwu",
       "d. W drodze tzw. umowy prorogację można zmienić właściwość wyłączną"
     ],
-    "correct": []
+    "correct": [0,1,3]
   },
   {
     "question": "Proszę wskazać zdanie/-a fałszywe:",
@@ -37,7 +37,7 @@
       "c. W postępowaniu procesowym możliwe jest przekazanie sprawy do innego sądu równorzędnego, na wniosek strony, ze względów celowościowych",
       "d. Jeżeli wymaga tego dobro wymiaru sprawiedliwości Sąd Najwyższy może przekazać sprawę do rozpoznania innemu sądowi równorzędnemu"
     ],
-    "correct": []
+    "correct": [1,2]
   },
   {
     "question": "Wskaż zdanie prawdziwe:",
@@ -47,14 +47,7 @@
       "c. w sprawach z zakresu prawa pracy sąd jest związany żądaniem pozwu",
       "d. wszystkie powyższe zdania są prawdziwe"
     ],
-    "correct": []
-  },
-  {
-    "question": "Proszę wskazać zdanie (-a) fałszywe:",
-    "answers": [
-      "a. Od zarzutów od nakazu zapłaty pobiera się taką samą opłatę jak od pozwu w postępowaniu upominawczym"
-    ],
-    "correct": []
+    "correct": [2]
   },
   {
     "question": "Proszę wskazać zdanie fałszywe:",
@@ -64,7 +57,7 @@
       "c. Decyzja o rozpoznaniu zgodnie z przepisami o postępowaniu upominawczym, sprawy wszczętej w postępowaniu zwykłym, zapada w formie postanowienia ()",
       "d. Decyzja o rozpoznaniu zgodnie z przepisami o postępowaniu upominawczym, sprawy wszczętej w postępowaniu zwykłym, zapada w formie zarządzenia przewodniczącego ()"
     ],
-    "correct": []
+    "correct": [1,2]
   },
   {
     "question": "Proszę wskazać zdanie (-a) fałszywe:",
@@ -74,17 +67,7 @@
       "c. W postępowaniu w sprawach gospodarczych dowód z przesłuchania świadków jest dowodem subsydiarnym",
       "d. W postępowaniu cywilnym procesowym charakter subsydiarny ma zarówno dowód z przesłuchania stron jak i świadków"
     ],
-    "correct": []
-  },
-  {
-    "question": "Wskaż zdanie (-a) fałszywe:",
-    "answers": [
-      "a. Postanowienia formalne stają się skuteczne z chwilą uprawomocnienia (TEŻ)",
-      "b. Przywrócenie terminu nigdy nie jest możliwe po upływie roku od uchybionego terminu",
-      "c. W sprawach z zakresu prawa pracy sąd jest związany żądaniem pozwu",
-      "d. Wszystkie powyższe zdania są prawdziwe"
-    ],
-    "correct": []
+    "correct": [0,1,3]
   },
   {
     "question": "Proszę wskazać zdanie(-a) fałszywe:",
@@ -94,7 +77,7 @@
       "c. Uwzględnienie powództwa w całości zawsze pociąga za sobą konieczność obciążenia wszystkimi kosztami postępowania pozwanego",
       "d. Uwzględnienie powództwa w całości zawsze uniemożliwia zwrot kosztów procesu pozwanemu"
     ],
-    "correct": []
+    "correct": [0,2,3]
   },
   {
     "question": "Proszę wskazać zdanie(-a) fałszywe:",
@@ -104,7 +87,7 @@
       "c. Zastrzeżenie od zarządzenia asystenta sędziego wymaga uzasadnienia",
       "d. W razie wniesienia zastrzeżenia zarządzenie asystenta sędziego nie traci mocy"
     ],
-    "correct": []
+    "correct": [0,2,3]
   },
   {
     "question": "Proszę wskazać zdanie(-a) fałszywe:",
@@ -114,7 +97,7 @@
       "c. Do każdego zarządzenia asystenta sędziego można wnieść zastrzeżenie",
       "d. W razie wniesienia zastrzeżenia zarządzenie asystenta sędziego traci moc"
     ],
-    "correct": []
+    "correct": [0,1,2]
   },
   {
     "question": "Proszę wskazać zdanie/a fałszywe:",
@@ -124,7 +107,7 @@
       "c. Nakaz zapłaty wydany w postępowaniu nakazowym staje się natychmiast wykonalny po upływie terminu do zaspokojenia roszczenia, ale tylko jeśli został wydany na podstawie weksla, czeku, warrantu lub rewersu",
       "d. wydany w postępowaniu nakazowym staje się natychmiast wykonalny po upływie terminu do zaspokojenia roszczenia"
     ],
-    "correct": []
+    "correct": [0,1,3]
   },
   {
     "question": "Proszę wskazać zdanie/-a fałszywe:",
