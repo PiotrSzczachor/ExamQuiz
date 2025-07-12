@@ -2,12 +2,15 @@
   {
     "question": "Proszę wskazać prawidłowe zestawienie:",
     "answers": [
-      "a. umowa dowodowa – postępowanie uproszczone, postępowanie w sprawach gospodarczych- art. 4589 k.p.c.",
-      "b. „świadko-biegły” – postępowanie w sprawach gospodarczych, postępowanie uproszczone- art. 5057 k.p.c.",
-      "c. dowód z przesłuchania świadka jako dowód subsydiarny – postępowanie w sprawach gospodarczych, art. 45810 k.p.c.",
-      "d. „świadko-biegły” – postępowanie uproszczone, art. 5057 k.p.c."
+      "a. umowa dowodowa – postępowanie uproszczone, postępowanie w sprawach gospodarczych",
+      "b. „świadko-biegły” – postępowanie w sprawach gospodarczych, postępowanie uproszczone",
+      "c. dowód z przesłuchania świadka jako dowód subsydiarny – postępowanie w sprawach gospodarczych",
+      "d. „świadko-biegły” – postępowanie uproszczone"
     ],
-    "correct": [2,3]
+    "correct": [
+      2,
+      3
+    ]
   },
   {
     "question": "Proszę wskazać zdanie fałszywe:",
@@ -17,7 +20,9 @@
       "c. Niedopuszczalne jest przywrócenie terminu do złożenia środka odwoławczego od wyroku orzekającego unieważnienie małżeństwa lub rozwód albo ustalającego nieistnienie małżeństwa, jeżeli choćby jedna ze stron zawarła po uprawomocnieniu się wyroku nowy związek małżeński",
       "d. Po upływie roku od uchybionego terminu, jego przywrócenie jest dopuszczalne w wyjątkowych przypadkach"
     ],
-    "correct": [0]
+    "correct": [
+      0
+    ]
   },
   {
     "question": "Wskaż zdanie fałszywe:",
@@ -27,7 +32,11 @@
       "c. W sprawach z zakresu prawa pracy sąd jest związany żądaniem pozwu",
       "d. W drodze tzw. umowy prorogację można zmienić właściwość wyłączną"
     ],
-    "correct": [0,1,3]
+    "correct": [
+      0,
+      1,
+      3
+    ]
   },
   {
     "question": "Proszę wskazać zdanie/-a fałszywe:",
@@ -37,7 +46,9 @@
       "c. W postępowaniu procesowym możliwe jest przekazanie sprawy do innego sądu równorzędnego, na wniosek strony, ze względów celowościowych",
       "d. Jeżeli wymaga tego dobro wymiaru sprawiedliwości Sąd Najwyższy może przekazać sprawę do rozpoznania innemu sądowi równorzędnemu"
     ],
-    "correct": [1,2]
+    "correct": [
+      2
+    ]
   },
   {
     "question": "Wskaż zdanie prawdziwe:",
@@ -47,17 +58,35 @@
       "c. w sprawach z zakresu prawa pracy sąd jest związany żądaniem pozwu",
       "d. wszystkie powyższe zdania są prawdziwe"
     ],
-    "correct": [2]
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Proszę wskazać zdanie (-a) fałszywe:",
+    "answers": [
+      "a. Od zarzutów od nakazu zapłaty pobiera się taką samą opłatę jak od pozwu w postępowaniu upominawczym",
+      "b. Od pozwu w postępowaniu elektronicznym upominawczym pobiera się taką samą opłatę jak od pozwu w postępowaniu nakazowym",
+      "c. Od sprzeciwu od nakazu zapłaty w postępowaniu elektronicznym upominawczym nie pobiera się opłaty, czyli tak samo jak w przypadku sprzeciwu od nakazu zapłaty w postępowaniu upominawczym",
+      "d. Czwartą część opłaty pobiera się od pozwu w postępowaniu upominawczym"
+    ],
+    "correct": [
+      0,
+      3
+    ]
   },
   {
     "question": "Proszę wskazać zdanie fałszywe:",
     "answers": [
-      "a. Zmiana trybu postępowania następuje w drodze postanowienia ()",
-      "b. Zmiana trybu postępowania następuje w drodze zarządzenia przewodniczącego ()",
-      "c. Decyzja o rozpoznaniu zgodnie z przepisami o postępowaniu upominawczym, sprawy wszczętej w postępowaniu zwykłym, zapada w formie postanowienia ()",
-      "d. Decyzja o rozpoznaniu zgodnie z przepisami o postępowaniu upominawczym, sprawy wszczętej w postępowaniu zwykłym, zapada w formie zarządzenia przewodniczącego ()"
+      "a. Zmiana trybu postępowania następuje w drodze postanowienia",
+      "b. Zmiana trybu postępowania następuje w drodze zarządzenia przewodniczącego",
+      "c. Decyzja o rozpoznaniu zgodnie z przepisami o postępowaniu upominawczym, sprawy wszczętej w postępowaniu zwykłym, zapada w formie postanowienia",
+      "d. Decyzja o rozpoznaniu zgodnie z przepisami o postępowaniu upominawczym, sprawy wszczętej w postępowaniu zwykłym, zapada w formie zarządzenia przewodniczącego"
     ],
-    "correct": [1,2]
+    "correct": [
+      1,
+      2
+    ]
   },
   {
     "question": "Proszę wskazać zdanie (-a) fałszywe:",
@@ -67,7 +96,25 @@
       "c. W postępowaniu w sprawach gospodarczych dowód z przesłuchania świadków jest dowodem subsydiarnym",
       "d. W postępowaniu cywilnym procesowym charakter subsydiarny ma zarówno dowód z przesłuchania stron jak i świadków"
     ],
-    "correct": [0,1,3]
+    "correct": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Wskaż zdanie (-a) fałszywe:",
+    "answers": [
+      "a. Postanowienia formalne stają się skuteczne z chwilą uprawomocnienia",
+      "b. Przywrócenie terminu nigdy nie jest możliwe po upływie roku od uchybionego terminu",
+      "c. W sprawach z zakresu prawa pracy sąd jest związany żądaniem pozwu",
+      "d. Wszystkie powyższe zdania są prawdziwe"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ]
   },
   {
     "question": "Proszę wskazać zdanie(-a) fałszywe:",
@@ -77,7 +124,11 @@
       "c. Uwzględnienie powództwa w całości zawsze pociąga za sobą konieczność obciążenia wszystkimi kosztami postępowania pozwanego",
       "d. Uwzględnienie powództwa w całości zawsze uniemożliwia zwrot kosztów procesu pozwanemu"
     ],
-    "correct": [0,2,3]
+    "correct": [
+      0,
+      2,
+      3
+    ]
   },
   {
     "question": "Proszę wskazać zdanie(-a) fałszywe:",
@@ -87,7 +138,11 @@
       "c. Zastrzeżenie od zarządzenia asystenta sędziego wymaga uzasadnienia",
       "d. W razie wniesienia zastrzeżenia zarządzenie asystenta sędziego nie traci mocy"
     ],
-    "correct": [0,2,3]
+    "correct": [
+      0,
+      2,
+      3
+    ]
   },
   {
     "question": "Proszę wskazać zdanie(-a) fałszywe:",
@@ -97,7 +152,11 @@
       "c. Do każdego zarządzenia asystenta sędziego można wnieść zastrzeżenie",
       "d. W razie wniesienia zastrzeżenia zarządzenie asystenta sędziego traci moc"
     ],
-    "correct": [0,1,2]
+    "correct": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "question": "Proszę wskazać zdanie/a fałszywe:",
@@ -107,7 +166,11 @@
       "c. Nakaz zapłaty wydany w postępowaniu nakazowym staje się natychmiast wykonalny po upływie terminu do zaspokojenia roszczenia, ale tylko jeśli został wydany na podstawie weksla, czeku, warrantu lub rewersu",
       "d. wydany w postępowaniu nakazowym staje się natychmiast wykonalny po upływie terminu do zaspokojenia roszczenia"
     ],
-    "correct": [0,1,3]
+    "correct": [
+      0,
+      1,
+      3
+    ]
   },
   {
     "question": "Proszę wskazać zdanie/-a fałszywe:",
@@ -117,37 +180,48 @@
       "c. Niedopuszczalne jest przywrócenie terminu do złożenia środka odwoławczego od wyroku orzekającego unieważnienie małżeństwa lub rozwód albo ustalającego nieistnienie małżeństwa, jeżeli choćby jedna ze stron zawarła po uprawomocnieniu się wyroku nowy związek małżeński",
       "d. Wszystkie powyższe zdania są fałszywe"
     ],
-    "correct": []
+    "correct": [
+      3
+    ]
   },
   {
     "question": "Proszę wskazać zdanie/-a fałszywe:",
     "answers": [
-      "a. Dowód z zeznań świadków jest dowodem subsydiarnym tylko w sprawach gospodarczych ()",
+      "a. Dowód z zeznań świadków jest dowodem subsydiarnym tylko w sprawach gospodarczych",
       "b. W postępowaniu uproszczonym nie jest możliwe przeprowadzenie dowodu z opinii biegłego",
-      "c. Instytucję świadka- biegłego można zastosować tylko w postępowaniu uproszczonym ()",
-      "d. Wszystkie powyższe zdania są prawdziwe ()"
+      "c. Instytucję świadka- biegłego można zastosować tylko w postępowaniu uproszczonym",
+      "d. Wszystkie powyższe zdania są prawdziwe"
     ],
-    "correct": []
+    "correct": [
+      1,
+      3
+    ]
   },
   {
     "question": "Proszę wskazać zdanie/-a fałszywe:",
     "answers": [
-      "a. Przepisy o postępowaniu uproszczonym stosuje się w postępowaniu przed sądami rejonowymi ()",
-      "b. Przepisy o postępowaniu upominawczym stosuje się tylko na wniosek powoda złożony w pozwie ()",
-      "c. Przepisy o postępowaniu gospodarczym stosuję się tylko, gdy zarówno powodem jak i pozwanym jest przedsiębiorca ()",
-      "d. Wszystkie powyższe zdania są prawdziwe ()"
+      "a. Przepisy o postępowaniu uproszczonym stosuje się w postępowaniu przed sądami rejonowymi",
+      "b. Przepisy o postępowaniu upominawczym stosuje się tylko na wniosek powoda złożony w pozwie",
+      "c. Przepisy o postępowaniu gospodarczym stosuję się tylko, gdy zarówno powodem jak i pozwanym jest przedsiębiorca",
+      "d. Wszystkie powyższe zdania są prawdziwe"
     ],
-    "correct": []
+    "correct": [
+      1,
+      2,
+      3
+    ]
   },
   {
     "question": "Proszę wskazać zdanie/-a prawdziwe:",
     "answers": [
       "a. Z przepisów o właściwości przemiennej można korzystać w sprawach przeciwko konsumentom",
-      "b. Umową prorogacyjną strony mogą zmienić właściwość rzeczową (- nie mogą)",
+      "b. Umową prorogacyjną strony mogą zmienić właściwość rzeczową",
       "c. W postępowaniu procesowym jest możliwe przekazanie sprawy do innego sądu równorzędnego, na wniosek strony, ze względów celowościowych",
-      "d. Wszystkie powyższe zdania są fałszywe ()"
+      "d. Wszystkie powyższe zdania są fałszywe"
     ],
-    "correct": []
+    "correct": [
+      3
+    ]
   },
   {
     "question": "Proszę wskazać zdanie/-a prawdziwe: BYŁO NA STACJONARNYCH",
@@ -157,7 +231,10 @@
       "c. Instytucję świadka- biegłego można zastosować w postępowaniu w sprawach gospodarczych",
       "d. Żadne z powyższych zdań nie jest prawdziwe."
     ],
-    "correct": []
+    "correct": [
+      0,
+      1
+    ]
   },
   {
     "question": "Proszę wskazać zdanie (-a) prawdziwe:",
@@ -167,17 +244,22 @@
       "c. Przepisy o postępowaniu gospodarczym stosuje się tylko, gdy zarówno powodem jak i pozwanym jest przedsiębiorca",
       "d. Przepisy o elektronicznym postępowaniu upominawczym mają zastosowanie tylko w sprawach o wartości przedmiotu sporu nie wyższej niż 75.000 zł"
     ],
-    "correct": []
+    "correct": [
+      1
+    ]
   },
   {
     "question": "Wskaż zdanie (-a) prawdziwe:",
     "answers": [
       "a. Postanowienie o zwolnieniu od kosztów sądowych jest zaskarżalne, ale nie przez wnioskodawcę",
       "b. Postanowienie w przedmiocie wniosku o ustanowienie pełnomocnika z urzędu doręcza się tylko stronie, która złożyła wniosek",
-      "c. Zwolnienie od kosztów sądowych w elektronicznym postępowaniu upominawczym nie jest możliwe - ALE WYROK TK",
-      "d. Wszystkie powyższe zdania są fałszywe ()"
+      "c. Zwolnienie od kosztów sądowych w elektronicznym postępowaniu upominawczym nie jest możliwe",
+      "d. Wszystkie powyższe zdania są fałszywe"
     ],
-    "correct": []
+    "correct": [
+      1,
+      2
+    ]
   },
   {
     "question": "Proszę wskazać zdanie/-a prawdziwe:",
@@ -187,21 +269,31 @@
       "c. Niedopuszczalne jest przywrócenie terminu do złożenia środka odwoławczego od wyroku orzekającego unieważnienie małżeństwa lub rozwód albo ustalającego nieistnienie małżeństwa, jeżeli choćby jedna ze stron zawarła po uprawomocnieniu się wyroku nowy związek małżeński",
       "d. Spóźniony lub z mocy ustawy niedopuszczalny wniosek o przywrócenie terminu sąd oddala"
     ],
-    "correct": []
+    "correct": [
+      2
+    ]
   },
   {
     "question": "Proszę wskazać zdanie prawdziwe:",
     "answers": [
-      "a. postanowienia wydane przez referendarzy sądowych w postępowaniu procesowym zaskarża się w taki sam sposób jak te wydane przez sąd (art. 39822 § 1 k.p.c.,"
+      "a. postanowienia wydane przez referendarzy sądowych w postępowaniu procesowym zaskarża się w taki sam sposób jak te wydane przez sąd (art. 39822 § 1 k.p.c.,",
+      "b. nakazy zapłaty wydane w postępowaniu nakazowym przez referendarzy sądowych zaskarża się w taki sam sposób jak te wydane przez sąd",
+      "c. nakazy zapłaty wydane w postępowaniu upominawczym przez referendarzy sądowych zaskarża się w taki sam sposób jak te wydane przez sąd",
+      "d. nakazy zapłaty wydane w postępowaniu elektronicznym upominawczym przez referendarzy sądowych zaskarża się w taki sam sposób jak te wydane przez sąd"
     ],
-    "correct": []
+    "correct": [
+      1,
+      2,
+      3
+    ]
   },
   {
     "question": "Proszę wskazać zdanie (-a) prawdziwe:",
     "answers": [
       "a. Od pozwu w postępowaniu upominawczym pobiera się taką samą opłatę jak od pozwu w postępowaniu nakazowym",
-      "u. o.k.s)",
-      "b. Od pozwu w postępowaniu elektronicznym upominawczym pobiera się taką samą opłatę jak od pozwu w postępowaniu nakazowym"
+      "b. Od pozwu w postępowaniu elektronicznym upominawczym pobiera się taką samą opłatę jak od pozwu w postępowaniu nakazowym",
+      "c. Od sprzeciwu od nakazu zapłaty w postępowaniu elektronicznym upominawczym pobiera się taką samą opłatę jak od zarzutów od nakazu zapłaty w postępowaniu nakazowym",
+      "d. Od sprzeciwu od nakazu zapłaty w postępowaniu upominawczym pobiera się taką samą opłatę jak od zarzutów od nakazu zapłaty w postępowaniu nakazowym"
     ],
     "correct": []
   },
@@ -213,7 +305,9 @@
       "c. Uwzględnienie powództwa w całości zawsze pociąga za sobą konieczność obciążenia wszystkimi kosztami postępowania pozwanego.",
       "d. Do niezbędnych kosztów procesu strony reprezentowanej przez adwokata zalicza się wynagrodzenie w kwocie realnie poniesionej przez stronę"
     ],
-    "correct": []
+    "correct": [
+      0
+    ]
   },
   {
     "question": "Proszę wskazać zdanie (-a) prawdziwe:",
@@ -221,19 +315,24 @@
       "a. W postępowaniu cywilnym sąd nie może dopuścić dowodu z opinii sporządzonej na zlecenie organu władzy publicznej w innym postępowaniu przewidzianym przez ustawę.",
       "b. Strona, która zaprzecza prawdziwości dokumentu urzędowego albo twierdzi, że zawarte w nim oświadczenia organu, od którego dokument ten pochodzi, są niezgodne z prawdą, powinna okoliczności te udowodnić",
       "c. W postępowaniu cywilnym dowód z przesłuchania stron jest dowodem subsydiarnym",
-      "d. W polskim postępowaniu cywilnym obowiązuje legalna teoria dowodowa ()"
+      "d. W polskim postępowaniu cywilnym obowiązuje legalna teoria dowodowa"
     ],
-    "correct": []
+    "correct": [
+      1,
+      2
+    ]
   },
   {
     "question": "Wskaż zdanie/a prawdziwe:",
     "answers": [
-      "a. Pozwany może przed pierwszym posiedzeniem wyznaczonym na rozprawę wnieść odpowiedź na pozew ()",
+      "a. Pozwany może przed pierwszym posiedzeniem wyznaczonym na rozprawę wnieść odpowiedź na pozew",
       "b. Przewodniczący musi zarządzić wniesienie odpowiedzi na pozew w wyznaczonym terminie, nie krótszym niż dwa tygodnie",
       "c. Niewniesienia przez pozwanego odpowiedzi na pozew skutkuje koniecznością wydania wyroku zaocznego",
       "d. Niewniesienie przez pozwanego odpowiedzi na pozew na zarządzenie przewodniczącego skutkuje bezwzględną koniecznością pominięcia zgłoszonych przez pozwanego w toku postępowania twierdzeń co do okoliczności faktycznych oraz dowodów"
     ],
-    "correct": []
+    "correct": [
+      1
+    ]
   },
   {
     "question": "Proszę wskazać zdanie (-a) prawdziwe:",
@@ -241,9 +340,13 @@
       "a. W postępowaniu cywilnym sąd może dopuścić dowód z opinii sporządzonej na zlecenie organu władzy publicznej w innym postępowaniu przewidzianym przez ustawę",
       "b. Fakty powszechnie znane nie wymagają dowodu, jednakże sąd powinien zwrócić na nieuwagę stron",
       "c. W postępowaniu cywilnym dowód z przesłuchania stron jest dowodem subsydiarnym",
-      "d. W postępowaniu w sprawach gospodarczych charakter subsydiarny ma zarówno dowód z przesłuchania stron jak i świadków ()"
+      "d. W postępowaniu w sprawach gospodarczych charakter subsydiarny ma zarówno dowód z przesłuchania stron jak i świadków"
     ],
-    "correct": []
+    "correct": [
+      0,
+      2,
+      3
+    ]
   },
   {
     "question": "Proszę wskazać zdanie prawdziwe:",
@@ -253,7 +356,9 @@
       "c. Przepisy o postępowaniu gospodarczym stosuję się tylko, gdy zarówno powodem jak i pozwanym jest przedsiębiorca",
       "d. Wszystkie powyższe zdania są fałszywe"
     ],
-    "correct": []
+    "correct": [
+      0
+    ]
   },
   {
     "question": "Proszę wskazać zdanie prawdziwe:",
@@ -263,7 +368,9 @@
       "c. Instytucję świadka-biegłego można zastosować w każdym postępowaniu",
       "d. Wszystkie powyższe zdania są prawdziwe"
     ],
-    "correct": []
+    "correct": [
+      0
+    ]
   },
   {
     "question": "Proszę wskazać zdanie prawdziwe:",
@@ -273,17 +380,21 @@
       "c. W postępowaniu procesowym jest możliwe przekazanie sprawy do innego sądu równorzędnego, na wniosek strony, ze względów celowościowych",
       "d. Umową prorogacyjną strony mogą zmienić właściwość rzeczową"
     ],
-    "correct": []
+    "correct": [
+      1
+    ]
   },
   {
     "question": "O właściwości miejscowej w postępowaniu nieprocesowym:",
     "answers": [
       "a. decyduje zawsze przepis dotyczący danej kategorii spraw",
       "b. decydują zawsze przepisy ogólne o postępowaniu nieprocesowym",
-      "c. decyduje przepis dotyczący danej kategorii spraw, a dopiero jeśli takiego nie ma, art. 508 k.p.c.",
+      "c. decyduje przepis dotyczący danej kategorii spraw, a dopiero jeśli takiego nie ma",
       "d. decydują stosowane odpowiednio przepisy o właściwości miejscowej w postępowaniu procesowym"
     ],
-    "correct": []
+    "correct": [
+      2
+    ]
   },
   {
     "question": "Umowa o właściwość:",
@@ -296,7 +407,13 @@
       "f. nie może zmienić właściwości rzeczowej",
       "g. może zostać zawarta przed jak i po powstaniu sporu"
     ],
-    "correct": []
+    "correct": [
+      0,
+      3,
+      4,
+      5,
+      6
+    ]
   },
   {
     "question": "Z zakresu właściwości rzeczowej sądu okręgowego wyłączone zostały sprawy:",
@@ -306,7 +423,11 @@
       "c. o zniesienie wspólności majątkowej między małżonkami",
       "d. wymienione w punktach a., b., i c., ale tylko jeśli wartość przedmiotu sporu nie przewyższa 75.000 złotych"
     ],
-    "correct": []
+    "correct": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "question": "Adam Nowak zamierza wnieść w postępowaniu upominawczym pozew o zapłatę wynagrodzenia z tytułu umowy o roboty budowlane. Jaki sąd będzie rzeczowo właściwy?",
@@ -316,7 +437,9 @@
       "c. sąd rejonowy, tylko wtedy gdy WPS nie przewyższa 75 000",
       "d. sąd okręgowy, tylko wtedy gdy WPS przewyższa 75 000"
     ],
-    "correct": []
+    "correct": [
+      3
+    ]
   },
   {
     "question": "Sąd właściwości ogólnej to:",
@@ -326,7 +449,10 @@
       "c. sąd miejsca pobytu powoda w Polsce, a gdy nie jest ono znane lub nie leży w Polsce – ostatnie miejsce zamieszkania powoda w Polsce",
       "d. sąd miejsca pobytu pozwanego w Polsce, a gdy nie jest ono znane lub nie leży w Polsce – ostatnie miejsce zamieszkania pozwanego w Polsce"
     ],
-    "correct": []
+    "correct": [
+      0,
+      3
+    ]
   },
   {
     "question": "Niewłaściwość miejscową w postępowaniu cywilnym sąd bierze pod rozwagę z urzędu:",
@@ -336,7 +462,9 @@
       "c. tylko do momentu wdania się w spór przez pozwanego, gdy jest to niewłaściwość dająca się usunąć za pomocą umowy stron",
       "d. tylko do momentu doręczenia pozwu, gdy jest to niewłaściwość dająca się usunąć za pomocą umowy stron"
     ],
-    "correct": []
+    "correct": [
+      3
+    ]
   },
   {
     "question": "Niewłaściwość rzeczową w postępowaniu cywilnym sąd bierze pod rozwagę z urzędu: BYŁO NA STACJONARNYCH",
@@ -346,7 +474,9 @@
       "c. tylko do momentu wdania się w spór przez pozwanego",
       "d. tylko do momentu doręczenia pozwu"
     ],
-    "correct": []
+    "correct": [
+      0
+    ]
   },
   {
     "question": "Właściwością wyłączną jest właściwość w sprawach:",
@@ -356,7 +486,11 @@
       "c. ze stosunku pomiędzy rodzicami a dziećmi oraz między przysposabiającymi a przysposobionymi",
       "d. o rozwód"
     ],
-    "correct": []
+    "correct": [
+      1,
+      2,
+      3
+    ]
   },
   {
     "question": "Niewłaściwość dającą się usunąć za pomocą umowy stron sąd bierze pod rozwagę z urzędu:",
@@ -369,7 +503,8 @@
     "correct": [
       2
     ]
-  },
+  }
+,
   {
     "question": "Sąd rejonowy w sprawie o zapłatę uznał, że jest niewłaściwy rzeczowo do rozpoznania sprawy. W tej sytuacji sąd:",
     "answers": [
