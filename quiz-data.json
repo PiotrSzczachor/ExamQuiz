@@ -1,0 +1,5500 @@
+[
+  {
+    "question": "Proszę wskazać prawidłowe zestawienie:",
+    "answers": [
+      "a. umowa dowodowa – postępowanie uproszczone, postępowanie w sprawach gospodarczych- art. 4589 k.p.c.",
+      "b. „świadko-biegły” – postępowanie w sprawach gospodarczych, postępowanie uproszczone- art. 5057 k.p.c.",
+      "c. dowód z przesłuchania świadka jako dowód subsydiarny – postępowanie w sprawach gospodarczych, art. 45810 k.p.c.",
+      "d. „świadko-biegły” – postępowanie uproszczone, art. 5057 k.p.c."
+    ],
+    "correct": []
+  },
+  {
+    "question": "Proszę wskazać zdanie fałszywe:",
+    "answers": [
+      "a. Wniosek o przywrócenie terminu rozpoznaje sąd przełożony nad sądem, w którym miała być dokonana czynność, co do której uchybiono terminowi.",
+      "b. Spóźniony lub z mocy ustawy niedopuszczalny wniosek o przywrócenie terminu sąd odrzuca",
+      "c. Niedopuszczalne jest przywrócenie terminu do złożenia środka odwoławczego od wyroku orzekającego unieważnienie małżeństwa lub rozwód albo ustalającego nieistnienie małżeństwa, jeżeli choćby jedna ze stron zawarła po uprawomocnieniu się wyroku nowy związek małżeński",
+      "d. Po upływie roku od uchybionego terminu, jego przywrócenie jest dopuszczalne w wyjątkowych przypadkach"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Wskaż zdanie fałszywe:",
+    "answers": [
+      "a. Wyrok opatrzony rygorem natychmiastowej wykonalności jest tytułem wykonawczym bez nadania mu klauzuli wykonalności)",
+      "b. Przywrócenie terminu nigdy nie jest możliwe po upływie roku od uchybionego terminu",
+      "c. W sprawach z zakresu prawa pracy sąd jest związany żądaniem pozwu",
+      "d. W drodze tzw. umowy prorogację można zmienić właściwość wyłączną"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Proszę wskazać zdanie/-a fałszywe:",
+    "answers": [
+      "a. Z przepisów o właściwości przemiennej nie można korzystać w sprawach przeciwko konsumentom",
+      "b. Umową prorogacyjną strony nie mogą zmienić właściwości rzeczowej ani miejscowej wyłącznej",
+      "c. W postępowaniu procesowym możliwe jest przekazanie sprawy do innego sądu równorzędnego, na wniosek strony, ze względów celowościowych",
+      "d. Jeżeli wymaga tego dobro wymiaru sprawiedliwości Sąd Najwyższy może przekazać sprawę do rozpoznania innemu sądowi równorzędnemu"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Wskaż zdanie prawdziwe:",
+    "answers": [
+      "a. przepisy o postępowaniu w sprawach gospodarczych mają zastosowanie tylko w sprawach pomiędzy przedsiębiorcami",
+      "b. przywrócenie terminu nigdy nie jest możliwe po upływie roku od uchybionego terminu",
+      "c. w sprawach z zakresu prawa pracy sąd jest związany żądaniem pozwu",
+      "d. wszystkie powyższe zdania są prawdziwe"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Proszę wskazać zdanie (-a) fałszywe:",
+    "answers": [
+      "a. Od zarzutów od nakazu zapłaty pobiera się taką samą opłatę jak od pozwu w postępowaniu upominawczym"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Proszę wskazać zdanie fałszywe:",
+    "answers": [
+      "a. Zmiana trybu postępowania następuje w drodze postanowienia ()",
+      "b. Zmiana trybu postępowania następuje w drodze zarządzenia przewodniczącego ()",
+      "c. Decyzja o rozpoznaniu zgodnie z przepisami o postępowaniu upominawczym, sprawy wszczętej w postępowaniu zwykłym, zapada w formie postanowienia ()",
+      "d. Decyzja o rozpoznaniu zgodnie z przepisami o postępowaniu upominawczym, sprawy wszczętej w postępowaniu zwykłym, zapada w formie zarządzenia przewodniczącego ()"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Proszę wskazać zdanie (-a) fałszywe:",
+    "answers": [
+      "a. W postępowaniu cywilnym sąd nie może dopuścić dowód z opinii sporządzonej na zlecenie organu władzy publicznej w innym postępowaniu przewidzianym przez ustawę",
+      "b. Fakty powszechnie znane nie wymagają dowodu, jednakże sąd powinien zwrócić na nieuwagę stron",
+      "c. W postępowaniu w sprawach gospodarczych dowód z przesłuchania świadków jest dowodem subsydiarnym",
+      "d. W postępowaniu cywilnym procesowym charakter subsydiarny ma zarówno dowód z przesłuchania stron jak i świadków"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Wskaż zdanie (-a) fałszywe:",
+    "answers": [
+      "a. Postanowienia formalne stają się skuteczne z chwilą uprawomocnienia (TEŻ)",
+      "b. Przywrócenie terminu nigdy nie jest możliwe po upływie roku od uchybionego terminu",
+      "c. W sprawach z zakresu prawa pracy sąd jest związany żądaniem pozwu",
+      "d. Wszystkie powyższe zdania są prawdziwe"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Proszę wskazać zdanie(-a) fałszywe:",
+    "answers": [
+      "a. Zasadą jest, że w postępowaniu cywilnym procesowym każda strona ponosi koszty swojego udziału w postępowaniu",
+      "b. Do niezbędnych kosztów procesu strony reprezentowanej przez adwokata zalicza się wynagrodzenie w kwocie wynikającej z rozporządzeń w przedmiocie stawek adwokatów i radców prawnych",
+      "c. Uwzględnienie powództwa w całości zawsze pociąga za sobą konieczność obciążenia wszystkimi kosztami postępowania pozwanego",
+      "d. Uwzględnienie powództwa w całości zawsze uniemożliwia zwrot kosztów procesu pozwanemu"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Proszę wskazać zdanie(-a) fałszywe:",
+    "answers": [
+      "a. Przewodniczący może uchylić lub zmienić zarządzenie asystenta tylko, jeśli wniesiono od niego zastrzeżenie",
+      "b. Zastrzeżenie od zarządzenia asystenta sędziego wniesione po upływie terminu podlega odrzuceniu",
+      "c. Zastrzeżenie od zarządzenia asystenta sędziego wymaga uzasadnienia",
+      "d. W razie wniesienia zastrzeżenia zarządzenie asystenta sędziego nie traci mocy"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Proszę wskazać zdanie(-a) fałszywe:",
+    "answers": [
+      "a. Asystent sędziego może wydać każde zarządzenie, którego wydanie leży w kompetencjach przewodniczącego",
+      "b. Asystent sędziego może wydać tylko zarządzenie o zwrocie pozwu i innego pisma procesowego",
+      "c. Do każdego zarządzenia asystenta sędziego można wnieść zastrzeżenie",
+      "d. W razie wniesienia zastrzeżenia zarządzenie asystenta sędziego traci moc"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Proszę wskazać zdanie/a fałszywe:",
+    "answers": [
+      "a. Nakaz zapłaty wydany w postępowaniu nakazowym z chwilą wydania stanowi tytuł zabezpieczenia, wykonalny bez nadawania mu klauzuli wykonalności ale tylko jeśli został wydany na podstawie weksla, czeku, warrantu lub rewersu",
+      "b. Nakaz zapłaty wydany w postępowaniu nakazowym z chwilą wydania stanowi tytuł zabezpieczenia, wykonalny po nadaniu mu klauzuli wykonalności",
+      "c. Nakaz zapłaty wydany w postępowaniu nakazowym staje się natychmiast wykonalny po upływie terminu do zaspokojenia roszczenia, ale tylko jeśli został wydany na podstawie weksla, czeku, warrantu lub rewersu",
+      "d. wydany w postępowaniu nakazowym staje się natychmiast wykonalny po upływie terminu do zaspokojenia roszczenia"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Proszę wskazać zdanie/-a fałszywe:",
+    "answers": [
+      "a. Po upływie roku od uchybionego terminu, jego przywrócenie jest dopuszczalne w wyjątkowych przypadkach",
+      "b. Spóźniony lub z mocy ustawy niedopuszczalny wniosek o przywrócenie terminu sąd odrzuca",
+      "c. Niedopuszczalne jest przywrócenie terminu do złożenia środka odwoławczego od wyroku orzekającego unieważnienie małżeństwa lub rozwód albo ustalającego nieistnienie małżeństwa, jeżeli choćby jedna ze stron zawarła po uprawomocnieniu się wyroku nowy związek małżeński",
+      "d. Wszystkie powyższe zdania są fałszywe"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Proszę wskazać zdanie/-a fałszywe:",
+    "answers": [
+      "a. Dowód z zeznań świadków jest dowodem subsydiarnym tylko w sprawach gospodarczych ()",
+      "b. W postępowaniu uproszczonym nie jest możliwe przeprowadzenie dowodu z opinii biegłego",
+      "c. Instytucję świadka- biegłego można zastosować tylko w postępowaniu uproszczonym ()",
+      "d. Wszystkie powyższe zdania są prawdziwe ()"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Proszę wskazać zdanie/-a fałszywe:",
+    "answers": [
+      "a. Przepisy o postępowaniu uproszczonym stosuje się w postępowaniu przed sądami rejonowymi ()",
+      "b. Przepisy o postępowaniu upominawczym stosuje się tylko na wniosek powoda złożony w pozwie ()",
+      "c. Przepisy o postępowaniu gospodarczym stosuję się tylko, gdy zarówno powodem jak i pozwanym jest przedsiębiorca ()",
+      "d. Wszystkie powyższe zdania są prawdziwe ()"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Proszę wskazać zdanie/-a prawdziwe:",
+    "answers": [
+      "a. Z przepisów o właściwości przemiennej można korzystać w sprawach przeciwko konsumentom",
+      "b. Umową prorogacyjną strony mogą zmienić właściwość rzeczową (- nie mogą)",
+      "c. W postępowaniu procesowym jest możliwe przekazanie sprawy do innego sądu równorzędnego, na wniosek strony, ze względów celowościowych",
+      "d. Wszystkie powyższe zdania są fałszywe ()"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Proszę wskazać zdanie/-a prawdziwe: BYŁO NA STACJONARNYCH",
+    "answers": [
+      "a. W postępowaniu uproszczonym co do zasady nie przeprowadza się posiedzenia przygotowawczego",
+      "b. Umowę dowodową można zawrzeć w postępowaniu w sprawach gospodarczych",
+      "c. Instytucję świadka- biegłego można zastosować w postępowaniu w sprawach gospodarczych",
+      "d. Żadne z powyższych zdań nie jest prawdziwe."
+    ],
+    "correct": []
+  },
+  {
+    "question": "Proszę wskazać zdanie (-a) prawdziwe:",
+    "answers": [
+      "a. Przepisy o postępowaniu uproszczonym stosuje się w postępowaniu przed sądami rejonowymi jak i okręgowymi",
+      "b. Przepisy o postępowaniu nakazowym stosuje się tylko na wniosek powoda złożony w pozwie",
+      "c. Przepisy o postępowaniu gospodarczym stosuje się tylko, gdy zarówno powodem jak i pozwanym jest przedsiębiorca",
+      "d. Przepisy o elektronicznym postępowaniu upominawczym mają zastosowanie tylko w sprawach o wartości przedmiotu sporu nie wyższej niż 75.000 zł"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Wskaż zdanie (-a) prawdziwe:",
+    "answers": [
+      "a. Postanowienie o zwolnieniu od kosztów sądowych jest zaskarżalne, ale nie przez wnioskodawcę",
+      "b. Postanowienie w przedmiocie wniosku o ustanowienie pełnomocnika z urzędu doręcza się tylko stronie, która złożyła wniosek",
+      "c. Zwolnienie od kosztów sądowych w elektronicznym postępowaniu upominawczym nie jest możliwe - ALE WYROK TK",
+      "d. Wszystkie powyższe zdania są fałszywe ()"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Proszę wskazać zdanie/-a prawdziwe:",
+    "answers": [
+      "a. Po upływie roku od uchybionego terminu, jego przywrócenie nie jest dopuszczalne",
+      "b. Wniosek o przywrócenie terminu rozpoznaje sąd nadrzędny wobec sądu, w którym sprawa się toczy i przed którym doszło do uchybienia terminu",
+      "c. Niedopuszczalne jest przywrócenie terminu do złożenia środka odwoławczego od wyroku orzekającego unieważnienie małżeństwa lub rozwód albo ustalającego nieistnienie małżeństwa, jeżeli choćby jedna ze stron zawarła po uprawomocnieniu się wyroku nowy związek małżeński",
+      "d. Spóźniony lub z mocy ustawy niedopuszczalny wniosek o przywrócenie terminu sąd oddala"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Proszę wskazać zdanie prawdziwe:",
+    "answers": [
+      "a. postanowienia wydane przez referendarzy sądowych w postępowaniu procesowym zaskarża się w taki sam sposób jak te wydane przez sąd (art. 39822 § 1 k.p.c.,"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Proszę wskazać zdanie (-a) prawdziwe:",
+    "answers": [
+      "a. Od pozwu w postępowaniu upominawczym pobiera się taką samą opłatę jak od pozwu w postępowaniu nakazowym",
+      "u. o.k.s)",
+      "b. Od pozwu w postępowaniu elektronicznym upominawczym pobiera się taką samą opłatę jak od pozwu w postępowaniu nakazowym"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Proszę wskazać zdanie (-a) prawdziwe:",
+    "answers": [
+      "a. Zasadą jest, że w postępowaniu cywilnym procesowym koszty procesu ponosi strona przegrywająca sprawę",
+      "b. Uwzględnienie powództwa w całości zawsze uniemożliwia zwrot kosztów procesu pozwanemu",
+      "c. Uwzględnienie powództwa w całości zawsze pociąga za sobą konieczność obciążenia wszystkimi kosztami postępowania pozwanego.",
+      "d. Do niezbędnych kosztów procesu strony reprezentowanej przez adwokata zalicza się wynagrodzenie w kwocie realnie poniesionej przez stronę"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Proszę wskazać zdanie (-a) prawdziwe:",
+    "answers": [
+      "a. W postępowaniu cywilnym sąd nie może dopuścić dowodu z opinii sporządzonej na zlecenie organu władzy publicznej w innym postępowaniu przewidzianym przez ustawę.",
+      "b. Strona, która zaprzecza prawdziwości dokumentu urzędowego albo twierdzi, że zawarte w nim oświadczenia organu, od którego dokument ten pochodzi, są niezgodne z prawdą, powinna okoliczności te udowodnić",
+      "c. W postępowaniu cywilnym dowód z przesłuchania stron jest dowodem subsydiarnym",
+      "d. W polskim postępowaniu cywilnym obowiązuje legalna teoria dowodowa ()"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Wskaż zdanie/a prawdziwe:",
+    "answers": [
+      "a. Pozwany może przed pierwszym posiedzeniem wyznaczonym na rozprawę wnieść odpowiedź na pozew ()",
+      "b. Przewodniczący musi zarządzić wniesienie odpowiedzi na pozew w wyznaczonym terminie, nie krótszym niż dwa tygodnie",
+      "c. Niewniesienia przez pozwanego odpowiedzi na pozew skutkuje koniecznością wydania wyroku zaocznego",
+      "d. Niewniesienie przez pozwanego odpowiedzi na pozew na zarządzenie przewodniczącego skutkuje bezwzględną koniecznością pominięcia zgłoszonych przez pozwanego w toku postępowania twierdzeń co do okoliczności faktycznych oraz dowodów"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Proszę wskazać zdanie (-a) prawdziwe:",
+    "answers": [
+      "a. W postępowaniu cywilnym sąd może dopuścić dowód z opinii sporządzonej na zlecenie organu władzy publicznej w innym postępowaniu przewidzianym przez ustawę",
+      "b. Fakty powszechnie znane nie wymagają dowodu, jednakże sąd powinien zwrócić na nieuwagę stron",
+      "c. W postępowaniu cywilnym dowód z przesłuchania stron jest dowodem subsydiarnym",
+      "d. W postępowaniu w sprawach gospodarczych charakter subsydiarny ma zarówno dowód z przesłuchania stron jak i świadków ()"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Proszę wskazać zdanie prawdziwe:",
+    "answers": [
+      "a. Przepisy o postępowaniu uproszczonym stosuje się w postępowaniu przed sądami rejonowymi",
+      "b. Przepisy o postępowaniu upominawczym stosuje się tylko na wniosek powoda złożony w pozwie",
+      "c. Przepisy o postępowaniu gospodarczym stosuję się tylko, gdy zarówno powodem jak i pozwanym jest przedsiębiorca",
+      "d. Wszystkie powyższe zdania są fałszywe"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Proszę wskazać zdanie prawdziwe:",
+    "answers": [
+      "a. Dowód z przesłuchania stron jest dowodem subsydiarnym",
+      "b. W postępowaniu uproszczonym nie jest możliwe przeprowadzenie dowodu z opinii biegłego",
+      "c. Instytucję świadka-biegłego można zastosować w każdym postępowaniu",
+      "d. Wszystkie powyższe zdania są prawdziwe"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Proszę wskazać zdanie prawdziwe:",
+    "answers": [
+      "a. Z przepisów o właściwości przemiennej można korzystać w sprawach przeciwko konsumentom",
+      "b. Apelacja jest środkiem zaskarżenia o charakterze dewolutywnym.",
+      "c. W postępowaniu procesowym jest możliwe przekazanie sprawy do innego sądu równorzędnego, na wniosek strony, ze względów celowościowych",
+      "d. Umową prorogacyjną strony mogą zmienić właściwość rzeczową"
+    ],
+    "correct": []
+  },
+  {
+    "question": "O właściwości miejscowej w postępowaniu nieprocesowym:",
+    "answers": [
+      "a. decyduje zawsze przepis dotyczący danej kategorii spraw",
+      "b. decydują zawsze przepisy ogólne o postępowaniu nieprocesowym",
+      "c. decyduje przepis dotyczący danej kategorii spraw, a dopiero jeśli takiego nie ma, art. 508 k.p.c.",
+      "d. decydują stosowane odpowiednio przepisy o właściwości miejscowej w postępowaniu procesowym"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Umowa o właściwość:",
+    "answers": [
+      "a. to inaczej umowa prorogacyjna",
+      "b. może zmienić zarówno właściwość miejscową jak i rzeczową",
+      "c. może dotyczyć tylko sprawy, która ma być rozpoznawana w postępowaniu w sprawach gospodarczych",
+      "d. nie uniemożliwia powodowi skorzystania z elektronicznego postępowania upominawczego także wtedy, kiedy strony umówiły się, że właściwy będzie sąd inny niż Sąd Rejonowy Lublin-Zachód w Lublinie",
+      "e. nie może zostać zawarta w sprawach rozpoznawanych w postępowaniu nieprocesowym.",
+      "f. nie może zmienić właściwości rzeczowej",
+      "g. może zostać zawarta przed jak i po powstaniu sporu"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Z zakresu właściwości rzeczowej sądu okręgowego wyłączone zostały sprawy:",
+    "answers": [
+      "a. o alimenty",
+      "b. o naruszenie posiadania",
+      "c. o zniesienie wspólności majątkowej między małżonkami",
+      "d. wymienione w punktach a., b., i c., ale tylko jeśli wartość przedmiotu sporu nie przewyższa 75.000 złotych"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Adam Nowak zamierza wnieść w postępowaniu upominawczym pozew o zapłatę wynagrodzenia z tytułu umowy o roboty budowlane. Jaki sąd będzie rzeczowo właściwy?",
+    "answers": [
+      "a. sąd rejonowy, bez względu na WPS",
+      "b. sąd okręgowy, bez względu na WPS",
+      "c. sąd rejonowy, tylko wtedy gdy WPS nie przewyższa 75 000",
+      "d. sąd okręgowy, tylko wtedy gdy WPS przewyższa 75 000"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Sąd właściwości ogólnej to:",
+    "answers": [
+      "a. co do zasady sąd miejsca zamieszkania pozwanego",
+      "b. co do zasady sąd miejsca zamieszkania powoda",
+      "c. sąd miejsca pobytu powoda w Polsce, a gdy nie jest ono znane lub nie leży w Polsce – ostatnie miejsce zamieszkania powoda w Polsce",
+      "d. sąd miejsca pobytu pozwanego w Polsce, a gdy nie jest ono znane lub nie leży w Polsce – ostatnie miejsce zamieszkania pozwanego w Polsce"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Niewłaściwość miejscową w postępowaniu cywilnym sąd bierze pod rozwagę z urzędu:",
+    "answers": [
+      "a. tylko wtedy, gdy zachodzi przypadek właściwości wyłącznej",
+      "b. nigdy",
+      "c. tylko do momentu wdania się w spór przez pozwanego, gdy jest to niewłaściwość dająca się usunąć za pomocą umowy stron",
+      "d. tylko do momentu doręczenia pozwu, gdy jest to niewłaściwość dająca się usunąć za pomocą umowy stron"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Niewłaściwość rzeczową w postępowaniu cywilnym sąd bierze pod rozwagę z urzędu: BYŁO NA STACJONARNYCH",
+    "answers": [
+      "a. zawsze i na każdym etapie postępowania",
+      "b. nigdy",
+      "c. tylko do momentu wdania się w spór przez pozwanego",
+      "d. tylko do momentu doręczenia pozwu"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Właściwością wyłączną jest właściwość w sprawach:",
+    "answers": [
+      "a. o własność lub inne prawa rzeczowe",
+      "b. o własność lub inne prawa rzeczowe, ale tylko na nieruchomości",
+      "c. ze stosunku pomiędzy rodzicami a dziećmi oraz między przysposabiającymi a przysposobionymi",
+      "d. o rozwód"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Niewłaściwość dającą się usunąć za pomocą umowy stron sąd bierze pod rozwagę z urzędu:",
+    "answers": [
+      "a. w każdym stanie sprawy",
+      "b. tylko do zakończenia postępowania w I instancji",
+      "c. tylko do czasu doręczenia pozwu",
+      "d. żadna z odpowiedzi nie jest prawidłowa"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Sąd rejonowy w sprawie o zapłatę uznał, że jest niewłaściwy rzeczowo do rozpoznania sprawy. W tej sytuacji sąd:",
+    "answers": [
+      "a. mimo wszystko powinien prowadzić postępowanie",
+      "b. powinien zarządzeniem przekazać sprawę do sądu właściwego",
+      "c. powinien postanowieniem przekazać sprawę do sądu właściwego",
+      "d. powinien prowadzić postępowanie, chyba że pozwany przed wdaniem się w spór co do istoty sprawy podniósł zarzut niewłaściwości sądu"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Sąd rejonowy w sprawie o zapłatę stwierdził, że jest niewłaściwy miejscowo do rozpoznania sprawy, gdyż ogólnie właściwy jest inny sąd rejonowy. W tej sytuacji sąd:",
+    "answers": [
+      "a. Prowadzi postępowanie, dopóki pozwany nie podniesie zarzutu niewłaściwości i wówczas przekazuje sprawę do sądu właściwego, bez względu na moment, w którym pozwany podniesie zarzut",
+      "b. Powinien z urzędu zarządzeniem przekazać sprawę do sądu właściwego",
+      "c. Powinien z urzędu postanowieniem przekazać sprawę do sądu właściwego",
+      "d. przekazuje sprawę do sądu właściwego na zarzut pozwanego, ale tylko jeśli zostanie on zgłoszony przed wdaniem się w spór"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Sąd okręgowy w sprawie o zapłatę uznał, że jest niewłaściwy rzeczowo do rozpoznania sprawy. W tej sytuacji sąd powinien:",
+    "answers": [
+      "a. przekazać zarządzeniem sprawę do sądu właściwego",
+      "b. przekazać postanowieniem sprawę do sądu właściwego, które to postanowienie będzie niezaskarżalne",
+      "c. przekazać postanowieniem sprawę do sądu właściwego, które to postanowienie będzie zaskarżalne",
+      "d. przekazać postanowieniem sprawę do sądu właściwego, które to postanowienie będzie zaskarżalne, ale tylko dla powoda"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "W postępowaniu procesowym sądem pierwszej instancji może być:",
+    "answers": [
+      "a. sąd rejonowy",
+      "b. sąd okręgowy",
+      "c. sąd apelacyjny",
+      "d. sąd najwyższy"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Sądem I instancji w postępowaniu procesowym jest sąd okręgowy:",
+    "answers": [
+      "a. w sprawach z zakresu własności intelektualnej",
+      "b. w sprawach o uzgodnienie treści księgi wieczystej z rzeczywistym stanem prawnym bez względu na wartość przedmiotu sporu",
+      "c. we wszystkich sprawach o prawa niemajątkowe",
+      "d. we wszystkich sprawach o prawa majątkowe, w których wartość przedmiotu sporu przewyższa 75.000 zł"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Sądem I instancji w postępowaniu procesowym nie jest sąd okręgowy w sprawach o:",
+    "answers": [
+      "a. alimenty",
+      "b. rozwód",
+      "c. uchylenie, stwierdzenie nieważności albo o ustalenie istnienia lub nieistnienia uchwał organów osób prawnych",
+      "d. roszczenia wynikające z naruszenia praw przysługujących na mocy przepisów o ochronie danych osobowych"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Sprawy należące do postępowania procesowego rozpoznają w I instancji:",
+    "answers": [
+      "a. tylko sądy rejonowe",
+      "b. tylko sądy okręgowe",
+      "c. co do zasady sądy rejonowe",
+      "d. co do zasady sądy okręgowe"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Sprawy należące do postępowania nieprocesowego rozpoznają w I instancji co do zasady:",
+    "answers": [
+      "a. sądy rejonowe",
+      "b. sądy okręgowe",
+      "c. sądy apelacyjne",
+      "d. Sąd Najwyższy"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Sprawy należące do postępowania nieprocesowego rozpoznają w I instancji wyjątkowo:",
+    "answers": [
+      "a. sądy rejonowe",
+      "b. sądy okręgowe",
+      "c. sądy apelacyjne",
+      "d. Sąd Najwyższy?"
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "W postępowaniu procesowym w pierwszej instancji co do zasady właściwe są:",
+    "answers": [
+      "a. sądy rejonowe",
+      "b. sądy okręgowe",
+      "c. sądy apelacyjne",
+      "d. Sąd Najwyższy"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Sądem i instancji nie jest sąd okręgowy:",
+    "answers": [
+      "a. o separację (sąd okręgowy)",
+      "b. z zakresu prawa prasowego  k.p.c., sąd okręgowy)",
+      "c. o ochronę posiadania (sąd rejonowy)",
+      "d. o uzgodnienie treści księgi wieczystej z rzeczywistym stanem prawnym, ale tylko jeśli wartość przedmiotu sporu nie przekracza 75.000zł"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Wyłącznie do właściwości sądu rejonowego należą sprawy rozpoznawane w postępowaniu:",
+    "answers": [
+      "a. upominawczym.",
+      "b. EPU",
+      "c. nakazowym.",
+      "d. uproszczonym"
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Wniosek o wyłączenie komornika:",
+    "answers": [
+      "a. jest niedopuszczalny",
+      "b. podlega rozpoznaniu przez prezesa izby komorniczej, do której należy komornik",
+      "c. podlega rozpoznaniu przez sąd rejonowy właściwy ze względu na siedzibę kancelarii komornika",
+      "d. podlega rozpoznaniu przez sąd okręgowy właściwy ze względu na siedzibę kancelarii komornika"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Wniosek o wyłączenie sędziego złożony po raz kolejny co do tego samego sędziego z powołaniem tych samych okoliczności:",
+    "answers": [
+      "a. podlega odrzuceniu",
+      "b. podlega oddaleniu",
+      "c. podlega zwrotowi",
+      "d. pozostawia się w aktach sprawy bez żadnych dalszych czynności"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Wezwanie do uzupełnienia braków pisma procesowego:",
+    "answers": [
+      "a. następuje w formie postanowienia sądu X",
+      "b. musi zawierać dokładne oznaczenie braków formalnych, które mają być uzupełnione",
+      "c. musi zawierać oznaczenie terminu, w którym braki muszą zostać uzupełnione",
+      "d. musi określać skutek niezachowania terminu"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Skutkiem nieuzupełnienia w terminie braków pisma procesowego jest jego zwrot w przypadku",
+    "answers": [
+      "a. pozwu",
+      "b. wniosku o wszczęcie postępowania nieprocesowego",
+      "c. zażalenia",
+      "d. skargi na orzeczenie referendarza"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Skutkiem nieuzupełnienia w terminie braków pisma procesowego jest jego zwrot w przypadku:",
+    "answers": [
+      "a. pozwu",
+      "b. wniosku o zwolnienie od kosztów sądowych",
+      "c. apelacji",
+      "d. wniosku o przywrócenie terminu"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Skutkiem nieuzupełnienia w terminie braków pisma procesowego jest jego zwrot w przypadku: BYŁO NA STACJONARNYCH",
+    "answers": [
+      "a. apelacji",
+      "b. pozwu",
+      "c. zażalenia",
+      "d. zarzutów od nakazu zapłaty"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Skutkiem nieuzupełnienia w terminie braków pisma procesowego jest jego odrzucenie w przypadku:",
+    "answers": [
+      "a. pozwu",
+      "b. wniosku o zwolnienie od kosztów sądowych",
+      "c. skargi na orzeczenie referendarza",
+      "d. zażalenia",
+      "e. apelacji",
+      "f. sprzeciwu od wyroku zaocznego",
+      "g. skargi kasacyjnej",
+      "h. skargi na czynność komornika"
+    ],
+    "correct": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "question": "Referendarz sądowy może wydać nakaz zapłaty w postępowaniu: BYŁO NA STACJO",
+    "answers": [
+      "a. upominawczym",
+      "b. elektronicznym upominawczym",
+      "c. nakazowym",
+      "d. żadna z odpowiedzi nie jest prawidłowa"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Referendarz sądowy nie może wydać nakazu zapłaty w postępowaniu: było na stacjo",
+    "answers": [
+      "a. upominawczym",
+      "b. elektronicznym upominawczym",
+      "c. nakazowym",
+      "d. żadna z odpowiedzi nie jest prawidłowa"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Skargę na orzeczenie referendarza wnosi się do:",
+    "answers": [
+      "a. sądu, w którym działa referendarz",
+      "b. sądu II instancji, w stosunku do sądu, w którym działa referendarz",
+      "c. referendarza",
+      "d. prezesa sądu, w którym działa referendarz"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Do rozpoznania skargi na orzeczenie referendarza sądowego właściwy jest:",
+    "answers": [
+      "a. sąd nadrzędny nad sądem, w którym orzeka referendarz",
+      "b. sąd, w którym orzeka referendarz",
+      "c. odpowiedź a. i b., w zależności od WPZ",
+      "d. żadna z odpowiedzi nie jest prawidłowa"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Możliwość dokonania tzw. autokorekty ma miejsce w przypadku wniesienia:",
+    "answers": [
+      "a. zarzutów od nakazu zapłaty",
+      "b. zażalenia",
+      "c. skargi na orzeczenie referendarza",
+      "d. sprzeciwu od wyroku zaocznego"
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Możliwość dokonania tzw. autokorekty istnieje w przypadku wniesienia:",
+    "answers": [
+      "a. sprzeciwu od wyroku zaocznego",
+      "b. apelacji",
+      "c. zażalenia",
+      "d. sprzeciwu od nakazu zapłaty"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Zastosowanie przez sąd I instancji tzw. autokorekty jest możliwe w przypadku wniesienia:",
+    "answers": [
+      "a. tylko zażalenia",
+      "b. tylko apelacji",
+      "c. sprzeciwu od wyroku zaocznego",
+      "d. zarzutów od nakazu zapłaty"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Możliwość dokonania tzw. autokorekty nie ma miejsca w przypadku wniesienia:",
+    "answers": [
+      "a. sprzeciwu od wyroku zaocznego",
+      "b. zażalenia",
+      "c. skargi na orzeczenie referendarza",
+      "d. skargi na czynność komornika"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Nie ma możliwości dokonania tzw. autokorekty w przypadku wniesienia:",
+    "answers": [
+      "a. skargi na czynność komornika",
+      "b. apelacji",
+      "c. skargi na orzeczenie referendarza",
+      "d. sprzeciwu od nakazu zapłaty"
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Na orzeczenie o zwrocie kosztów procesu zawarte w wyroku przysługuje:",
+    "answers": [
+      "a. zawsze apelacja",
+      "b. zawsze zażalenie",
+      "c. apelacja, jeżeli strona kwestionuje także rozstrzygniecie co do istoty sprawy",
+      "d. zażalenie, jeżeli strona kwestionuje tylko rozstrzygnięcie o kosztach"
+    ],
+    "correct": [
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Zwolnienie od kosztów sądowych:",
+    "answers": [
+      "a. jest możliwe w każdym postępowaniu",
+      "b. nie jest możliwe w każdym postępowaniu nieprocesowym",
+      "c. może nastąpić tylko na wniosek",
+      "d. może uzyskać także osoba prawna"
+    ],
+    "correct": [
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Zwolnienie od kosztów sądowych na wniosek nie jest możliwe w postępowaniu:",
+    "answers": [
+      "a. w sprawach z zakresu prawa pracy, ale tylko w odniesieniu do pracodawcy",
+      "b. elektronicznym upominawczym",
+      "c. uproszczonym",
+      "d. w sprawach gospodarczych"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Nie pobiera się opłaty od:",
+    "answers": [
+      "a. zarzutów od nakazu zapłaty",
+      "b. sprzeciwu od nakazu zapłaty w postępowaniu upominawczym",
+      "c. sprzeciwu od nakazu zapłaty w postępowaniu elektronicznym upominawczym",
+      "d. żadna z odpowiedzi nie jest prawidłowa"
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Opłatę pobiera się od:",
+    "answers": [
+      "a. zarzutów od nakazu zapłaty (3/4 opłaty)",
+      "b. sprzeciwu od nakazu zapłaty w postępowaniu upominawczym",
+      "c. sprzeciwu od nakazu zapłaty w postępowaniu elektronicznym upominawczym",
+      "d. żadna z odpowiedzi nie jest prawidłowa"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Od zarzutów od nakazu zapłaty:",
+    "answers": [
+      "a. pobiera się całą opłatę",
+      "b. pobiera się 3/4 opłaty",
+      "c. pobiera się 1/4 opłaty",
+      "d. nie pobiera się opłaty"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Od sprzeciwu od nakazu zapłaty:",
+    "answers": [
+      "a. pobiera się całą opłatę",
+      "b. pobiera się ¾ opłaty",
+      "c. pobiera się ¼ opłaty",
+      "d. nie pobiera się opłaty"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Opłata od wniosku o uzasadnienie postanowienia wydanego na posiedzeniu niejawnym wynosi:",
+    "answers": [
+      "a. 50 zł",
+      "b. 100 zł",
+      "c. Żadna z odpowiedzi nie jest prawidłowa, bo taki wniosek nie podlega opłacie",
+      "d. Żadna z odpowiedzi nie jest prawidłowa, bo uzasadnienia są zawsze sporządzane z urzędu"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Od wniosków o wszczęcie postępowania nieprocesowego pobierane są opłaty:",
+    "answers": [
+      "a. stałe",
+      "b. stosunkowe",
+      "c. stałe albo stosunkowe, w zależności od przedmiotu sprawy",
+      "d. żadna z odpowiedzi nie jest prawidłowa gdyż od wniosków o wszczęcie postępowania nieprocesowego nie pobiera się opłaty"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "W sprawie o zapłatę kwoty 5. 000 000 zł należnej tytułem wynagrodzenia z umowy o roboty budowlane należy uiścić opłatę w wysokości:",
+    "answers": [
+      "a. 50.000",
+      "b. 100.000",
+      "c. 200.000- 5%, max. 200.000",
+      "d. 250.000"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Od pozwu w postępowaniu „zwykłym” o zapłatę kwoty 50.000 zł tytułem wynagrodzenia z umowy o dzieło należy uiścić opłatę w wysokości:",
+    "answers": [
+      "a. 1000",
+      "b. 1500",
+      "c. 2000",
+      "d. 2500 (5%)"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Od pozwu w postępowaniu „zwykłym” o zapłatę kwoty 100.000 zł tytułem wynagrodzenia z umowy o roboty budowlane należy uiścić opłatę w wysokości:",
+    "answers": [
+      "a. 1000",
+      "b. 2500",
+      "c. 5000 (5%)",
+      "d. 7500"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Od pozwu w postępowaniu zwykłym o zapłatę kwoty 200.000,00 zł należy uiścić opłatę w wysokości (całość opłaty, 5%):",
+    "answers": [
+      "a. 5 000 zł",
+      "b. 10 000 zł",
+      "c. 15 000 zł",
+      "d. 25 000 zł"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Od pozwu w postępowaniu nakazowym o zapłatę kwoty 100.000,00 zł należy uiścić opłatę w wysokości (1/4 opłaty):",
+    "answers": [
+      "a. 1000 zł",
+      "b. 1250 zł",
+      "c. 2500 zł",
+      "d. 3750 zł"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Od pozwu w postępowaniu elektronicznym upominawczym pobiera się:",
+    "answers": [
+      "a. opłatę taką jak od pozwu w postępowaniu upominawczym (całą)",
+      "b. opłatę taką jak od pozwu w postępowaniu nakazowym",
+      "c. czwartą część opłaty",
+      "d. opłatę taką jak od zarzutów od nakazu zapłaty"
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Od pozwu w postępowaniu upominawczym pobiera się:",
+    "answers": [
+      "a. opłatę taką jak od pozwu w postępowaniu elektronicznym upominawczym",
+      "b. całą opłatę",
+      "c. czwartą część opłaty",
+      "d. 3/4 opłaty"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Czwartą część opłaty pobiera się od pozwu w postępowaniu:",
+    "answers": [
+      "a. upominawczym",
+      "b. elektronicznym upominawczym",
+      "c. nakazowym",
+      "d. uproszczonym"
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Od pozwu w sprawach o prawa majątkowe pobiera się co do zasady opłatę:",
+    "answers": [
+      "a. stałą",
+      "b. stosunkową",
+      "c. stałą określoną „widełkowo”, ale tylko przy wartości przedmiotu sporu do 20.000 zł włącznie",
+      "d. stosunkowo w wysokości 10% wartości przedmiotu sporu przy wartości przedmiotu sporu powyżej 20.000 złotych (nie, bo 5%)"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Jan Powodowy zamierza złożyć pozew do SR Lublin – Zachód w Lublinie w postępowaniu elektronicznym upominawczym o zapłatę kwoty 100.000 zł z tytułu wynagrodzenia za roboty budowlane. Od pozwu powinien uiścić opłatę w wysokości ( ¼ opłaty):",
+    "answers": [
+      "a. 1.250 zł",
+      "b. 2.500 zł",
+      "c. 5.000 zł",
+      "d. Jan Powodowy nie powinien składać pozwu do tego sądu, ponieważ ze względu na wartość przedmiotu sporu nie jest on właściwy w tej sprawie."
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Na postanowienia wpadkowe sądu II instancji:",
+    "answers": [
+      "a. zawsze przysługuje skarga kasacyjna",
+      "b. zawsze przysługuje apelacja",
+      "c. przysługuje tzw. zażalenie poziome, ale tylko w przypadku postanowień dotyczących wymienionych w k.p.c. kwestii innych niż te wydane w wyniku rozpoznania zażalenia na postanowienie sądu I instancji",
+      "d. przysługuje tzw. postanowienie poziome w przypadku wszystkich postanowień z wyjątkiem tych wydanych w wyniku rozpoznawania zażalenia na postanowienie sądu I instancji X"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Sąd z urzędu uzasadnia wydane na posiedzeniu niejawnym zaskarżalne postanowienia „wpadkowe”",
+    "answers": [
+      "a. zawsze",
+      "b. w sprawach rozpoznawanych w elektronicznym postępowaniu upominawczym",
+      "c. w sprawach rozpoznawanych w postępowaniu uproszczonym",
+      "d. w postępowaniu egzekucyjnym"
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Sąd z urzędu uzasadnia wydane na posiedzeniu niejawnym zaskarżalne postanowienia „wpadkowe”:",
+    "answers": [
+      "a. zawsze",
+      "b. w sprawach rozpoznawanych w elektronicznym postępowaniu upominawczym",
+      "c. w sprawach rozpoznawanych w postępowaniu gospodarczym",
+      "d. w postępowaniu egzekucyjnym"
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Sąd z urzędu uzasadnia wydane na posiedzeniu niejawnym zaskarżalne postanowienia „wpadkowe”:",
+    "answers": [
+      "a. nigdy",
+      "b. w sprawach rozpoznawanych w elektronicznym postępowaniu upominawczym",
+      "c. w sprawach rozpoznawanych w postępowaniu w sprawach z zakresu prawa pracy",
+      "d. w postępowaniu zabezpieczającym"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Sąd z urzędu uzasadnia wydane na posiedzeniu niejawnym zaskarżalne postanowienia „wpadkowe”:",
+    "answers": [
+      "a. nigdy",
+      "b. w postępowaniu nieprocesowym",
+      "c. w sprawach rozpoznawanych w postępowaniu w sprawach z zakresu prawa pracy",
+      "d. w postępowaniu egzekucyjnym"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "W postępowaniu cywilnym postanowienia formalne (niemerytoryczne):",
+    "answers": [
+      "a. muszą być wydawane na rozprawie",
+      "b. mogą być wydawane na rozprawie",
+      "c. mogą być zawsze wydawane na posiedzeniach niejawnych",
+      "d. mogą być wydawane na posiedzeniach niejawnych, tylko kiedy k.p.c. tak stanowi"
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Sąd I instancji uzasadnia z urzędu postanowienia formalne:",
+    "answers": [
+      "a. wydane na posiedzeniu niejawnym",
+      "b. wydane na posiedzeniu niejawnym, ale tylko jeśli podlegają one zaskarżeniu",
+      "c. wydane na posiedzeniu niejawnym w elektronicznym postępowaniu upominawczym, ale tylko jeśli podlegają one zaskarżeniu",
+      "d. wydane na posiedzeniu niejawnym w postępowaniu egzekucyjnym, ale tylko jeśli podlegają one zaskarżeniu"
+    ],
+    "correct": [
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Na postanowienie (niemerytoryczne) sądu II instancji:",
+    "answers": [
+      "a. zawsze przysługuje skarga kasacyjna",
+      "b. zawsze przysługuje apelacja",
+      "c. przysługuje tzw. zażalenie poziome, ale tylko w przypadku postanowień dotyczących wymienionych w k.p.c. kwestii innych niż te wydane w wyniku rozpoznania zażalenia na postanowienia sądu I instancji",
+      "d. przysługuje tzw. zażalenie poziome, w przypadku wszystkich postanowień z wyjątkiem tych wydanych w wyniku rozpoznania zażalenia na postanowienie sądu I instancji"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "W postępowaniu cywilnym w składzie będącym zasadą, sad I instancji orzeka:",
+    "answers": [
+      "a. w sprawach gospodarczych",
+      "b. rozpoznając wniosek o wyłączenie sędziego",
+      "c. we wszystkich sprawach rozpoznawanych w postępowaniu uproszczonym"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "W postępowaniu cywilnym w składzie będący zasadą, sąd i instancji orzeka:",
+    "answers": [
+      "a. w sprawach o ubezwłasnowolnienie",
+      "b. we wskazanych w k.p.c. sprawach z zakresu prawa pracy  k.p.c.; 1 sędzia + 2 ławników)",
+      "c. we wszystkich sprawach ze stosunków rodzinnych",
+      "d. w sprawach o przysposobienie"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "question": "W postępowaniu cywilnym w składzie innym niż będący zasadą, sąd i instancji orzeka:",
+    "answers": [
+      "a. we wszystkich sprawach rozpoznawanych w postępowaniu nieprocesowym",
+      "b. we wszystkich sprawach z zakresu prawa pracy",
+      "c. we wskazanych w k.p.c. sprawach ze stosunków rodzinnych",
+      "d. w sprawach o ubezwłasnowolnienie"
+    ],
+    "correct": [
+      2,
+      3
+    ]
+  },
+  {
+    "question": "W postępowaniu cywilnym procesowym w składzie innym niż będący zasadą, sąd I instancji orzeka: BYŁO NA STACJO",
+    "answers": [
+      "a. w sprawach o ubezwłasnowolnienie",
+      "b. we wskazanych w k.p.c. sprawach z zakresu prawa pracy",
+      "c. we wszystkich sprawach ze stosunków rodzinnych",
+      "d. w sprawach o przysposobienie"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "W postępowaniu cywilnym procesowym w składzie innym niż będący zasadą, sąd I instancji orzeka:",
+    "answers": [
+      "a. w sprawach o ochronę dóbr osobistych",
+      "b. we wskazanych w k.p.c. sprawach z zakresu prawa pracy",
+      "c. we wszystkich sprawach ze stosunków rodzinnych",
+      "d. w sprawach, w których WPS wynosi ponad 75.000 zł"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "W postępowaniu cywilnym procesowym w składzie innym niż będący zasadą, sąd I instancji orzeka:",
+    "answers": [
+      "a. w sprawach z zakresu własności intelektualnej",
+      "b. we wskazanych w k.p.c. sprawach z zakresu prawa pracy  k.p.c., 1 sędzia + 2 ławników)",
+      "c. we wszystkich sprawach ze stosunków rodzinnych",
+      "d. w sprawach gospodarczych"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "W postępowaniu cywilnym procesowym w składzie innym niż będący zasadą, sąd I instancji orzeka:",
+    "answers": [
+      "a. w sprawach o ochronę posiadania",
+      "b. we wskazanych w k.p.c. sprawach ze stosunków rodzinnych",
+      "c. we wszystkich sprawach z zakresu prawa pracy",
+      "d. żadna z odpowiedzi nie jest prawidłowa"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Sąd w składzie jednego sędziego rozpoznaje:",
+    "answers": [
+      "a. apelacje w postępowaniu uproszczonym",
+      "b. zażalenia w elektronicznym postępowaniu upominawczym",
+      "c. wszystkie sprawy z zakresu prawa pracy -",
+      "d. wnioski u ubezwłasnowolnienie (3 sędziów)"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Sąd II instancji rozpoznając apelację wydaje wyrok w składzie:",
+    "answers": [
+      "a. jednoosobowym, gdy zachodzi nieważność postępowania",
+      "b. jednoosobowym w postępowaniu uproszczonym",
+      "c. jednoosobowym, jeśli powództwo oddalono jako oczywiście bezzasadne",
+      "d. co do zasady trzyosobowym"
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Sąd rozpoznaje zażalenie w składzie:",
+    "answers": [
+      "a. zawsze trzyosobowym",
+      "b. co do zasady trzyosobowym",
+      "c. jednoosobowym w postępowaniu egzekucyjnym",
+      "d. jednoosobowym, jeśli rozpoznaje zażalenie na postanowienie wydane w elektronicznym postępowaniu upominawczym"
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "W II instancji sąd orzeka w składzie trzyosobowym rozpoznając:",
+    "answers": [
+      "a. apelacje, z wyjątkiem postępowania uproszczonego",
+      "b. co do zasady zażalenia (Izba SN)",
+      "c. apelacje",
+      "d. żadna z odpowiedzi nie jest prawidłowa"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "W II instancji sąd orzeka w składzie trzyosobowym rozpoznając:",
+    "answers": [
+      "a. wszystkie apelacje",
+      "b. wszystkie zażalenia",
+      "c. apelacje, z wyjątkiem postępowania uproszczonego",
+      "d. apelacje, ale tylko w postępowaniu procesowym"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Sądem I instancji jest sąd okręgowy:",
+    "answers": [
+      "a. w sprawach o rozwód",
+      "b. ochrona własności intelektualnej",
+      "c. w sprawach o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką prowadzonych na podstawie konwencji haskiej",
+      "d. w sprawach o ubezwłasnowolnienie",
+      "e. we wszystkich sprawach o prawa majątkowe, w których wartość przedmiotu sporu przewyższa 75.000 zł"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Zażalenia w postępowaniu cywilnym są rozpoznawane:",
+    "answers": [
+      "a. przez sąd, który wydał zaskarżone postanowienie w przypadku niektórych postanowień",
+      "b. przez sąd II instancji w przypadku niektórych postanowień",
+      "c. zawsze przez sąd II instancji",
+      "d. zawsze przez sąd, który wydał zaskarżone postanowienie"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Zażalenie do sądu drugiej instancji przysługuje na postanowienia sądu pierwszej instancji w przedmiocie:",
+    "answers": [
+      "a. umorzenia postępowania",
+      "b. zawieszenia postępowania",
+      "c. przekazania sprawy sądowi wyższego rzędu",
+      "d. odmowy ustanowienia pełnomocnika z urzędu"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Zażalenie do sądu II instancji przysługuje na postanowienia sądu I instancji: BYŁO NA STACJO",
+    "answers": [
+      "a. umorzeniu postępowania",
+      "b. odrzuceniu pozwu",
+      "c. przekazanie sprawy sądowi wyższej instancji",
+      "d. odmowie zwolnienia od kosztów sadowych",
+      "e. żadna z odpowiedzi nie jest prawidłowa, ponieważ zażalenie zawsze rozpoznaje inny skład sądu I instancji"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Zażalenie do sądu II instancji nie przysługuje na postanowienia sądu I instancji:",
+    "answers": [
+      "a. umorzeniu postępowania",
+      "b. odrzuceniu pozwu",
+      "c. przekazanie sprawy sądowi wyższej instancji",
+      "d. odmowie zwolnienia od kosztów sadowych",
+      "e. żadna z odpowiedzi nie jest prawidłowa, ponieważ zażalenie zawsze rozpoznaje inny skład sądu I instancji"
+    ],
+    "correct": [
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Zażalenie do tego samego sądu przysługuje na postanowienie w przedmiocie:",
+    "answers": [
+      "a. umorzenia postępowania",
+      "b. zawieszenia postępowania",
+      "c. odmowy zwolnienia od kosztów sądowych",
+      "d. kosztów procesu"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Zażalenie do tego samego sądu przysługuje na postanowienie w przedmiocie:",
+    "answers": [
+      "a. umorzenia postępowania",
+      "b. zawieszenia postępowania",
+      "c. oddalenia wniosku o ustanowienie pełnomocnika z urzędu",
+      "d. żadna z odpowiedzi nie jest prawidłowa"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Zażalenie do Sądu Najwyższego przysługuje na:",
+    "answers": [
+      "a. postanowienie sądu II instancji odrzucające skargę kasacyjną",
+      "b. postanowienie sądu II instancji lub I instancji odrzucające skargę o stwierdzenie niezgodności z prawem prawomocnego orzeczenia",
+      "c. w razie uchylenia przez sąd II instancji wyroku sądu I instancji i przekazania sprawy do ponownego rozpoznania"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Zażalenie złożone po terminie podlega:",
+    "answers": [
+      "a. zwrotowi",
+      "b. odrzuceniu",
+      "c. oddaleniu",
+      "d. oddaleniu, ale tyko jeśli zostało złożone przez profesjonalnego pełnomocnika"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Jan Spóźnialski wniósł do sądu zażalenie, na którego złożenie termin minął kilka dni wcześniej; jednocześnie zażalenie to nie zostało opłacone. W tej sytuacji:",
+    "answers": [
+      "a. Jan Spóźnialski zostanie wezwany do uzupełnienia braku fiskalnego zażalenia, a następnie sąd odrzuci zażalenie",
+      "b. Jan Spóźnialski zostanie wezwany do uzupełnienia braku fiskalnego zażalenia, a następnie sąd oddali zażalenie",
+      "c. sąd odrzuci zażalenie",
+      "d. sąd oddali zażalenie"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Polska procedura cywilna nie przewiduje możliwości wniesienia zażalenia: było na stacjo",
+    "answers": [
+      "a. do tego samego sądu, który wydał postanowienie, jeśli sąd ten orzeka jako sąd II instancji w sprawie, ale postanowienie wydał nie w wyniku rozpoznania zażalenia",
+      "b. do sądu wyższej instancji",
+      "c. do Sądu Najwyższego",
+      "d. do innego sądu tego samego szczebla"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Polska procedura cywilna przewiduje możliwość wniesienia zażalenia:",
+    "answers": [
+      "a. do tego samego sądu, który wydał postanowienie, jeśli sąd ten orzekał jako sąd I instancji",
+      "b. do sądu wyższej instancji",
+      "c. do Sądu Najwyższego",
+      "d. do tego samego sądu, który wydał postanowienie, jeśli sąd ten orzekał jako sąd II instancji w sprawie, ale postanowienie wydał nie w wyniku rozpoznawania zażalenia"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "W przypadku wniesienia zażalenia bez uprzedniego złożenia wniosku o uzasadnienie:",
+    "answers": [
+      "a. sąd który wydał zaskarżone postanowienie sporządza uzasadnienie z urzędu",
+      "b. sąd odrzuca zażalenie",
+      "c. sąd który wydał zaskarżone postanowienie sporządza uzasadnienie z urzędu, ale tylko gdy zażalenie podlega rozpoznaniu przez sąd II instancji",
+      "d. sąd rozpoznaje zażalenie, ale tylko jeśli podlega ono rozpoznaniu przez sad I instancji który wydał zaskarżone postanowienie"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Sąd Rejonowy dla Krakowa - Nowej Huty w Krakowie postanowieniem z dnia 2 czerwca 2020 r odrzucił pozew Jana Kowalskiego i oddalił jego wniosek o ustanowienie pełnomocnika z urzędu. Jan Kowalski zaskarżył to postanowienie w całości. Zażalenie Jana Kowalskiego rozpozna:",
+    "answers": [
+      "a. w całości sąd który je wydał",
+      "b. w całości Sad Okręgowy w Krakowie",
+      "c. sąd, który je wydał w odniesieniu do postanowienia o odmowie ustanowienia pełnomocnika z urzędu",
+      "d. Sąd Okręgowy w Krakowie w odniesieniu do postanowienia o odrzuceniu pozwu"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "W postępowaniu egzekucyjnym zażalenie przysługuje na:",
+    "answers": [
+      "a. każde postanowienie sądu",
+      "b. postanowienie sądu o odrzuceniu skargi na czynności komornika",
+      "c. postanowienie sądu co do nadana klauzuli wykonalności",
+      "d. postanowienie sądu co do zawieszenia i umorzenia postępowania"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "W postępowaniu egzekucyjnym zażalenie na postanowienie sądu:",
+    "answers": [
+      "a. przysługuje na te same orzeczenia, co w postępowaniu rozpoznawczym",
+      "b. rozpoznaje sąd, który wydał zaskarżone postanowienie lub sąd II instancji, w zależności od tego, czego dotyczy postanowienie",
+      "c. rozpoznaje sąd, który wydał zaskarżone postanowienie",
+      "d. żadna z odpowiedzi nie jest prawidłowa"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Termin na wniesienie zażalenia na postanowienie o nadaniu klauzuli wykonalności biegnie:",
+    "answers": [
+      "a. od tego samego dnia dla wierzyciela co dla dłużnika",
+      "b. dla wierzyciela od dnia wydania mu tytułu wykonawczego",
+      "c. dla dłużnika od dnia doręczenia mu zawiadomienia o wszczęciu egzekucji",
+      "d. dla wierzyciela od dnia doręczenia mu zawiadomienia o wszczęciu egzekucji"
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Nakładanie grzywien jest elementem egzekwowania:",
+    "answers": [
+      "a. czynności niezastępowalnych",
+      "b. czynności zastępowalne",
+      "c. obowiązku zaniechania",
+      "d. obowiązku złożenia oświadczenia woli"
+    ],
+    "correct": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "Do egzekucji obowiązku zaniechania czynności właściwy jest:",
+    "answers": [
+      "a. sąd okręgowy okręgu, w którym dłużnik działa wbrew swojemu obowiązkowi",
+      "b. komornik właściwy ze względu na miejsce, w którym dłużnik działa wbrew swojemu obowiązkowi",
+      "c. sąd rejonowy właściwości ogólnej dłużnika",
+      "d. sąd rejonowy okręgu, w którym dłużnik działa wbrew swojemu obowiązkowi"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Do egzekucji tzw. czynności niezastępowalnych właściwy jest:",
+    "answers": [
+      "a. komornik właściwości ogólnej dłużnika",
+      "b. komornik właściwy ze względu na miejsce, w którym czynność ma być wykonana",
+      "c. sąd rejonowy właściwości ogólnej dłużnika",
+      "d. sąd rejonowy okręgu, w którym czynność ma być wykonana"
+    ],
+    "correct": [
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Do egzekucji czynności niezastępowalnej właściwy jest:",
+    "answers": [
+      "a. sąd rejonowy właściwości ogólnej dłużnika",
+      "b. komornik właściwy ze względu na miejsce, w którym czynność miała być wykonana",
+      "c. sąd rejonowy okręgu, w którym czynność miała być wykonana",
+      "d. sąd rejonowy właściwości ogólnej wierzyciela"
+    ],
+    "correct": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "Organami egzekucyjnymi są:",
+    "answers": [
+      "a. sądy rejonowe",
+      "b. komornicy",
+      "c. prezesi sądów rejonowych",
+      "d. referendarze sądowi"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Organami egzekucyjnymi nie są:",
+    "answers": [
+      "a. sądy rejonowe",
+      "b. komornicy",
+      "c. prezesi sądów rejonowych",
+      "d. sądy okręgowe"
+    ],
+    "correct": [
+      2,
+      3
+    ]
+  },
+  {
+    "question": "W postępowaniu egzekucyjnym sąd rozpoznaje sprawy:",
+    "answers": [
+      "a. co do zasady na posiedzeniu niejawnym"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "W postępowaniu egzekucyjnym:",
+    "answers": [
+      "a. na postanowienie referendarza sądowego przysługuje skarga",
+      "b. wniesienie skargi na postanowienie referendarza powoduje w zaskarżonego postanowienia",
+      "c. sąd rozpoznający skargę na orzeczenie referendarza orzeka jako sąd drugiej instancji, stosując odpowiednio przepisy o zażaleniu",
+      "d. żadna z odpowiedzi nie jest prawidłowa"
+    ],
+    "correct": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "W sprawie o egzekucję wierzyciel:",
+    "answers": [
+      "a. ma prawo wyboru komornika innego niż komornik właściwy zgodnie z przepisami k.p.c., bez żadnych ograniczeń – na terenie całego kraju",
+      "b. ma prawo wyboru komornika, ale tylko na obszarze właściwości sądu apelacyjnego, na którym znajduje się siedziba kancelarii komornika właściwego zgodnie z przepisami k.p.c.",
+      "c. nie ma prawa wyboru komornika innego niż komornik właściwy zgodnie z przepisami k.p.c.",
+      "d. ma prawo wyboru komornika, ale tylko na obszarze właściwości sądu apelacyjnego, na którym znajduje się siedziba kancelarii komornika właściwego zgodnie z przepisami k.p.c., z wyjątkiem spraw o egzekucję z nieruchomości i innych składników majątkowych, do których stosuje się przepisy o egzekucji z nieruchomości  ustawy o komornikach sądowych)"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "W sprawie o egzekucję z nieruchomości wierzyciel:",
+    "answers": [
+      "a. ma prawo wyboru komornika innego niż komornik właściwy zgodnie z przepisami k.p.c. bez żadnych ograniczeń – na terenie całego kraju",
+      "b. ma prawo wyboru komornika, ale tylko na obszarze właściwości sądu apelacyjnego, na którym znajduje się siedziba kancelarii komornika właściwego zgodnie z przepisami k.p.c.",
+      "c. nie ma prawa wyboru komornika innego niż komornik właściwy zgodnie z przepisami k.p.c.  ustawy o komornikach sądowych)",
+      "d. ma prawo wyboru komornika innego niż komornik właściwy zgodnie z przepisami k.p.c., ale tylko jeśli zgodę na to wyrazi dłużnik"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Skargę na czynność komornika:",
+    "answers": [
+      "a. wnosi się do sądu właściwego ze względu na siedzibę kancelarii komornika",
+      "b. wnosi się do komornika, który dokonał zaskarżonej czynności lub zaniechał jej dokonania",
+      "c. należy wnieść na urzędowym formularzu (może)",
+      "d. może wnieść tylko dłużnik lub wierzyciel"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Do rozpoznania skargi na czynności komornika właściwy jest:",
+    "answers": [
+      "a. sąd rejonowy właściwy ze względu na siedzibę kancelarii komornika",
+      "b. sąd okręgowy właściwy ze względu na siedzibę kancelarii komornika",
+      "c. sąd rejonowy miejsca położenia majątku, z którego prowadzona jest egzekucja",
+      "d. sąd okręgowy miejsca położenia majątku, z którego prowadzona jest egzekucja"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Skarga na czynność komornika:",
+    "answers": [
+      "a. przysługuje na zarządzenie komornika o wezwaniu do usunięcia braków pisma",
+      "b. podlega odrzuceniu, jeśli została wniesiona po terminie",
+      "c. może być wniesiona na urzędowym formularzu",
+      "d. może być wniesiona także przez osobę niebędącą stroną postępowania egzekucyjnego"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Skargę na czynności komornika można wnieść przeciwko:",
+    "answers": [
+      "a. tylko zaniechaniu komornika -",
+      "b. opieszałość komornika powodująca przewlekłość postępowania",
+      "c. czynności komornika, której ustawodawca nie wyłączył",
+      "d. każdej czynności komornika"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Wniosek o wyłączenie komornika:",
+    "answers": [
+      "a. jest niedopuszczalny",
+      "b. podlega rozpoznaniu przez prezesa izby komorniczej, do której należy komornik",
+      "c. podlega rozpoznaniu przez sąd rejonowy właściwy ze względu na siedzibę kancelarii komornika",
+      "d. podlega rozpoznaniu przez sąd okręgowy właściwy ze względu na siedzibę kancelarii komornika"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Wydanie wyroku zaocznego na posiedzeniu niejawnym:",
+    "answers": [
+      "a. jest możliwe bez żadnych ograniczeń",
+      "b. nie jest możliwe",
+      "c. jest możliwe tylko w przypadku tzw. zastrzeżonego wyroku zaocznego",
+      "d. żadna z odpowiedzi nie jest prawidłowa"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Środkiem zaskarżenia wyroku zaocznego jest:",
+    "answers": [
+      "a. sprzeciw dla każdej ze stron",
+      "b. apelacja dla każdej ze stron",
+      "c. sprzeciw dla pozwanego",
+      "d. apelacja lub sprzeciw dla powoda, w zależności od jego wyboru"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Środkiem zaskarżenia wyroku zaocznego przez powoda jest:",
+    "answers": [
+      "a. sprzeciw",
+      "b. apelacja",
+      "c. zarzuty",
+      "d. apelacja lub sprzeciw, w zależności od jego wyboru"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Skargę o stwierdzenie niezgodności z prawem prawomocnego orzeczenia można zaskarżyć:",
+    "answers": [
+      "a. tylko prawomocny wyrok sądu II instancji",
+      "b. tylko prawomocny wyrok sądu I instancji",
+      "c. co do zasady prawomocny wyrok sądu II instancji",
+      "d. wyjątkowo prawomocny wyrok sądu I instancji"
+    ],
+    "correct": [
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Sprzeciw jest środkiem zaskarżenia, który przysługuje pozwanemu od: było na stacjo",
+    "answers": [
+      "a. nakazu zapłaty wydanego w postępowaniu nakazowym",
+      "b. nakazu zapłaty wydanego w postępowaniu upominawczym",
+      "c. nakazu zapłaty wydanego w postępowaniu elektronicznym upominawczym",
+      "d. wyroku zaocznego"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Sprzeciw jest środkiem zaskarżenia, który nie przysługuje pozwanemu od:",
+    "answers": [
+      "a. nakazu zapłaty wydanego w postępowaniu nakazowym",
+      "b. nakazu zapłaty wydanego w postępowaniu upominawczym przez referendarza sądowego",
+      "c. nakazu zapłaty wydanego w postępowaniu elektronicznym upominawczym",
+      "d. wyroku zaocznego"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Bezwzględnie dewolutywnym środkiem zaskarżenia jest:",
+    "answers": [
+      "a. zażalenie",
+      "b. apelacja",
+      "c. sprzeciw od nakazu zapłaty",
+      "d. skarga na orzeczenie referendarza"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Od orzeczenia sądu II instancji uchylającego wyrok i przekazującego sprawę do ponownego rozpoznania sądowi I instancji przysługuje: było na stacjo",
+    "answers": [
+      "a. tzw. zażalenie poziome",
+      "b. skarga kasacyjna",
+      "c. zażalenie do Sądu Najwyższego",
+      "d. apelacja"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Apelacja przysługuje od:",
+    "answers": [
+      "a. wyroków nieprawomocnych",
+      "b. wszystkich wyroków prawomocnych",
+      "c. prawomocnych wyroków sądów pierwszej instancji",
+      "d. prawomocnych wyroków sądów drugiej instancji"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Apelacja wniesiona po terminie podlega:",
+    "answers": [
+      "a. zwrotowi",
+      "b. oddaleniu",
+      "c. odrzuceniu",
+      "d. oddaleniu, ale tylko jeśli została złożona przez profesjonalnego pełnomocnika"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "W sytuacji, gdy sąd nie zgadza się z apelacją:",
+    "answers": [
+      "a. odrzuca ją",
+      "b. oddala ją",
+      "c. umarza postępowanie odwoławcze",
+      "d. utrzymuje w mocy zaskarżony wyrok"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "W sytuacji, gdy sąd odwoławczy uznaje apelację za bezzasadną:",
+    "answers": [
+      "a. zwraca ją",
+      "b. odrzuca ją",
+      "c. oddala ją",
+      "d. wydaje wyrok utrzymujący w mocy wyrok zaskarżony"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Apelacja:",
+    "answers": [
+      "a. jest dewolutywnym środkiem odwoławczym i prowadzi do merytorycznego rozpoznania sprawy",
+      "b. przysługuje od wyroków zaocznych zarówno powodowi jak i pozwanemu",
+      "c. przysługuje także od wyroków wstępnych i częściowych"
+    ],
+    "correct": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "Apelację wnosi się do sądu, który wydał zaskarżony wyrok, w terminie co do zasady dwutygodniowym, liczonym od:",
+    "answers": [
+      "a. ogłoszenia wyroku",
+      "b. upływu terminu do złożenia wniosku o uzasadnienie, jeśli strona skarżąca nie złożyła wniosku o uzasadnienie",
+      "c. doręczenia stronie skarżącej odpisu wyroku wydanego na posiedzeniu niejawnym",
+      "d. doręczenia stronie skarżącej odpisu wyroku z uzasadnieniem"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Apelacje w postępowaniu cywilnym są rozpoznawane:",
+    "answers": [
+      "a. przez sąd, który wydał zaskarżony wyrok w przypadku niektórych spraw",
+      "b. przez sąd II instancji w przypadku niektórych spraw",
+      "c. zawsze przed sąd II instancji",
+      "d. zawsze przez sąd, który wydał zaskarżony wyrok"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Badaniem apelacji pod kątem spełnienia wymogów formalnych i fiskalnych w postępowaniu procesowym zajmuje się:",
+    "answers": [
+      "a. sąd I instancji w ramach tzw. postępowania międzyinstancyjnego, czyli tak jak w przypadku apelacji od postanowienia co do istoty sprawy w postepowaniu nieprocesowym",
+      "b. sąd I instancji w ramach tzw. postępowania międzyinstancyjnego, czyli inaczej niż w przypadku apelacji od postanowienia co do istoty sprawy w postępowaniu nieprocesowym",
+      "c. sąd II instancji, czyli tak jak w przypadku apelacji od postanowienia co do istoty sprawy w postępowaniu nieprocesowym",
+      "d. sąd II instancji, czyli inaczej niż w przypadku apelacji od postanowienia co do istoty sprawy w postępowaniu nieprocesowym"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Sąd pierwszej instancji w ramach tzw. postępowania międzyinstancyjnego bada , czy:",
+    "answers": [
+      "a. zachowany został termin do wniesienia apelacji",
+      "b. apelacja została wniesiona przez uprawniony podmiot",
+      "c. apelacja spełnia wymagania formalne",
+      "d. apelacja jest zasadna"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "W przypadku wniesienia apelacji od wyroku bez uprzedniego złożenia wniosku o uzasadnienie:",
+    "answers": [
+      "a. sąd sporządza uzasadnienie z urzędu, czyli tak jak w przypadku apelacji od postanowienia co do istoty sprawy w postępowaniu nieprocesowym",
+      "b. sąd sporządza uzasadnienie z urzędu, czyli inaczej niż w przypadku apelacji od postanowienia co do istoty sprawy w postępowaniu nieprocesowym",
+      "c. apelacja podlega odrzuceniu, czyli tak jak w przypadku apelacji od postanowienia co do istoty sprawy w postępowaniu nieprocesowym",
+      "d. apelacja podlega odrzuceniu, czyli inaczej niż w przypadku apelacji od postanowienia co do istoty sprawy w postepowaniu nieprocesowym"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Sąd II instancji rozpoznaje apelację:",
+    "answers": [
+      "a. Zawsze musi rozpoznać sprawę na rozprawie.",
+      "b. Co do zasady rozpoznaje sprawę na rozprawie",
+      "c. Może rozpoznać sprawę na posiedzeniu niejawnym, gdy zachodzi nieważność postępowania",
+      "d. Może rozpoznać sprawę na posiedzeniu niejawnym zawsze gdy istnieją podstawy do uchylenia orzeczenia."
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Sąd rozpoznający apelację:",
+    "answers": [
+      "a. zawsze może wydać wyrok na posiedzeniu niejawnym gdy rozpoznaje apelację od wyroku oddalającego powództwo jako oczywiście bezzasadne",
+      "b. może wydać wyrok na posiedzeniu niejawnym jeżeli strona w apelacji lub odpowiedzi na apelację nie złożyła wniosku o przeprowadzenie rozprawy",
+      "c. może wydać wyrok na posiedzeniu niejawnym tylko gdy sąd I instancji nie rozpoznał istoty sprawy",
+      "d. zawsze może wydać wyrok na posiedzeniu niejawnym gdy zachodzi nieważność postępowania"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Sąd drugiej instancji może rozpoznać apelację na posiedzeniu niejawnym:",
+    "answers": [
+      "a. zawsze",
+      "b. nigdy",
+      "c. gdy zachodzi nieważność postępowania i jednocześnie przeprowadzenie rozprawy nie jest konieczne",
+      "d. tylko, gdy nie sprzeciwiła się temu żadna ze stron"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Sąd II instancji rozpoznając apelację wydaje wyrok w składzie:",
+    "answers": [
+      "a. jednoosobowym gdy zachodzi nieważność postępowania",
+      "b. jednoosobowym w postępowaniu uproszczonym",
+      "c. jednoosobowym, jeśli wydaje go na posiedzeniu niejawnym",
+      "d. co do zasady trzyosobowym"
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Sąd II instancji rozpoznając apelację wydaje wyrok w składzie stanowiącym wyjątek od obowiązującej zasady:",
+    "answers": [
+      "a. w sprawie o ubezwłasnowolnienie",
+      "b. w postępowaniu uproszczonym",
+      "c. zawsze, gdy wydaje go na posiedzeniu niejawnym",
+      "d. żadna z odpowiedzi nie jest prawidłowa, ponieważ w tym zakresie kodeks postępowania cywilnego nie przewiduje wyjątków"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Doręczenie pozwanemu będącemu osobą fizyczną apelacji poprzez tzw. podwójne awizo:",
+    "answers": [
+      "a. jest skuteczne, o ile zostało wysłane na adres zamieszkania strony lub wskazany przez nią adres do korespondencji lub skrytkę pocztową",
+      "b. nigdy nie jest skuteczne",
+      "c. jest skuteczne, ale tylko o ile przesyłka została wysłana na adres pozwanego figurujący w bazie PESEL",
+      "d. nie jest skuteczne, jeśli pozwany w odpowiedzi na pozew oświadczy, że nie godzi się na doręczenia poprzez tzw. podwójne awizo"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Jan Roztargniony wniósł do sądu apelację, której braki uzupełnił po upływie wyznaczonego terminu. W tej sytuacji sąd:",
+    "answers": [
+      "a. pozostawi apelację bez rozpoznania",
+      "b. oddali apelację",
+      "c. odrzuci apelację",
+      "d. zwróci apelację"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Sąd II instancji odrzucił apelację Jana Kowalskiego wniesioną od niekorzystnego dla niego wyroku. Jan Kowalski nie zgadza się z postanowieniem o odrzuceniu apelacji. Co może zrobić w tej sytuacji?",
+    "answers": [
+      "a. niestety nic, bo postanowienie zostało wydane przez sąd II instancji",
+      "b. może wnieść zażalenie do Sądu Najwyższego",
+      "c. może wnieść zażalenie do sądu II instancji, które sąd rozpozna w takim samym składzie w jakim wydał postanowienie o odrzuceniu apelacji",
+      "d. może wnieść zażalenie do sądu II instancji, które sąd rozpozna w innym składzie niż ten w jakim wydał postanowienie o odrzuceniu apelacji"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "O zachowaniu terminu dokonania czynności w przypadku nadania pisma za granicą decyduje:",
+    "answers": [
+      "a. zawsze data jego nadania za granicą",
+      "b. zawsze data jego przekazania polskiemu urzędowi pocztowemu",
+      "c. zawsze data doręczenia pisma do sądu",
+      "d. żadna odp. nie jest prawidłowa"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "O zachowaniu terminu do dokonania czynności w przypadku nadania pisma za granicą w kraju należącym do UE decyduje:",
+    "answers": [
+      "a. data jego nadania za granicą",
+      "b. data jego przekazania polskiemu urzędowi pocztowemu",
+      "c. data doręczenia pisma do sądu",
+      "d. żadna z odpowiedzi nie jest prawidłowa"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "O zachowaniu terminu do dokonania czynności procesowej w postępowaniu cywilnym w przypadku nadania pisma za granicą w kraju nienależącym do UE decyduje:",
+    "answers": [
+      "a. data jego nadania za granicą",
+      "b. data przekroczenia przez list polskiej granicy?",
+      "c. data doręczenia pisma do sądu",
+      "d. żadna z odpowiedzi nie jest prawidłowa"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Przywrócenie terminu:",
+    "answers": [
+      "a. możliwe jest tylko na wniosek",
+      "b. nie jest dopuszczalne, jeżeli uchybienie terminu nie pociąga za sobą ujemnych dla strony skutków procesowych",
+      "c. nigdy nie jest możliwe po upływie roku od uchybionego terminu",
+      "d. może dotyczyć zarówno terminu sądowego jak i ustawowego"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Przywróceniu podlegają:",
+    "answers": [
+      "a. terminy procesowe",
+      "b. tylko terminy sądowe",
+      "c. tylko terminy ustawowe",
+      "d. żadna z odpowiedzi nie jest prawidłowa, ponieważ terminy procesowe mogą zostać jedynie przedłużone, a nie przywrócone"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Przywrócenie terminu:",
+    "answers": [
+      "a. Możliwe jest tylko na wniosek",
+      "b. Jest dopuszczalne, jeżeli uchybienie terminu nie pociąga za sobą ujemnych dla strony skutków procesowych",
+      "c. Nigdy nie jest możliwe po upływie roku od uchybionego terminu",
+      "d. Może dotyczyć zarówno terminu sądowego jak i ustawowego (są to terminy prekluzyjne)"
+    ],
+    "correct": [
+      0,
+      3
+    ]
+  },
+  {
+    "question": "Z ważnej przyczyny przedłużony może zostać:",
+    "answers": [
+      "a. każdy termin procesowy",
+      "b. tylko termin sądowy",
+      "c. tylko termin ustawowy",
+      "d. żadna z odpowiedzi nie jest prawidłowa, ponieważ terminy procesowe mogą zostać jedynie przywrócone, a nie przedłużone"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Postanowienie o oddaleniu wniosku o przywróceniu terminu:",
+    "answers": [
+      "a. może zapaść na posiedzeniu niejawnym",
+      "b. nie podlega zaskarżeniu",
+      "c. musi nastąpić, gdy wniosek taki został zgłoszony z przekroczeniem ustawowego terminu",
+      "d. musi nastąpić, jeżeli uchybienie terminu nie pociąga za sobą ujemnych dla strony skutków procesowych"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Przepisy o postępowaniu uproszczonym stosuje się:",
+    "answers": [
+      "a. w sprawach należących do właściwości sądów rejonowych",
+      "b. jeżeli wartość przedmiotu sporu nie przekracza dwudziestu tysięcy złotych",
+      "c. w sprawach z zakresu prawa pracy, ale tylko tych rozpoznawanych bez udziału ławników",
+      "d. małżeńskich i z zakresu stosunków między rodzicami a dziećmi ale tylko tych rozpoznawanych bez udział ławników"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Przepisy o postępowaniu uproszczonym stosuje się:",
+    "answers": [
+      "a. w postępowaniu przed sądami rejonowymi jak i okręgowymi",
+      "b. tylko w postępowaniu przed sądami rejonowymi",
+      "c. tylko w postępowaniu przed sądami okręgowymi",
+      "d. tylko na wniosek powoda zamieszczony w pozwie"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Od pozwu w postępowaniu uproszczonym:",
+    "answers": [
+      "a. nie pobiera się opłaty",
+      "b. pobiera się opłatę taką jak w EPU",
+      "c. pobiera się opłatę stałą (zgodnie z widełkami)",
+      "d. pobiera się opłatę stałą w wysokości 200 zł"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Z instytucji „świadko- biegłego” można skorzystać w:",
+    "answers": [
+      "a. każdej sprawie",
+      "b. postępowaniu w sprawach gospodarczych",
+      "c. postępowaniu w sprawach z zakresu prawa pracy",
+      "d. postępowaniu uproszczonym"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Od pozwu w postępowaniu nakazowym pobiera się (1/4 opłaty):",
+    "answers": [
+      "a. opłatę taką jak od pozwu w postępowaniu upominawczym",
+      "b. opłatę taką jak od pozwu w postępowaniu elektronicznym upominawczym",
+      "c. czwartą część opłaty",
+      "d. opłatę taką jak od pozwu w postępowaniu uproszczonym"
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Od pozwu w postępowaniu nakazowym o zapłatę kwoty 100.000,00 zł należy uiścić opłatę w wysokości (1/4 opłaty):  bYŁO NA STACJO",
+    "answers": [
+      "a. 1000 zł",
+      "b. 1250 zł",
+      "c. 2500 zł",
+      "d. 3750 zł"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Sąd wydaje nakaz zapłaty w postępowaniu nakazowym, jeżeli fakty uzasadniające dochodzone roszczenie są udowodnione dołączonym do pozwu:",
+    "answers": [
+      "a. dokumentem urzędowym",
+      "b. zaakceptowanym przez dłużnika rachunkiem",
+      "c. wezwaniem dłużnika do zapłaty i pisemnym oświadczeniem dłużnika o uznaniu długu",
+      "d. dokumentem prywatnym w formie pisemnej z podpisem notarialnie poświadczonym"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Sąd wydaje nakaz zapłaty w postępowaniu nakazowym, jeżeli fakty uzasadniające dochodzone roszczenie są udowodnione dołączonym do pozwu:",
+    "answers": [
+      "a. dokumentem urzędowym",
+      "b. zaakceptowanym przez dłużnika rachunkiem",
+      "c. wezwaniem dłużnika do zapłaty (brak w tej odpowiedzi drugiego członu tj. i pisemnym oświadczeniem dłużnika o uznaniu długu)",
+      "d. dokumentem prywatnym w formie pisemnej z podpisem notarialnie poświadczonym"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "W przypadku braku podstaw do wydania nakazu zapłaty w postępowaniu nakazowym:",
+    "answers": [
+      "a. postępowanie zostaje umorzone",
+      "b. pozew podlega odrzuceniu",
+      "c. pozew zostaje zwrócony",
+      "d. przewodniczący wydaje zarządzenie o rozpoznaniu sprawy w postępowaniu zwykłym lub innym odrębnym"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Od pozwu w postępowaniu nakazowym:",
+    "answers": [
+      "a. nie pobiera się opłaty",
+      "b. pobiera się opłatę taką jak od pozwu w postępowaniu upominawczym",
+      "c. pobiera się cała opłatę stałą (zgodnie z widełkami)",
+      "d. pobiera się opłatę taką jak od pozwu w postępowaniu elektronicznym upominawczym (1/4 opłaty)"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Sąd uchyla z urzędu nakaz zapłaty wydany w postępowaniu nakazowym:",
+    "answers": [
+      "a. tylko wtedy, gdy jego doręczenie pozwanemu nie może nastąpić, dlatego, że jego miejsce pobytu nie jest znane",
+      "b. wtedy, gdy jego doręczenie pozwanemu nie może nastąpić w kraju",
+      "c. gdy po jego wydaniu okaże się, że pozwany w chwili wniesienia pozwu nie miał zdolności sądowej procesowej albo organu powołanego do jego reprezentowania",
+      "d. żadna z odpowiedzi nie jest prawidłowa, gdyż sąd może uchylić nakaz zapłaty tylko na wniosek"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Po wydaniu nakazu zapłaty w postępowaniu nakazowym przeciwko Janowi Kowalskiemu sąd powziął od jego spadkobiercy (przedłożył akt zgonu) wiadomość, że Jan Kowalski zmarł jeszcze przed wniesieniem pozwu. W tej sytuacji sąd:",
+    "answers": [
+      "a. na wniosek spadkobiercy powinien uchylić nakaz zapłaty i umorzyć postępowanie",
+      "b. z urzędu powinien uchylić nakaz zapłaty i odrzucić pozew",
+      "c. na wniosek spadkobierców powinien uchylić nakaz zapłaty i odrzucić pozew",
+      "d. z urzędu powinien uchylić nakaz zapłaty i zawiesić postępowania"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Po wydaniu nakazu zapłaty w postępowaniu nakazowym sąd powziął wiadomość, że pozwany Jan Kowalski zmarł po wniesieniu pozwu, a przed wydaniem nakazu zapłaty. W tej sytuacji sąd z urzędu powinien uchylić nakaz zapłaty i:",
+    "answers": [
+      "a. umorzyć postępowanie",
+      "b. oddalić powództwo",
+      "c. zwrócić pozew",
+      "d. zawiesić postępowanie"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "W przypadku wniesienia sprzeciwu od nakazu zapłaty wydanego w postępowaniu nakazowym:",
+    "answers": [
+      "a. pozew podlega oddaleniu",
+      "b. pozew podlega zwrotowi",
+      "c. nakaz zapłaty traci moc",
+      "d. nakaz zapłaty nie traci mocy (w postępowaniu nakazowym są zarzuty)"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "W przypadku wniesienia sprzeciwu od nakazu zapłaty wydanego w postępowaniu upominawczym:",
+    "answers": [
+      "a. pozew podlega oddaleniu",
+      "b. pozew podlega zwrotowi",
+      "c. nakaz zapłaty traci moc",
+      "d. postępowanie zostaje umorzone"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "W przypadku wniesienia sprzeciwu od nakazu zapłaty wydanego w elektronicznym postępowaniu upominawczym:",
+    "answers": [
+      "a. pozew podlega oddaleniu",
+      "b. pozew podlega odrzuceniu",
+      "c. sprawa zostaje przekazana do sądu właściwości ogólnej pozwanego",
+      "d. postępowanie zostaje umorzone"
+    ],
+    "correct": []
+  },
+  {
+    "question": "W EPU:",
+    "answers": [
+      "a. mogą być dochodzone roszczenia, które stały się wymagalne w okresie 2 lat przed dniem wniesienia powództwa",
+      "b. mogą być dochodzone roszczenia, które stały się wymagalne w okresie 3 lat przed dniem wniesienia powództwa",
+      "c. mogą być dochodzone roszczenia, które stały się wymagalne w okresie 10 lat przed dniem wniesienia powództwa",
+      "d. nie przewidziano żadnych ograniczeń związanych z datą wymagalności dochodzonego roszczenia"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Przepisów o zwalnianiu przez sąd od kosztów sądowych nie stosuje się w:",
+    "answers": [
+      "a. postępowaniu nakazowym,",
+      "b. postępowaniu uproszczonym",
+      "c. EPU",
+      "d. postępowaniu nieprocesowym"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "W postępowaniu w sprawach małżeńskich są rozpoznawane sprawy o:",
+    "answers": [
+      "a. zniesienie separacji",
+      "b. separację na żądanie jednego z małżonków",
+      "c. separację na zgodny wniosek małżonków",
+      "d. rozwód"
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "W postępowaniu w sprawach małżeńskich nie są rozpoznawane sprawy o:",
+    "answers": [
+      "a. unieważnienie małżeństwa",
+      "b. separacją na żądanie jednego z małżonków",
+      "c. separację na zgodny wniosek małżonków, gdy nie mają wspólnych małoletnich dzieci",
+      "d. zniesienie separacji"
+    ],
+    "correct": [
+      2,
+      3
+    ]
+  },
+  {
+    "question": "W sprawach z zakresu prawa pracy:",
+    "answers": [
+      "a. sąd może orzekać ponad żądanie pozwu",
+      "b. sąd jest związany żądaniem pozwu",
+      "c. sąd nie może z urzędu uwzględnić innego z przysługujących pracownikowi roszczeń alternatywnych (jeśli jest ono uzasadnione) niż roszczenie wybrane przez pracownika, które okazało się bezzasadne",
+      "d. żadna z odpowiedzi nie jest prawidłowa"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "W sprawach z zakresu prawa pracy:",
+    "answers": [
+      "a. sąd może orzekać ponad żądanie pozwu",
+      "b. sąd jest związany żądaniem pozwu",
+      "c. co do zasad orzeka w składzie jednego sędziego",
+      "d. sąd nie może z urzędu uwzględnić innego z przysługujących pracownikowi roszczeń alternatywnych ( jeśli jest ono uzasadnione) niż roszczenie wybrane przez pracownika, które okazało się bezzasadne.",
+      "e. żadna z odpowiedzi nie jest prawidłowa."
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Pozwany Jan Kowalski zmarł przed wniesieniem pozwu. W tej sytuacji sąd powinien:",
+    "answers": [
+      "a. odrzucić pozew",
+      "b. oddalić powództwo",
+      "c. umorzyć postępowanie",
+      "d. zawiesić postępowanie"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Przed wniesieniem pozwu zmarł pozwany. W tej sytuacji należy:",
+    "answers": [
+      "a. zwrócić pozew zarządzeniem",
+      "b. odrzucić pozew zarządzeniem",
+      "c. odrzucić pozew postanowieniem",
+      "d. zwrócić pozew postanowieniem"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Po wniesieniu pozwu zmarł pozwany. W tej sytuacji należy: było na stacjo",
+    "answers": [
+      "a. co do zasady zawiesić postępowanie",
+      "b. odrzucić pozew",
+      "c. w niektórych przypadkach umorzyć postępowanie",
+      "d. zwrócić pozew"
+    ],
+    "correct": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "W toku postępowania przed sądem i instancji zmarł pozwany. W tej sytuacji należy:",
+    "answers": [
+      "a. zwrócić pozew",
+      "b. odrzucić pozew",
+      "c. co do zasady zawiesić postępowanie",
+      "d. co do zasady umorzyć postępowanie"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "W toku postępowania przed sądem i instancji okazało się, że pozwany zmarł jeszcze przed wniesieniem pozwu. W tej sytuacji należy:",
+    "answers": [
+      "a. zwrócić pozew",
+      "b. odrzucić pozew  k.p.c., brak zdolności sądowej)",
+      "c. zawiesić postępowanie",
+      "d. umorzyć postępowanie"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Pozwany Jan Kowalski zmarł w toku postępowania o zapłatę, sąd powinien:",
+    "answers": [
+      "a. odrzucić pozew",
+      "b. oddalić powództwo",
+      "c. zawiesić postępowanie",
+      "d. umorzyć postępowanie"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Odrzucenie pozwu z urzędu następuje w przypadku: było na stacjo",
+    "answers": [
+      "a. res iudicatae",
+      "b. zapisu na sąd polubowny",
+      "c. braku drogi sądowej",
+      "d. braku jurysdykcji krajowej"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Odrzucenie pozwu na wniosek następuje w przypadku:",
+    "answers": [
+      "a. res iudicatae",
+      "b. zapisu na sąd polubowny",
+      "c. braku drogi sądowej",
+      "d. braku jurysdykcji krajowej"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Odrzucenie pozwu:",
+    "answers": [
+      "a. następuje w drodze zarządzenia",
+      "b. w zależności od przyczyny następuje z urzędu lub na zarzut",
+      "c. może nastąpić na każdym etapie postępowania",
+      "d. może nastąpić tylko do zakończenia postępowania w pierwszej instancji"
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Odrzucenie pozwu następuje w przypadku:",
+    "answers": [
+      "a. zawarcia przez strony umowy o mediację, ale tylko jeśli zostanie podniesiony stosowny zarzut, w określonym w k.p.c. terminie",
+      "b. zapisu na sąd polubowny, ale tylko jeśli zostanie podniesiony stosowny zarzut, w określonym w k.p.c. w terminie",
+      "c. nieuzupełnienia w terminie braków formalnych pozwu",
+      "d. braku jurysdykcji krajowej"
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Odrzucenie pozwu nie może nastąpić:",
+    "answers": [
+      "a. po doręczeniu pozwu pozwanemu",
+      "b. w postępowaniu apelacyjnym",
+      "c. w postępowaniu kasacyjnym",
+      "d. żadna z odpowiedzi nie jest prawidłowa, ponieważ odrzucenie pozwu może nastąpić na każdym etapie"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "W przypadku braku merytorycznej zasadności powództwa pozew podlega:",
+    "answers": [
+      "a. zwrotowi",
+      "b. odrzuceniu na wniosek",
+      "c. odrzuceniu z urzędu",
+      "d. oddaleniu"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "W sytuacji, gdy sąd nie zgadza się z pozwem co do meritum:",
+    "answers": [
+      "a. odrzuca pozew",
+      "b. oddala powództwo",
+      "c. umarza postępowanie",
+      "d. zawiesza postępowanie"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "W sytuacji, gdy sąd nie zgadza się z żądaniem pozwu:",
+    "answers": [
+      "a. odrzuca go",
+      "b. oddala powództwo",
+      "c. umarza postępowanie",
+      "d. zwraca pozew"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Odrzucenie pozwu z urzędu następuje w przypadku:",
+    "answers": [
+      "a. res iudicatae",
+      "b. zapisu na sąd polubowny",
+      "c. braku drogi sądowej",
+      "d. braku jurysdykcji krajowej",
+      "e. braku merytorycznej zasadności pozwu (oddalenie pozwu)",
+      "f. istnienia zapisu na sąd polubowny, ale tylko na zgłoszony w odpowiednim momencie zarzut pozwanego"
+    ],
+    "correct": [
+      0,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "question": "Zdolność sądową ma:",
+    "answers": [
+      "a. każda osoba fizyczna",
+      "b. tylko osoba fizyczna, która ukończyła 18 lat, o ile nie została ubezwłasnowolniona całkowicie lub częściowo",
+      "c. tylko osoba fizyczna, która ukończyła 13 lat i nie została ubezwłasnowolniona całkowicie",
+      "d. tylko osoba, która ma zdolność procesową"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Osoba fizyczna ograniczona w zdolności do czynności prawnych:",
+    "answers": [
+      "a. nie ma zdolności sądowej",
+      "b. zawsze ma zdolność sądową",
+      "c. ma pełną zdolność procesową",
+      "d. ma pełną zdolność procesową w sprawach wynikających z czynności prawnych, których może dokonywać samodzielnie"
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Obligatoryjnym elementem każdego pozwu jest:",
+    "answers": [
+      "a. dokładne określone żądanie",
+      "b. przytoczenie okoliczności faktycznych uzasadniających żądania",
+      "c. podstawa prawa żądania",
+      "d. informacje, czy strony podjęły próbę mediacji lub innego pozasądowego sposobu rozwiązywania sporu"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "question": "W pozwie powód zobowiązany jest podać:",
+    "answers": [
+      "a. zawsze nr PESEL lub NIP powoda",
+      "b. nr PESEL/ NIP powoda tylko w sprawach rozpoznawanych w EPU",
+      "c. zawsze nr pesel lub nip pozwanego",
+      "d. nr PESEL/ NIP pozwanego tylko w sprawach rozpoznawanych w EPU"
+    ],
+    "correct": [
+      0,
+      3
+    ]
+  },
+  {
+    "question": "Wniosek powoda zgłoszony w pozwie jest niezbędny do:",
+    "answers": [
+      "a. wydania nakazu zapłaty w postępowaniu upominawczym",
+      "b. wydanie nakazu zapłaty w postępowaniu nakazowym",
+      "c. wydania wyroku zaocznego",
+      "d. procedowania w trybie uproszczonym"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Wniosek powoda jest niezbędny do wszczęcia następującego z postępowań odrębnych:",
+    "answers": [
+      "a. nakazowego",
+      "b. upominawczego",
+      "c. uproszczonego",
+      "d. o ochronę posiadania"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Wniosek powoda zgłoszony w pozwie nie jest niezbędny do wydania:",
+    "answers": [
+      "a. nakazu zapłaty w postępowaniu upominawczym",
+      "b. wydania nakazu zapłaty w postępowaniu nakazowym",
+      "c. wyroku zaocznego",
+      "d. procedowania na podstawie przepisów o postępowaniu uproszczonym"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Pozew wzajemny wnosi się: było na stacjo",
+    "answers": [
+      "a. do sądu rzeczowo i miejscowo właściwego",
+      "b. do sądu pozwu głównego",
+      "c. w odpowiedzi na pozew, a jeżeli jej nie złożono – w sprzeciwie od wyroku zaocznego albo przy rozpoczęciu pierwszego posiedzenia, o którym zawiadomiono albo na które wezwano pozwanego",
+      "d. do zakończenia postępowania w pierwszej instancji"
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Jeżeli pozwany nie stawi się na posiedzenie przygotowawcze to:",
+    "answers": [
+      "a. postępowanie podlega umorzeniu",
+      "b. postępowanie należy zawiesić",
+      "c. plan rozprawy sporządza się bez jego udziału",
+      "d. posiedzenie przygotowawcze należy odroczyć"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "W postępowaniu nieprocesowym sąd może oddalić wniosek a limine na posiedzeniu niejawnym ze względu na to, że z samej jego treści wynika oczywista brak uprawnienia wnioskodawcy: było na stacjo",
+    "answers": [
+      "a. w każdej sprawie",
+      "b. tylko w sprawie, w której wyznaczenie rozprawy nie jest obligatoryjne",
+      "c. tylko w sprawie, co do której taka możliwość nie została wyłączona przez przepis szczególny",
+      "d. żadna z odpowiedzi nie jest prawidłowa"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "W postępowaniu nieprocesowym sąd może oddalić wniosek a limine na posiedzeniu niejawnym ze względu na to, że z samej jego treści wynika oczywisty brak uprawnienia wnioskodawcy:",
+    "answers": [
+      "a. w każdej sprawie",
+      "b. tylko w sprawie, w której wyznaczenie rozprawy nie jest obligatoryjne",
+      "c. w każdej sprawie z wyjątkiem spraw z zakresu prawa rzeczowego",
+      "d. w każdej sprawie z wyjątkiem spraw z zakresu prawa osobowego"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Skarga kasacyjna przysługuje od: było na stacjo",
+    "answers": [
+      "a. wyroków nieprawomocnych",
+      "b. wszystkich wyroków prawomocnych",
+      "c. prawomocnych wyroków sądów pierwszej instancji",
+      "d. prawomocnych wyroków sądów drugiej instancji"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Skarga kasacyjna jest niedopuszczalna:",
+    "answers": [
+      "a. co do zasady w sprawach o prawa majątkowe, w których wartość przedmiotu zaskarżenia jest niższa niż 50.000 złotych",
+      "b. co do zasady w sprawach o prawa majątkowe, w których wartość przedmiotu zaskarżenia jest niższa niż 75.000 złotych",
+      "c. w sprawach z zakresu ubezpieczeń społecznych zawsze, gdy wartość przedmiotu zaskarżenia jest niższa niż 10.000 złotych",
+      "d. w sprawach, w których oddalono apelację do wyroku oddalającego powództwo oczywiście bezzasadne, z wyjątkiem wniesienia skargi przez Rzecznika Praw Obywatelskich, Rzecznika Praw Dziecka lub Prokuratora Generalnego"
+    ],
+    "correct": [
+      0,
+      3
+    ]
+  },
+  {
+    "question": "Skarga kasacyjna jest dopuszczalna:",
+    "answers": [
+      "a. Od wydanego przez sąd II instancji prawomocnego wyroku",
+      "b. Od wydanego przez sąd II instancji postanowienia w przedmiocie odrzucenia pozwu albo umorzenia postępowania kończących postępowanie w sprawie"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Skargę kasacyjną do Sądu Najwyższego może wnieść co do zasady:",
+    "answers": [
+      "a. strona",
+      "b. Prokurator Generalny",
+      "c. Rzecznik Praw Obywatelskich",
+      "d. Rzecznik Praw Dziecka"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Sąd Najwyższy przyjmuje skargę kasacyjną do rozpoznania, jezeli:",
+    "answers": [
+      "a. w sprawie występuje istotne zagadnienie prawne",
+      "b. istnieje potrzeba wykładni przepisów prawnych budzących poważne wątpliwości lub wywołujących rozbieżności w orzecznictwie sądów",
+      "c. zachodzi nieważność postępowania",
+      "d. skarga kasacyjna jest oczywiście uzasadniona"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Pozwany Jan Kowalski (hydraulik) samodzielnie złożył skargę kasacyjną od niekorzystnego dla niego wyroku. W tej sytuacji:",
+    "answers": [
+      "a. skarga kasacyjna powinna zostać oddalona",
+      "b. skarga kasacyjna podlega odrzuceniu",
+      "c. Jan Kowalski powinien zostać wezwany do ustanowienia pełnomocnika lub do złożenia wniosku o ustanowienie pełnomocnika z urzędu, w terminie 7 dni pod rygorem oddalenia skargi kasacyjnej",
+      "d. Jan Kowalski powinien zostać wezwany do ustanowienia pełnomocnika lub do złożenia wniosku o ustanowienie pełnomocnika z urzędu, w terminie 7 dni pod rygorem odrzucenia skargi kasacyjnej"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "W sprawach rozpoznawanych w postępowaniu nieprocesowym skarga kasacyjna przysługuje:",
+    "answers": [
+      "a. w sprawach dotyczących przepadku rzeczy",
+      "b. w sprawach dotyczących niepodjętych depozytów",
+      "c. zawsze w sprawie o dział spadku",
+      "d. sprawie o przysposobienie",
+      "e. w postępowaniu w sprawach nieletnich"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "W sprawach rozpoznawanych w postępowaniu nieprocesowym skarga kasacyjne na wydane przez sąd II instancji prawomocne postanowienie co do istoty sprawy przysługuje: było na stacjo",
+    "answers": [
+      "a. zawsze",
+      "b. we wszystkich sprawach z zakresu prawa osobowego",
+      "c. we wszystkich sprawach z zakresu prawa spadkowego",
+      "d. we wszystkich sprawach z zakresu prawa rodzinnego, opiekuńczego i kurateli"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "W postępowaniu nieprocesowym skarga kasacyjna dopuszczalna jest w:",
+    "answers": [
+      "a. każdej sprawie o dział spadku  k.p.c., nie w każdej)",
+      "b. sprawie o podział majątku po ustaniu wspólności majątkowej między małżonkami, jeśli wartość przedmiotu zaskarżenia wynosi minimum sto pięćdziesiąt tysięcy złotych",
+      "c. sprawie o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką prowadzonych na podstawie konwencji haskiej",
+      "d. zabezpieczenie spadku  k.p.c."
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Zarządzenie przewodniczącego o zwrocie pozwu doręcza się:",
+    "answers": [
+      "a. tylko pozwanemu",
+      "b. tylko powodowi",
+      "c. pozwanemu i powodowi",
+      "d. żadna z odpowiedzi nie jest prawidłowa, ponieważ zarządzenie takie pozostawia się w aktach, bez wysyłania do stron"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Doręczeniu i pozwanemu i powodowi (obu stronom) nie podlega:",
+    "answers": [
+      "a. postanowienie w przedmiocie zwolnienia od kosztów sądowych",
+      "b. postanowienie w przedmiocie ustanowienie pełnomocnika z urzędu",
+      "c. postanowienie, którym e-sąd przekazuje sprawę sądowi właściwości ogólnej",
+      "d. zarządzenie o zwrocie pozwu – tylko powodowi.",
+      "e. wydawany na posiedzeniu wyrok oddalający powództwo jako oczywiście bezzasadne"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "question": "Sąd z urzędu doręcza odpis wyroku:",
+    "answers": [
+      "a. zaocznego tylko pozwanemu",
+      "b. wydanego bez przeprowadzenia rozprawy obu stronom",
+      "c. stronie nieobecnej na jego ogłoszeniu z powodu pozbawienia wolności, jeżeli nie ma pełnomocnika",
+      "d. żadna z odpowiedzi nie jest prawidłowa, gdyż odpis wyroku nigdy nie podlega doręczeniu z urzędu"
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Doręczenie pozwanemu będącemu osobą fizyczną pozwu przez „podwójne awizo” jest możliwe w postępowaniu:",
+    "answers": [
+      "a. uproszczonym, o ile adres, pod którym pozostawiono zawiadomienia, jest zgodny z adresem ujawnionym w rejestrze PESEL",
+      "b. nakazowym",
+      "c. upominawczym",
+      "d. elektronicznym upominawczym, o ile adres, pod który pozostawiono zawiadomienia, jest zgodny z adresem ujawnionym w rejestrze PESEL"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Doręczenie pozwanemu będącemu osobą fizyczną pozwu jako pierwszego pisma w sprawie poprzez tzw. podwójne awizo:",
+    "answers": [
+      "a. zawsze jest skuteczne",
+      "b. nigdy nie jest skuteczne",
+      "c. jest skuteczne, ale tylko, jeśli pozew został wysłany na adres pozwanego figurujący w bazie PESEL",
+      "d. jest skuteczne, ale tylko w elektronicznym postępowaniu upominawczym i tylko jeśli pozew został wysłany na adres pozwanego figurujący w bazie PESEL"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Doręczeniu bezpośredniemu podlegają:",
+    "answers": [
+      "a. skargi kasacyjne",
+      "b. skargi na orzeczenie referendarza",
+      "c. pozwy wzajemne",
+      "d. odpowiedzi na pozew"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Doręczeniu bezpośredniemu podlegają:",
+    "answers": [
+      "a. zarzuty do opinii biegłego",
+      "b. skargi na orzeczenie referendarza",
+      "c. pozwy wzajemne",
+      "d. pozwy"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Doręczeniu bezpośredniemu podlega: było na stacjo",
+    "answers": [
+      "a. pozew wzajemny",
+      "b. odpowiedź na pozew",
+      "c. zarzuty do opinii biegłego",
+      "d. skarga o wznowienie postępowania"
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Doręczeniu bezpośredniemu nie podlegają:",
+    "answers": [
+      "a. pozwy wzajemne",
+      "b. apelacje",
+      "c. sprzeciwy od nakazów zapłaty i wyroków zaocznych",
+      "a. zarzuty do opinii biegłego"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Doręczeniu bezpośredniemu w toku postępowania nie podlega:",
+    "answers": [
+      "a. pozew wzajemny",
+      "b. odpowiedź na pozew",
+      "c. wniosek o zabezpieczenie dowodu",
+      "d. zażalenie"
+    ],
+    "correct": [
+      0,
+      3
+    ]
+  },
+  {
+    "question": "Doręczeniu bezpośredniemu w toku postępowania nie podlega:",
+    "answers": [
+      "a. pozew wzajemny",
+      "b. odpowiedź na pozew",
+      "c. wniosek o zabezpieczenie powództwa",
+      "d. zażalenie"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "W postępowaniu procesowym możliwe jest rozpoznanie sprawy na posiedzeniu niejawnym:",
+    "answers": [
+      "a. zawsze, kiedy sąd uzna, że jest to zasadne",
+      "b. w przypadku istnienia podstaw do wydania tzw. zastrzeżonego wyroku zaocznego",
+      "c. gdy pozwany uznał powództwo",
+      "d. zawsze, gdy po złożeniu przez strony pism procesowych i dokumentów, w tym również po wniesieniu zarzutów lub sprzeciwy od nakazu zapłaty albo sprzeciwu od wzroku zaocznego, sąd uzna – mając na względzie całokształt przytoczonych twierdzeń i zgłoszonych wniosków dowodowych – ze przeprowadzenie rozprawy nie jest koniecznie",
+      "e. gdy po złożeniu przez strony pism procesowych i dokumentów, w tym również po wniesieniu zarzutów lub sprzeciwu od nakazu zapłaty albo sprzeciwu od wyroku zaocznego, sąd uzna – mając na względzie całokształt przytoczonych twierdzeń i zgłoszonych wniosków dowodowych – że przeprowadzenie rozprawy nie jest konieczne, chyba że strona w pierwszym piśmie procesowym złożyła wniosek o przeprowadzenie rozprawy"
+    ],
+    "correct": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "question": "Na posiedzeniu niejawnym:",
+    "answers": [
+      "a. może być wydane każde postanowienie merytoryczne",
+      "b. może być wydane postanowienie niemerytoryczne, tylko, jeśli konkretny przepis pozwala na wydanie danego postanowienia na posiedzeniu niejawnym",
+      "c. może być wydany wyrok sądu I instancji zawsze, jeśli sąd uzna że wyznaczenie rozprawy jest zbędne",
+      "d. może być wydany wyrok sądu I instancji tylko, jeśli konkretny przepis pozwala na"
+    ],
+    "correct": []
+  },
+  {
+    "question": "W postępowaniu procesowym na posiedzeniu niejawnym:",
+    "answers": [
+      "a. może być wydane każde postanowienie niemerytoryczne, czyli tak jak w postępowaniu nieprocesowym",
+      "b. nie może być wydane żadne postanowienie nie merytoryczne, czyli tak jak w postępowaniu nieprocesowym",
+      "c. może być wydane tylko takie postanowienie nie merytoryczne, co do którego ustawodawca tak postanowił, czyli tak jak w postępowaniu nieprocesowym",
+      "d. może być wydane tylko takie postanowienie nie merytoryczne, co do którego ustawodawca tak postanowił, czyli inaczej niż w postępowaniu nieprocesowym"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Na posiedzeniu niejawnym może zostać wydany:",
+    "answers": [
+      "a. każdy wyrok sądu II instancji",
+      "b. wyrok sądu II instancji jeżeli zachodzi nieważność postępowania",
+      "c. zawsze wyrok sądu II instancji w postępowaniu uproszczonym",
+      "d. tzw. zastrzeżony wyrok zaoczny"
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Sąd I instancji może wydać wyrok na posiedzeniu niejawnym :",
+    "answers": [
+      "a. gdy pozwany uznał powództwo, także gdy strona w pierwszym piśmie procesowym złożyła wniosek o przeprowadzenie rozprawy",
+      "b. jeśli pozwany nie uznał powództwa - gdy po złożeniu przez strony pism procesowych i dokumentów sąd uzna - mając na względzie całokształt przytoczonych twierdzeń i zgłoszonych wniosków dowodowych - że przeprowadzenie rozprawy nie jest konieczne, chyba że strona w pierwszym piśmie procesowym złożyła wniosek o przeprowadzenie rozprawy",
+      "c. w przypadku gdy powództwo jest oczywiście bezzasadne, chyba że strona w pierwszym piśmie procesowym złożyła wniosek o przeprowadzenie rozprawy",
+      "d. w postępowaniu uproszczonym bez żadnych ograniczeń"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Sąd I instancji może wydać wyrok na posiedzeniu niejawnym :",
+    "answers": [
+      "a. gdy pozwany uznał powództwo, także gdy strona w pierwszym piśmie procesowym złożyła wniosek o przeprowadzenie rozprawy",
+      "b. jeśli pozwany nie uznał powództwa - gdy po złożeniu przez strony pism procesowych i dokumentów sąd uzna - mając na względzie całokształt przytoczonych twierdzeń i zgłoszonych wniosków dowodowych - że przeprowadzenie rozprawy nie jest konieczne, chyba że strona w pierwszym piśmie procesowym złożyła wniosek o przeprowadzenie rozprawy",
+      "c. w przypadku powództwa oczywiście bezzasadnego",
+      "d. w postępowaniu o ochronę posiadania bez żadnych ograniczeń"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Sąd i instancji może wydać wyrok na posiedzeniu niejawnym :",
+    "answers": [
+      "a. gdy pozwany uznał powództwo, chyba że strona w pierwszym piśmie procesowym złożyła wniosek o przeprowadzenie rozprawy",
+      "b. jeśli pozwany nie uznał powództwa - gdy po złożeniu przez strony pism procesowych i dokumentów sąd uzna - mając na względzie całokształt przytoczonych twierdzeń i zgłoszonych wniosków dowodowych - że przeprowadzenie rozprawy nie jest konieczne, chyba że strona w pierwszym piśmie procesowym złożyła wniosek o przeprowadzenie rozprawy",
+      "c. w przypadku gdy powództwo jest oczywiście bezzasadne",
+      "d. w postępowaniu odrębnym w sprawach gospodarczych bez żadnych ograniczeń"
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Sąd I instancji musi wydać wyrok na posiedzeniu niejawnym:",
+    "answers": [
+      "a. pozwany uznał powództwo, chyba że strona w pierwszym piśmie procesowym złożyła wniosek o przeprowadzenie rozprawy",
+      "b. jeśli pozwany nie uznał powództwa - gdy po złożeniu przez strony pism procesowych i dokumentów sąd uzna - mając na względzie całokształt przytoczonych twierdzeń i zgłoszonych wniosków dowodowych - gdy że przeprowadzenie rozprawy nie jest konieczne, chyba że strona w pierwszym piśmie procesowym złożyła wniosek o przeprowadzenie rozprawy",
+      "c. w przypadku gdy powództwo jest oczywiście bezzasadne",
+      "d. żadna z odpowiedzi nie jest prawidłowa, ponieważ kodeks postępowania cywilnego nie przewiduje takiego przypadku"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Sąd drugiej instancji może rozpoznać apelację na posiedzeniu niejawnym:",
+    "answers": [
+      "a. Zawsze",
+      "b. zawsze gdy przeprowadzenie rozprawy nie jest konieczne",
+      "c. gdy zachodzi nieważność postępowania i jednocześnie przeprowadzenie rozprawy nie jest konieczne",
+      "d. tylko, gdy nie sprzeciwiła się temu żadna ze stron"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Sąd z urzędu zarządza odbycie całego posiedzenia przy drzwiach zamkniętych:",
+    "answers": [
+      "a. gdy mogą być ujawnione okoliczności objęte tajemnicą przedsiębiorstwa",
+      "b. gdy roztrząsane mają być szczegóły z życia rodzinnego",
+      "c. jeżeli publiczne rozpoznanie sprawy zagraża porządkowi publicznemu lub moralności",
+      "d. jeżeli mogą być ujawnione okoliczności objęte ochroną informacji niejawnych"
+    ],
+    "correct": [
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Zawarcie ugody nie jest możliwe w sprawach:",
+    "answers": [
+      "a. o rozwód",
+      "b. o unieważnienie małżeństwa",
+      "c. dotyczących ustalenie pochodzenia dziecka",
+      "d. dotyczących kontaktów z dzieckiem"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Zawarcie ugody nie jest możliwe w sprawach:",
+    "answers": [
+      "a. o separację",
+      "b. o ustalenie nieistnienia małżeństwa",
+      "c. o ochronę dóbr osobistych",
+      "d. z zakresu prawa pracy"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Zawarcie ugody jest możliwe w sprawach:",
+    "answers": [
+      "a. o separację",
+      "b. o ustalenie nieistnienia małżeństwa",
+      "c. o ochronę dóbr osobistych",
+      "d. o ustalenie ojcostwa"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Zawarcie ugody jest dopuszczalne w sprawach:",
+    "answers": [
+      "a. z zakresu prawa pracy",
+      "b. o ochronę dóbr osobistych",
+      "c. rozpoznawanych w postępowaniu w sprawach gospodarczych"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Zawarcie ugody jest niedopuszczalne w sprawach:",
+    "answers": [
+      "a. prawa stanu",
+      "b. o ochronę dóbr osobistych",
+      "c. rozpoznawanych w postępowaniu w sprawach gospodarczych",
+      "d. z zakresu ubezpieczeń społecznych",
+      "e. zakresu prawa pracy",
+      "f. o zasiedzenie",
+      "g. rozpoznawanych w postępowaniu nieprocesowym",
+      "h. rozwód",
+      "i. uznanie postanowień wzorca umowy za niedopuszczalne (nie ma już tego przepisu, ale nie można było wtedy zawrzeć ugody)"
+    ],
+    "correct": [
+      0,
+      3,
+      5,
+      7,
+      8
+    ]
+  },
+  {
+    "question": "Do mediacji sąd może skierować strony:",
+    "answers": [
+      "a. tylko na ich wniosek",
+      "b. tylko raz w toku postępowania",
+      "c. na każdym etapie postępowania",
+      "d. tylko w postępowaniu procesowym"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Powództwo o pozbawienie tytułu wykonawczego wykonalności to:",
+    "answers": [
+      "a. inaczej powództwo opozycyjne",
+      "b. inaczej powództwo ekscydencyjne",
+      "c. powództwo, które wytacza dłużnik",
+      "d. powództwo, które wytacza osoba trzecia",
+      "e. powództwo przeciwegzekucyjne"
+    ],
+    "correct": [
+      0,
+      2,
+      4
+    ]
+  },
+  {
+    "question": "Powództwo o pozbawienie tytułu wykonawczego wykonalności to:",
+    "answers": [
+      "a. inaczej powództwo opozycyjne",
+      "b. inaczej powództwo ekscydencyjne",
+      "c. powództwo, które wytacza dłużnik",
+      "d. powództwo, które wytacza osoba trzecia"
+    ],
+    "correct": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "Powództwo przeciwegzekucyjne, które może wnieść osoba trzecia to powództwo:",
+    "answers": [
+      "a. o pozbawienie wykonalności tytułu wykonawczego (inaczej interwencyjne)",
+      "b. o pozbawienie wykonalności tytułu wykonawczego (inaczej opozycyjne)",
+      "c. interwencyjne",
+      "d. interwencyjne (inaczej opozycyjne)"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Powództwo ekscydencyjne:",
+    "answers": [
+      "a. wytacza się przed sąd rzeczowo właściwy miejsca zamieszkania wierzyciela",
+      "b. może być wytoczone tylko po rozpoczęciu postępowania egzekucyjnego",
+      "c. może być wytoczone także przed rozpoczęciem postępowania egzekucyjnego",
+      "d. może wytoczyć dłużnik żądający zwolnienia danego przedmiotu spod egzekucji"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Powództwo opozycyjne:",
+    "answers": [
+      "a. wytacza się przed sąd w okręgu którego prowadzi się egzekucję, a jeżeli jej nie wszczęto wytacza się według przepisów o właściwości ogólnej",
+      "b. może być wytoczone tylko po rozpoczęciu postępowania egzekucyjnego",
+      "c. może być wytoczone także przed rozpoczęciem postępowania egzekucyjnego",
+      "d. może wytoczyć osoba trzecia"
+    ],
+    "correct": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "Powództwo wzajemne jest niedopuszczalne w ,sprawach rozpoznawanych w postępowaniu:",
+    "answers": [
+      "a. o naruszenie posiadania",
+      "b. uproszczonym",
+      "c. w sprawach gospodarczych",
+      "d. nakazowym, po wniesieniu zarzutów"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Powództwo wzajemne jest niedopuszczalne w sprawach:",
+    "answers": [
+      "a. rozwód",
+      "b. naruszenie posiadania",
+      "c. rozpoznawanych w postępowaniu uproszczonym",
+      "d. rozpoznawanych w postępowaniu w sprawach gospodarczych",
+      "e. rozpoznawanych w postępowaniu nakazowym, po wniesieniu zarzutów"
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "question": "Powództwo wzajemne jest dopuszczalne w sprawach: było na stacjo",
+    "answers": [
+      "a. rozpoznawanych w postępowaniu upominawczym, po wniesieniu sprzeciwu",
+      "b. z zakresu prawa pracy",
+      "c. rozpoznawanych w postępowaniu uproszczonym, bez żadnych ograniczeń",
+      "d. separację"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Powództwo wzajemne jest dopuszczalne, jeżeli:",
+    "answers": [
+      "a. roszczenie wzajemne pozostaje w związku z roszczeniem powoda",
+      "b. roszczenie wzajemne nadaje się do potrącenia",
+      "c. przesłanki wymienione w odpowiedziach a i b są spełnione łącznie",
+      "d. żadna z powyższych nie jest prawidłowa"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Wniosek o wykładnię orzeczenia może być wniesiony:",
+    "answers": [
+      "a. w każdym momencie",
+      "b. w ciągu dwóch tygodni od ogłoszenia, a gdy doręczenie następuje z urzędu – od jego"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Kompetencje kuratora dla nieznanego z miejsca pobytu są:",
+    "answers": [
+      "a. takie same jak pełnomocnika do doręczeń",
+      "b. węższe niż pełnomocnika do doręczeń",
+      "c. szersze niż pełnomocnika do doręczeń",
+      "d. żadna z odpowiedzi nie jest prawidłowa"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Ustanowienie kuratora dla osoby nieznanej z miejsca pobytu w postępowaniu cywilnym jest niezbędne:",
+    "answers": [
+      "a. tylko gdy zachodzi potrzeba doręczenia tej osobie odpisu pozwu lub wniosku wszczynającego postępowanie nieprocesowe",
+      "b. gdy zachodzi potrzeba doręczenia tej osobie jakiegokolwiek pisma procesowego wywołującego potrzebę obrony jej praw",
+      "c. gdy zachodzi potrzeba doręczenia tej osobie jakiegokolwiek pisma",
+      "d. żadna z tych odpowiedzi nie jest prawidłowa, gdyż w postępowaniu cywilnym nie jest możliwe ustalenie kuratora dla osoby nieznanej z miejsca pobytu"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Ustanowienie kuratora dla osoby nieznanej z miejsca pobytu w postępowaniu cywilnym:",
+    "answers": [
+      "a. zawsze może nastąpić z urzędu",
+      "b. może nastąpić z urzędu tylko w postępowaniu procesowym",
+      "c. może nastąpić z urzędu tylko w postępowaniu nieprocesowym",
+      "d. nigdy nie może nastąpić z urzędu"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Kurator dla osoby nieznanej z miejsca pobytu sąd ustanawia:",
+    "answers": [
+      "a. zawsze z urzędu",
+      "b. zawsze na wniosek",
+      "c. z urzędu w postępowaniu nieprocesowym",
+      "d. na wniosek w postępowaniu procesowym"
+    ],
+    "correct": [
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Kurator dla osoby nieznanej z miejsca pobytu w postępowaniu cywilnym:",
+    "answers": [
+      "a. zawsze może zostać ustanowiony z urzędu",
+      "b. może zostać ustanowiony z urzędy tylko w postępowaniu procesowym",
+      "c. może dokonywać czynności o charakterze materialnoprawnym",
+      "d. jest przedstawicielem ustawowym nieznanego z miejsca pobytu"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Pełnomocnika z urzędu można ustanowić:",
+    "answers": [
+      "a. w całości lub w części zwolnionej od kosztów sądowych",
+      "b. tylko dla osoby fizycznej",
+      "c. dla osoby prawnej lub innej jednostki organizacyjnej",
+      "d. tylko w postępowaniu procesowym",
+      "e. co do zasady na wniosek",
+      "f. dla osoby fizycznej",
+      "g. w postępowaniu nieprocesowym"
+    ],
+    "correct": [
+      2,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "question": "Pełnomocnik pozwanego Jan Zapominalski nie opłacił pozwu. W tej sytuacji:",
+    "answers": [
+      "a. przewodniczący wezwie Jana Zapominalskiego do uzupełnienia braku fiskalnego pozwu, ale tylko, jeśli Jan Zapominalski nie jest pełnomocnikiem profesjonalnym",
+      "b. sąd zawiesi postępowanie",
+      "c. sąd odrzuci pozew",
+      "d. przewodniczący zwróci pozew, ale tylko, jeśli Jan Zapominalski jest pełnomocnikiem profesjonalnym"
+    ],
+    "correct": [
+      0,
+      3
+    ]
+  },
+  {
+    "question": "Pełnomocnik powoda Jan Zapominalski nie opłacił apelacji. W tej sytuacji:",
+    "answers": [
+      "a. Jana Zapominalski zostanie wezwany do uzupełnienia braku fiskalnego apelacji, ale tylko, jeśli Jan Zapominalski nie jest pełnomocnikiem profesjonalnym",
+      "b. sąd zawiesi postępowanie",
+      "c. sąd odrzuci apelację",
+      "d. Jana Zapominalski zostanie wezwany do uzupełnienia braku fiskalnego apelacji, bez względu na to, czy jest pełnomocnikiem profesjonalnym czy nie"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "W postępowaniu cywilnym sąd jest związany ustaleniami:",
+    "answers": [
+      "a. każdego prawomocnego wyroku sądu karnego",
+      "b. prawomocnego wyroku skazującego sądu karnego",
+      "c. prawomocnego wyroku sądu karnego warunkowo umarzającego postępowanie",
+      "d. prawomocnego wyroku sądu karnego uniewinniającego"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "W postępowaniu nieprocesowym wydawane są następujące kategorie orzeczeń:",
+    "answers": [
+      "a. postanowienia zaskarżalne apelacją",
+      "b. postanowienia zaskarżalne zażaleniem",
+      "c. wpisy (np. wpis w księdze wieczystej)",
+      "d. wyroki"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "W postępowaniu procesowym wydawane są następujące kategorie orzeczeń:",
+    "answers": [
+      "a. postanowienia zaskarżalne apelacją",
+      "b. postanowienia zaskarżalne zażaleniem",
+      "c. zarządzenia",
+      "d. wyroki"
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "W postępowaniu nieprocesowym:",
+    "answers": [
+      "a. regułą jest rozpoznawanie spraw na posiedzeniu niejawnym",
+      "b. na posiedzeniu niejawnym sprawa może być rozpoznawana tylko wtedy, gdy stanowi tak przepis ustawy",
+      "c. co do zasady wyznaczenie rozprawy jest obligatoryjne w sprawach z zakresu prawa spadkowego",
+      "d. co do zasady wyznaczenie rozprawy jest obligatoryjne w sprawach z zakresu prawa rzeczowego"
+    ],
+    "correct": [
+      0,
+      3
+    ]
+  },
+  {
+    "question": "W trybie nieprocesowym rozpoznawane są sprawy o:",
+    "answers": [
+      "a. stwierdzenie nabycia spadku",
+      "b. zachowek",
+      "c. dział spadku",
+      "d. wyłączenie małżonka od dziedziczenia"
+    ],
+    "correct": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "W postępowaniu nieprocesowym od orzeczeń wydanych przez sąd w pierwszej instancji przysługuje:",
+    "answers": [
+      "a. zawsze apelacja",
+      "b. zawsze zażalenie",
+      "c. apelacja, od orzeczeń co do istoty sprawy",
+      "d. zażalenie, od orzeczeń formalnych, jeżeli zgodnie z przepisami podlegają one zaskarżeniu"
+    ],
+    "correct": [
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Postępowanie nieprocesowe jest wszczynane:",
+    "answers": [
+      "a. co do zasady z urzędu",
+      "b. tylko z urzędu",
+      "c. tylko na wniosek",
+      "d. co do zasady na wniosek"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "W postępowaniu nieprocesowym:",
+    "answers": [
+      "a. regułą jest rozpoznawanie spraw na rozprawie",
+      "b. obowiązek wyznaczenia rozprawy istnieje tylko wtedy, gdy stanowi tak przepis ustawy",
+      "c. co do zasady wyznaczenie rozprawy jest obligatoryjne w sprawach z zakresu prawa spadkowego",
+      "d. wyznaczenie rozprawy zależy wyłącznie od uznania przewodniczącego",
+      "e. regułą jest rozpoznawanie spraw na posiedzeniu niejawnym",
+      "f. co do zasady wyznaczenie rozprawy jest obligatoryjne w sprawach z zakresu prawa rzeczowego"
+    ],
+    "correct": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "question": "Przymus adwokacko-radcowski występuje w postępowaniu:",
+    "answers": [
+      "a. apelacyjnym",
+      "b. przed Sądem Najwyższym",
+      "c. zbiorowym",
+      "d. w sprawach gospodarczych"
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Względny przymus adwokacko-radcowski dla obu stron występuje w postępowaniu:",
+    "answers": [
+      "a. przed wszystkimi sądami, bez względu na przedmiot sprawy",
+      "b. odrębnym w sprawach własności intelektualnej",
+      "c. przed sądami apelacyjnymi i Sądem Najwyższym",
+      "d. przed Sądem Najwyższym"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Bezwzględny przymus adwokacko-radcowski dla obu stron występuje w postępowaniu:",
+    "answers": [
+      "a. przed wszystkimi sądami, bez względu na przedmiot sprawy",
+      "b. odrębnym w sprawach własności intelektualnej",
+      "c. przed sądami apelacyjnymi i Sądem Najwyższym",
+      "d. przed Sądem Najwyższym"
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Sąd uzasadnia z urzędu:",
+    "answers": [
+      "a. wszystkie postanowienia ogłoszone na posiedzeniu jawnym",
+      "b. postanowienia ogłoszone na posiedzeniu jawnym, tylko jeżeli podlegają one zaskarżeniu",
+      "c. wszystkie postanowienia wydane na posiedzeniu niejawnym",
+      "d. postanowienia wydane na posiedzeniu niejawnym, tylko jeżeli podlegają one zaskarżeniu"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Utratę mocy zaskarżonego orzeczenia powoduje wniesienie:",
+    "answers": [
+      "a. co do zasady skargi na orzeczenie referendarza",
+      "b. zarzutów od nakazu zapłaty wydanego w postępowaniu nakazowym i sprzeciwu od wyroku zaocznego",
+      "c. apelacji i zażalenia",
+      "d. sprzeciwu od nakazu zapłaty wydanego w postępowaniu upominawczym i w elektronicznym postępowaniu upominawczym"
+    ],
+    "correct": [
+      0,
+      3
+    ]
+  },
+  {
+    "question": "Utratę mocy zaskarżonego orzeczenia powoduje wniesienie:",
+    "answers": [
+      "a. sprzeciwu od wyroku zaocznego",
+      "b. sprzeciwu od nakazu zapłaty wydanego w postępowaniu upominawczym",
+      "c. apelacji",
+      "d. zażalenia"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Utratę mocy zaskarżonego orzeczenia powoduje wniesienie",
+    "answers": [
+      "a. co do zasady skargi na orzeczenie referendarza",
+      "b. sprzeciwu od nakazu zapłaty wydanego w postępowaniu upominawczym",
+      "c. sprzeciwu od nakazu zapłaty wydanego w elektronicznym postępowaniu upominawczym",
+      "d. sprzeciwu od nakazu zapłaty wydanego w postępowaniu upominawczym i w elektronicznym postępowaniu upominawczym",
+      "e. zarzutów od nakazu zapłaty wydanego w postępowaniu nakazowym",
+      "f. apelacji i zażalenia",
+      "g. sprzeciwu od wyroku zaocznego"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Utratę mocy zaskarżonego orzeczenia zawsze powoduje wniesienie:",
+    "answers": [
+      "a. sprzeciwu od wyroku zaocznego",
+      "b. zarzutów od nakazu zapłaty",
+      "c. sprzeciwu od nakazu zapłaty w postępowaniu upominawczym i elektronicznym upominawczym",
+      "d. skargi na orzeczenie referendarza sądowego"
+    ],
+    "correct": [
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Utratę mocy zaskarżonego orzeczenia nie powoduje wniesienie:",
+    "answers": [
+      "a. skargi na czynność komornika",
+      "b. zarzutów od nakazu zapłaty wydanego w postępowaniu nakazowym i sprzeciwu od wyroku zaocznego",
+      "c. apelacji",
+      "d. sprzeciwu od nakazu zapłaty wydanego w postępowaniu upominawczym i w elektronicznym postępowaniu upominawczym"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "W przypadku wniesienia zarzutów od nakazu zapłaty:",
+    "answers": [
+      "a. postępowanie podlega umorzeniu",
+      "b. pozew podlega odrzuceniu",
+      "c. nakaz zapłaty traci moc",
+      "d. nakaz zapłaty nie traci mocy"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Uzyskanie zabezpieczenia dopuszczalne jest:",
+    "answers": [
+      "a. tylko w postępowaniu procesowym",
+      "b. w postępowaniu nieprocesowym",
+      "c. tylko przed wszczęciem postępowania rozpoznawczego",
+      "d. w toku postępowania rozpoznawczego"
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Uzyskanie zabezpieczenia nie jest dopuszczalne:",
+    "answers": [
+      "a. w postępowaniu nieprocesowym",
+      "b. przed wszczęciem postępowania rozpoznawczego",
+      "c. w sprawach rozpoznawanych w postępowaniu gospodarczym",
+      "d. żadna z odpowiedzi nie jest prawidłowa"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Udzielenie zabezpieczenia roszczenia jest niedopuszczalne:",
+    "answers": [
+      "a. w postępowaniu nieprocesowym",
+      "b. w postępowaniu przed sądem II instancji",
+      "c. przed wszczęciem postępowania rozpoznawczego",
+      "d. Żadna z odpowiedzi nie jest prawidłowa"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Udzielenie zabezpieczenia roszczenia dopuszczalne jest:",
+    "answers": [
+      "a. tylko w postępowaniu procesowym",
+      "b. z urzędu",
+      "c. tylko przed wszczęciem postępowania rozpoznawczego",
+      "d. w toku postępowania rozpoznawczego"
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Tytuł zabezpieczenia, wykonalny bez nadawania mu klauzuli wykonalności stanowi:",
+    "answers": [
+      "a. każdy nakaz zapłaty wydany w postępowaniu nakazowym",
+      "b. tylko nakaz zapłaty wydany w postępowaniu nakazowym na podstawie weksla lub czeku",
+      "c. każdy nakaz zapłaty wydane w postępowaniu upominawczym",
+      "d. wyrok sądu pierwszej instancji wydany w postępowaniu w sprawach gospodarczych zasądzający świadczenie w pieniądzu lub rzeczach zmiennych"
+    ],
+    "correct": [
+      0,
+      3
+    ]
+  },
+  {
+    "question": "Z wnioskiem o zabezpieczenie dowodu:",
+    "answers": [
+      "a. można wystąpić tylko w postępowaniu procesowym",
+      "b. można wystąpić także przed wszczęciem postępowania",
+      "c. może wystąpić tylko powód (pozwany też może)",
+      "d. można wystąpić w postępowaniu nieprocesowym"
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Z wnioskiem o zabezpieczenie dowodu:",
+    "answers": [
+      "a. można wystąpić tylko w postępowaniu procesowym",
+      "b. można wystąpić także przed wszczęciem postępowania",
+      "c. może wystąpić pozwany (powód też może)",
+      "d. można wystąpić w postępowaniu nieprocesowym"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Z wnioskiem o zabezpieczenie dowodu nie można wystąpić:",
+    "answers": [
+      "a. w postępowaniu przed sądem II instancji",
+      "b. przed wszczęciem postępowania",
+      "c. w postępowaniu uproszczonym",
+      "d. żadna z odpowiedzi nie jest prawidłowa"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Odpowiedź na pozew złożona po terminie podlega: - było na stacjo",
+    "answers": [
+      "a. odrzuceniu",
+      "b. zwrotowi",
+      "c. pozostawaniu w aktach bez podjęcia dalszych czynności",
+      "d. oddaleniu"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Wniesienie odpowiedzi na pozew jest:",
+    "answers": [
+      "a. zawsze obligatoryjne, czyli tak jak w postępowaniu nieprocesowym wniesieniu odpowiedzi na wniosek",
+      "b. fakultatywne, a obligatoryjne tylko na zarządzenie, czyli tak jak w postępowaniu nieprocesowym",
+      "c. zawsze obligatoryjne, czyli inaczej niż w postępowaniu nieprocesowym",
+      "d. fakultatywne, a obligatoryjne tylko na zarządzenie, czyli inaczej niż w postepowaniu nieprocesowym"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Wniesienie odpowiedzi na wniosek w postępowaniu nieprocesowym jest:",
+    "answers": [
+      "a. fakultatywne, a obligatoryjne tylko na zarządzenie, czyli inaczej niż w postępowaniu procesowym",
+      "b. fakultatywne, a obligatoryjne tylko na zarządzenie, czyli tak jak w postępowaniu procesowym",
+      "c. zawsze obligatoryjne, czyli inaczej niż w postępowaniu procesowym",
+      "d. zawsze obligatoryjne, czyli tak jak w postępowaniu procesowym"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Wniesienie odpowiedzi na apelację jest:",
+    "answers": [
+      "a. obligatoryjne",
+      "b. fakultatywne",
+      "c. obligatoryjne w postępowaniu procesowym a fakultatywne w postępowaniu nieprocesowym",
+      "d. fakultatywne w postępowaniu procesowym a obligatoryjne w postępowaniu nieprocesowym"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "W przypadku niewniesienia odpowiedzi na pozew:",
+    "answers": [
+      "a. sąd jest zobligowany wydać wyrok zaoczny na posiedzeniu niejawnym",
+      "b. sąd jest zobligowany wydać wyrok zaoczny na posiedzeniu niejawnym, ale tylko w postępowaniu w sprawach gospodarczych",
+      "c. sąd może wydać wyrok zaoczny na posiedzeniu niejawnym",
+      "d. przewodniczący zwraca pozew"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Wniosek o zawezwanie do próby ugodowej co do zasady składa się w sądzie:",
+    "answers": [
+      "a. rzeczowo i miejscowo właściwym dla rozstrzygnięcia sporu, którego dotyczy zawezwanie",
+      "b. rejonowym właściwości ogólnej przeciwnika",
+      "c. rejonowym właściwości ogólnej wnioskodawcy",
+      "d. okręgowym właściwości ogólnej przeciwnika"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Wniosek o zawezwanie do próby ugodowej składa się w sądzie:",
+    "answers": [
+      "a. rzeczowo i miejscowo właściwym dla rozstrzygnięcia sporu, którego dotyczy zawezwanie",
+      "b. dowolnym sądzie rejonowym wybranym przez wnioskodawcę",
+      "c. okręgowym właściwości ogólnej przeciwnika",
+      "d. rejonowym właściwości ogólnej przeciwnika"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Wniosek o zawezwanie do próby ugodowej w braku możliwości ustalenia sądu właściwości ogólnej przeciwnika składa się w sądzie:",
+    "answers": [
+      "a. rzeczowo i miejscowo właściwym dla rozstrzygnięcia sporu, którego dotyczy zawezwanie",
+      "b. dowolnym sądzie rejonowym wybranym przez wnioskodawcę",
+      "c. rejonowym właściwości ogólnej wnioskodawcy",
+      "d. okręgowym właściwości ogólnej wnioskodawcy"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Wniosek o zawezwanie do próby ugodowej składa się:",
+    "answers": [
+      "a. zawsze w sądzie rejonowym",
+      "b. w sądzie rejonowym lub okręgowym w zależności od tego, jaki sąd byłby właściwy do rozpoznania sprawy",
+      "c. w sądzie ogólnie właściwym dla przeciwnika, a w braku podstaw do ustalenia tej właściwości – do sądu właściwego dla miejsca zamieszkania albo siedziby wzywającego",
+      "d. zawsze w sądzie ogólnie właściwym dla wzywającego"
+    ],
+    "correct": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "Wniosek o zawezwanie do próby ugodowej:",
+    "answers": [
+      "a. podlega opłacie stałej (1/5 opłaty)",
+      "b. można wnieść także w sprawie podlegającej rozpoznaniu w trybie nieprocesowym",
+      "c. składa się w sądzie właściwym dla miejsca zamieszkania albo siedziby wzywającego, ale tylko gdy nie da się ustalić sądu właściwości ogólnej przeciwnika",
+      "d. musi zawierać propozycje ugodowe",
+      "e. zawsze w sądzie rejonowym"
+    ],
+    "correct": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "question": "Jeśli powód niemający pełnomocnika bez usprawiedliwienia nie stawi się na posiedzeniu przygotowawczym to sąd powinien:",
+    "answers": [
+      "a. oddalić powództwo",
+      "b. zawsze zawiesić postępowanie",
+      "c. umorzyć postępowanie jeśli powód nie wniósł o przeprowadzenie postępowania przygotowawczego bez jego udziału",
+      "d. zawiesić postępowanie tylko, jeśli powód nie wniósł o przeprowadzenie postępowania przygotowawczego bez jego udziału"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Jeśli pozwany niemający pełnomocnika bez usprawiedliwienia nie stawi się na posiedzeniu przygotowawczym to:",
+    "answers": [
+      "a. sąd powinien oddalić powództwo",
+      "b. sąd powinien zawsze zawiesić postępowanie",
+      "c. plan rozprawy sporządza się bez jego udziału",
+      "d. sąd powinien zawiesić postępowanie tylko, jeśli pozwany nie wniósł o przeprowadzenie postępowania przygotowawczego bez jego udziału"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "W razie uwzględnienia apelacji sąd drugiej instancji MOŻE (ALE NIE MUSI) uchylić wyrok i przekazać sprawę do ponownego rozpoznania sądowi I instancji, jeśli",
+    "answers": [
+      "a. zachodzi nieważność postępowania",
+      "b. sąd I instancji nie rozpoznał istoty sprawy",
+      "c. wydanie wyroku wymaga przeprowadzenia postępowania dowodowego w całości",
+      "d. stwierdzi, że powództwo uznane przez sąd I instancji za oczywiście bezzasadne nie jest oczywiście bezzasadne"
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "W razie uwzględnienia apelacji sąd drugiej instancji MUSI uchylić wyrok i przekazać sprawę do ponownego rozpoznania sądowi w I instancji, jeśli:",
+    "answers": [
+      "a. zachodzi nieważność postępowania",
+      "b. sąd I instancji nie rozpoznał istoty sprawy",
+      "c. wydanie wyroku wymaga przeprowadzenia postępowania dowodowego w całości",
+      "d. stwierdza, że powództwo nie jest oczywiście bezzasadne, a jako takie zostało oddalone przez sąd I instancji"
+    ],
+    "correct": [
+      0,
+      3
+    ]
+  },
+  {
+    "question": "W razie uwzględnienia apelacji sąd drugiej instancji MUSI uchylić wyrok i przekazać sprawę do ponownego rozpoznania sądowi I instancji, jeśli:",
+    "answers": [
+      "a. zachodzi nieważność postępowania",
+      "b. sąd I instancji nie rozpoznał istoty sprawy",
+      "c. wydanie wyroku wymaga przeprowadzenia postępowania dowodowego w całości",
+      "d. żadna z odpowiedzi nie jest prawidłowa"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Od orzeczenia sądu II instancji uchylającego wyrok i przekazującego sprawę do ponownego rozpoznania sądowi I instancji przysługuje:",
+    "answers": [
+      "a. tzw. zażalenie poziome",
+      "b. skarga kasacyjna",
+      "c. zażalenie do Sądu Najwyższego",
+      "d. apelacja"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Zastrzeżenie do protokołu, o którym mowa w art. 162 k.p.c.:",
+    "answers": [
+      "a. powoduje, że strona, która jest reprezentowana przez pełnomocnika profesjonalnego może skutecznie zarzucać w apelacji uchybienie przez sąd I instancji przepisom postępowania polegającego na wydaniu postanowienia, które może być zmienione lub uchylone stosownie do okoliczności",
+      "b. może być zgłoszone do zakończenia postępowania w danej instancji",
+      "c. może być zgłoszone tylko na posiedzeniu, na którym doszło do uchybienia przez sąd przepisom postępowania",
+      "d. może dotyczyć jedynie takich uchybień popełnionych przy dokonywaniu czynności procesowych przez sąd, których nie można zaskarżyć zażaleniem"
+    ],
+    "correct": [
+      0,
+      3
+    ]
+  },
+  {
+    "question": "Zastrzeżenie do protokołu, o którym mowa w art. 162 k.p.c.:",
+    "answers": [
+      "a. może dotyczyć jedynie takich uchybień popełnionych przy dokonywaniu czynności procesowych przez sąd, których podjęcie zostało stronom zakomunikowane przez wydanie postanowienia lub zarządzenia (Wyrok SN z dn. 3 lutego 2010 r o sygn. akt II CSK 286/09)",
+      "b. jest warunkiem tego, aby strona reprezentowana przez profesjonalnego pełnomocnika mogła skutecznie zarzucać w apelacji uchybienie przez sąd I instancji przepisom postępowania polegającego na wydaniu postanowienia, które może być zmienione lub uchylone stosownie do okoliczności.",
+      "c. powinno być zgłoszone, jeśli strona jest niezadowolona z postanowienia podlegającego odrębnemu zaskarżeniu",
+      "d. powinno być zgłoszone, jeśli strona jest niezadowolona z postanowienia, które choć nie podlega odrębnemu zaskarżeniu zażalenie, to jednak wiąże sąd, który je wydał"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Zastrzeżenie do protokołu, o którym mowa w art. 162 k.p.c.:",
+    "answers": [
+      "a. może dotyczyć jedynie takich uchybień popełnionych przy dokonywaniu czynności procesowych przez sąd, których podjęcie zostało stronom zakomunikowane przez wydanie postanowienia lub zarządzenia",
+      "b. powoduje, że strona, która jest reprezentowana przez pełnomocnika profesjonalnego może skutecznie zarzucać w apelacji uchybienie przez sąd I instancji przepisom postępowania polegającego na wydaniu postanowienia, które może być zmienione lub uchylone stosownie do okoliczności",
+      "c. może być zgłoszone do zakończenia postępowania w danej instancji",
+      "d. może być zgłoszone tylko na posiedzeniu, na którym doszło do uchybienia przez sąd przepisom postępowania"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Natychmiast wykonalny po upływie terminu do zaspokojenia roszczenia staje się:",
+    "answers": [
+      "a. każdy nakaz zapłaty wydany w postępowaniu nakazowym",
+      "b. nakaz zapłaty wydany w postępowaniu nakazowym na podstawie weksla lub czeku",
+      "c. nakaz zapłaty wydany w postępowaniu nakazowym na podstawie dokumentu urzędowego",
+      "d. żaden nakaz zapłaty wydany w postępowaniu elektronicznym upominawczym",
+      "e. każdy nakaz zapłaty wydany w postępowaniu upominawczym",
+      "f. wyroku sądu pierwszej instancji wydany w postępowaniu w sprawach gospodarczych zasądzający świadczenie w pieniądzu lub rzeczach zamiennych"
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Natychmiast wykonalny po upływie terminu do zaspokojenia roszczenia staje się:",
+    "answers": [
+      "a. każdy nakaz zapłaty wydany w postępowaniu nakazowym",
+      "b. tylko nakaz zapłaty wydany w postępowaniu nakazowym na podstawie weksla lub czeku",
+      "c. każdy nakaz zapłaty wydany w postępowaniu upominawczym",
+      "d. wyroku sądu pierwszej instancji wydany w postępowaniu w sprawach gospodarczych zasądzający świadczenie w pieniądzu lub rzeczach zamiennych"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Możliwość przekazania sprawy innemu sądowi równorzędnemu - na zgodny wniosek stron - występuje:",
+    "answers": [
+      "a. w każdej sprawie",
+      "b. w sprawie z zakresu prawa pracy",
+      "c. tylko w sprawie rozpoznawanej w postępowaniu nieprocesowym",
+      "d. tylko w sprawach o alimenty"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Która z czynności wymaga wydania POSTANOWIENIA:",
+    "answers": [
+      "a. przekazanie sprawy do innego wydziału w tym samym sądzie- ZARZĄDZENIE",
+      "b. przekazanie sprawy według właściwości do innego sądu",
+      "c. zmiana trybu postępowania",
+      "d. decyzja o rozpoznaniu w postępowaniu upominawczym pozwu, który został zarejestrowany w postępowaniu zwykłym- ZARZĄDZENIE"
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Sąd właściwy może na zgodny wniosek stron przekazać do rozpoznania innemu sądowi równorzędnemu, jeżeli przemawiają za tym względy celowości:",
+    "answers": [
+      "a. każdą sprawę",
+      "b. tylko sprawę z zakresu prawa pracy lub ubezpieczeń społecznych",
+      "c. tylko sprawę rozpoznawaną w postępowaniu nieprocesowym",
+      "d. tylko sprawę gospodarczą"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Wniosek o sprostowanie orzeczenia może być wniesiony: BYŁO NA STACJO",
+    "answers": [
+      "a. w każdym momencie",
+      "b. w takim samym terminie jak wniosek o uzupełnienie",
+      "c. przez każdą ze stron/ każdego uczestnika",
+      "d. do momentu jego uprawomocnienia się"
+    ],
+    "correct": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "Wniosek o uzupełnienie wyroku może być wniesiony:",
+    "answers": [
+      "a. w każdym momencie",
+      "b. w ciągu dwóch tygodni od ogłoszenia wyroku, a gdy doręczenie wyroku następuje z urzędu - od jego doręczenia",
+      "c. w ciągu 21 dni od ogłoszenia wyroku, a gdy doręczenie wyroku następuje z urzędu - od jego doręczenia",
+      "d. do momentu jego uprawomocnienia się"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Sprostowania orzeczenia sąd dokonuje:",
+    "answers": [
+      "a. tylko na wniosek",
+      "b. z urzędu",
+      "c. tylko do czasu jego uprawomocnienia",
+      "d. na takich samych zasadach jak uzupełnienia orzeczenia"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Postanowienie dowodowe:",
+    "answers": [
+      "a. nie jest zaskarżalne",
+      "b. może być wydane także na posiedzeniu niejawnym",
+      "c. wiąże sąd, który je wydał",
+      "d. może zostać uchylone lub zmienione przez sąd"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Postanowienie dowodowe:",
+    "answers": [
+      "a. nie jest zaskarżalne",
+      "b. może być wydane tylko na rozprawie",
+      "c. może być wydane na posiedzeniu niejawnym",
+      "d. nie wiąże sądu, które je wydał",
+      "e. może zostać uchylone lub zmienione przez sąd"
+    ],
+    "correct": [
+      0, 2, 3, 4
+    ]
+  },
+  {
+    "question": "Umowę dowodową strony mogą zawrzeć w:",
+    "answers": [
+      "f. każdej sprawie",
+      "g. w sprawie rozpoznawanej w postępowaniu w sprawach gospodarczych",
+      "h. w sprawie rozpoznawanej w postępowaniu w sprawach z zakresu prawa pracy",
+      "i. w sprawie rozpoznawanej w postępowaniu uproszczonym"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Umowy dowodowej strony nie mogą zawrzeć w:",
+    "answers": [
+      "a. żadnej sprawie w trakcie jej trwania, a w każdej mogą przed wszczęciem postępowania",
+      "b. w sprawie rozpoznawanej w postępowaniu w sprawach gospodarczych",
+      "c. w sprawie rozpoznawanej w postępowaniu w sprawach z zakresu prawa pracy",
+      "d. w sprawie o dział spadku"
+    ],
+    "correct": [
+      2,
+      3
+    ]
+  },
+  {
+    "question": "W postępowaniu cywilnym:",
+    "answers": [
+      "a. obowiązek przedstawiania dowodów spoczywa na stronach",
+      "b. procesowym regułą jest działanie sądu z urzędu w zakresie postępowania dowodowego",
+      "c. nieprocesowym regułą jest działanie sądu z urzędu w zakresie postępowania dowodowego",
+      "d. obowiązuje tzw. legalna teoria dowodów"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "W postępowaniu cywilnym:",
+    "answers": [
+      "a. obowiązek przedstawiania dowodów spoczywa na stronach",
+      "b. sąd ma prawo dopuszczać dowody z urzędu, ale tylko w postępowaniu nieprocesowym",
+      "c. sąd ma prawo dopuszczać dowody z urzędu, ale tylko w postępowaniu procesowym",
+      "d. nie obowiązuje tzw. legalna teoria dowodów"
+    ],
+    "correct": [
+      0,
+      3
+    ]
+  },
+  {
+    "question": "Nieważność postępowania zachodzi gdy:",
+    "answers": [
+      "a. droga sądowa była niedopuszczalna",
+      "b. jeżeli o to samo roszczenie między tymi samymi stronami toczy się sprawa wcześniej wszczęta albo jeżeli sprawa taka została już prawomocnie osądzona",
+      "c. strona została pozbawiona możności obrony swych praw",
+      "d. w sprawie orzekł sąd, który nie był właściwy rzeczowo"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Odmowa dopuszczenia do udziału w sprawie w charakterze uczestnika następuje w formie:",
+    "answers": [
+      "a. wyroku",
+      "b. zarządzenia",
+      "c. postanowienia zaskarżalnego",
+      "d. postanowienia niezaskarżalnego"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Po upływie lat dziesięciu od dnia uprawomocnienia się wyroku:",
+    "answers": [
+      "a. nigdy nie można żądać wznowienia postępowania",
+      "b. można żądać wznowienia postępowania bez żadnych ograniczeń",
+      "c. można żądać wznowienia postępowania, gdy strona była pozbawiona możliwości działania",
+      "d. można żądać wznowienia postępowania, gdy strona nie była należycie reprezentowana"
+    ],
+    "correct": [
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Z powodu przestępstwa można żądać wznowienia postępowania:",
+    "answers": [
+      "a. tylko, gdy czyn został ustalony prawomocnym wyrokiem skazującym",
+      "b. także, gdy postępowanie karne nie może być wszczęte",
+      "c. także, gdy postępowanie karne zostało umorzone bez względu na przyczynę umorzenia",
+      "d. także gdy postępowanie zostało umorzone z innych przyczyn"
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "W toku postępowania co do zasady nie można występować z nowymi roszczeniami zamiast lub obok dotychczasowych w postępowaniu:",
+    "answers": [
+      "a. w sprawach gospodarczych",
+      "b. nakazowym po wniesieniu zarzutów",
+      "c. upominawczym po wniesieniu sprzeciwu",
+      "d. apelacyjnym"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Z nowymi roszczeniami zamiast lub obok dotychczasowych można występować:",
+    "answers": [
+      "a. zawsze w postępowaniu pierwszoinstancyjnym",
+      "b. w postępowaniu upominawczym, po wniesieniu sprzeciwu",
+      "c. w postępowaniu uproszczonym, jednak z ograniczeniami",
+      "d. bez ograniczeń w postępowaniu apelacyjnym"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Można żądać stwierdzenia niezgodności z prawem:",
+    "answers": [
+      "a. co do zasady prawomocnego wyroku sądu II instancji",
+      "b. co do zasady prawomocnego wyroku sądu I instancji",
+      "c. w wyjątkowych przypadkach prawomocnego wyroku sądu II instancji",
+      "d. w wyjątkowych przypadkach prawomocnego wyroku sądu I instancji"
+    ],
+    "correct": [
+      0,
+      3
+    ]
+  },
+  {
+    "question": "Jan Pokrzywdzony wniósł apelację od wydanego na posiedzeniu niejawnym wyroku, który nie został podpisany. W tej sytuacji apelacja podlega:",
+    "answers": [
+      "a. zwrotowi",
+      "b. rozpoznaniu po uzupełnieniu przez sąd I instancji brakującego podpisu",
+      "c. odrzuceniu",
+      "d. oddaleniu"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Adwokat Jan Niesolidny złożył w imieniu swojego klienta pozew wraz z wnioskiem o zwolnienie od opłaty od pozwu, do którego nie załączył oświadczenia o stanie rodzinnym, majątku, dochodach i źródłach utrzymania (nie zawarł także niezbędnych informacji w treści wniosku). W tyj sytuacji powinno dojść do:",
+    "answers": [
+      "a. zwrotu wniosku i odrzucenia pozwu",
+      "b. zwrotu wniosku i wezwania do opłacenia pozwu",
+      "c. wezwania do uzupełnienia braku formalnego wniosku o zwolnienie od opłaty poprzez przedłożenie oświadczenia",
+      "d. zwrotu wniosku i zwrotu pozwu"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Jan Roztargniony wniósł do sądu zażalenie, którego braki uzupełnił po upływie wyznaczonego terminu. W tej sytuacji sąd:",
+    "answers": [
+      "a. pozostawi zażalenie bez rozpoznania",
+      "b. zwróci zażalenie",
+      "c. odrzuci zażalenie",
+      "d. oddali zażalenie"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Pełnomocnik pozwanego Jan Zapominalski nie podpisał się pod odpowiedzią na pozew. W tej sytuacji:",
+    "answers": [
+      "a. przewodniczący wezwie Jana Zapominalskiego do uzupełnienia braku formalnego odpowiedzi na pozew, ale tylko, jeśli Jan Zapominalski nie jest pełnomocnikiem profesjonalnym",
+      "b. przewodniczący zwróci odpowiedź na pozew, bez względu na to, czy Jan Zapominalski jest pełnomocnikiem profesjonalnym czy nie, ale tylko w postępowaniu w sprawach gospodarczych",
+      "c. sąd odrzuci odpowiedź na pozew, ale tylko, jeśli Jan Zapominalski jest pełnomocnikiem profesjonalnym",
+      "d. przewodniczący zwróci odpowiedź na pozew, ale tylko, jeśli Jan Zapominalski jest pełnomocnikiem profesjonalnym"
+    ],
+    "correct": [
+      0,
+      3
+    ]
+  },
+  {
+    "question": "Postanowieniem z dnia 2 stycznia 2020 r. Sąd Rejonowy dla Krakowa - Nowej Huty w Krakowie zawiesił na zgodny wniosek stron postępowanie w sprawie o zapłatę. Żadne ze stron do dnia 17 lipca 2020 r. Nie podjęła żadnych czynności procesowych. W tej sytuacji sąd powinien (przy założeniu, że nie obowiązywała w tym okresie żadna regulacja pozakodeksowa wpływająca na bieg terminów):",
+    "answers": [
+      "a. podjąć zawieszone postępowanie",
+      "b. podjąć zawieszone postępowania, a następnie je umorzyć",
+      "c. umorzyć postępowanie",
+      "d. wezwać powoda do podania, w terminie tygodniowym, czy podtrzymuje powództwo, pod rygorem przyjęcia, że cofa"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Sąd Apelacyjny odmówił Janowi Kowalskiemu ustanowienia pełnomocnika z urzędu, o co Jan Kowalski wniósł po raz pierwszy przed sądem rozpoznającym apelację. Co może zrobić w tej sytuacji Jan Kowalski",
+    "answers": [
+      "a. niestety nic, bo postanowienie zostało wydane przez sąd II instancji",
+      "b. może wnieść zażalenie do innego sądu równorzędnego",
+      "c. może wnieść zażalenie do sądu II instancji, które sąd rozpozna w takim samym składzie w jakim wydał postanowienie o odmowie ustanowienia pełnomocnika",
+      "d. może wnieść zażalenie do sądu II instancji, które sąd rozpozna w innym składzie niż ten w jakim wydał postanowienie o odmowie ustanowienia pełnomocnika"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Adwokat Jan Niesolidny złożył w imieniu swojego klienta apelację wraz z wnioskiem o zwolnienie od opłaty od apelacji, do którego nie załączył oświadczenia o stanie rodzinnym, majątku, dochodach i źródłach utrzymania. W tej sytuacji powinno dojść do:",
+    "answers": [
+      "a. zwrotu wniosku i odrzucenia apelacji",
+      "b. zwrotu wniosku i wezwania do opłacenia apelacji",
+      "c. wezwania do uzupełnienia braku formalnego wniosku o zwolnienie od opłaty poprzez przedłożenie oświadczenia?",
+      "d. oddalenia apelacji"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Od wniosków inicjujących postępowanie nieprocesowe pobiera się opłatę:",
+    "answers": [
+      "a. co do zasady stałą",
+      "b. co do zasady stosunkową",
+      "c. stałą",
+      "d. stosunkową"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Skarga kasacyjna nie przysługuje od:",
+    "answers": [
+      "a. wyroków nieprawomocnych",
+      "b. prawomocnych wyroków sądów drugiej instancji",
+      "c. prawomocnych wyroków sądów pierwszej instancji",
+      "d. wyroków uchylających zaskarżony wyrok i przekazujących sprawę do ponownego rozpoznania sądowi I instancji"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Od pozwu w postępowaniu upominawczym pobiera się:",
+    "answers": [
+      "a. opłatę taką jak w postępowaniu nakazowym",
+      "b. opłatę taką jak w postępowaniu elektronicznym upominawczym",
+      "c. połowę opłaty",
+      "d. całą opłatę"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Od pozwu o zapłatę kwoty 200.000 złotych tytułem wynagrodzenia za wykonane roboty budowlane, w postępowaniu nakazowym należy uiścić opłatę w wysokości (1/4 opłaty):",
+    "answers": [
+      "a. 1000 zł",
+      "b. 2500 zł",
+      "c. 5000 zł",
+      "d. 7500 zł"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Przeprowadzenie posiedzenia przygotowawczego jest:",
+    "answers": [
+      "a. zasadą w postępowaniu procesowym „zwykłym”",
+      "b. wyjątkiem w postępowaniu uproszczonym",
+      "c. pozostawione do decyzji przewodniczącego w postępowaniu nieprocesowym",
+      "d. żadna z odpowiedni nie jest prawidłowa"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Sprzeciw jest środkiem zaskarżenia:",
+    "answers": [
+      "a. wyroku zaocznego, ale tylko dla powoda",
+      "b. nakazu zapłaty wydanego w postępowaniu upominawczym",
+      "c. nakazu zapłaty wydanego w postępowaniu elektronicznym upominawczym",
+      "d. wyroku zaocznego, ale tylko dla pozwanego"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Skarga kasacyjna nie jest dopuszczalna w sprawach:",
+    "answers": [
+      "a. o alimenty",
+      "b. o naruszenie posiadania",
+      "c. rozpoznawanych w postępowaniu uproszczonym",
+      "d. o ubezwłasnowolnienie"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Skarga kasacyjna:",
+    "answers": [
+      "a. przysługuje od wyroków prawomocnych -",
+      "b. może być wniesiona tylko przez stronę (uczestnika) postępowania -",
+      "c. co do zasady nie może być wniesiona od wyroku oddalającego apelację od wyroku oddalającego powództwo jako oczywiście bezzasadne -",
+      "d. nie wstrzymuje wykonania zaskarżonego wyroku"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Ugoda zawarta przed mediatorem:",
+    "answers": [
+      "a. zastępuje formę aktu notarialnego",
+      "b. ma taką samą moc jak ugoda sądowa",
+      "c. wymaga zatwierdzenia przez sąd",
+      "d. nie może być zawarta w sprawach o prawa niemajątkowe"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Wniesienie powództwa wzajemnego nie jest możliwe w:",
+    "answers": [
+      "a. sprawie o separację",
+      "b. postępowaniu uproszczonym",
+      "c. postępowaniu gospodarczym",
+      "d. postępowaniu nakazowym po wniesieniu zarzutów"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Proszę wskazać błędnie dobrane pary:",
+    "answers": [
+      "a. umowa dowodowa – postępowanie w sprawach gospodarczych",
+      "b. brak możliwości zwolnienia od kosztów sądowych na wniosek – elektroniczne postępowanie upominawcze",
+      "c. zakaz zawierania ugód – postępowanie w sprawach z zakresu prawa pracy",
+      "d. przymus adwokacko-radcowski – postępowanie przed Sądem Najwyższym"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Proszę wskazać zdanie (-a) prawdziwe:",
+    "answers": [
+      "a. Po upływie 10 lat od dnia uprawomocnienia się wyroku nie można żądać wznowienia postępowania",
+      "b. Sędzia, którego udziału lub zachowania się w procesie poprzednim dotyczy skarga, wyłączony jest od orzekania w postępowaniu ze skargi o wznowienie",
+      "c. Dopuszczalne jest dalsze wznowienie postępowania zakończonego prawomocnym orzeczeniem wydanym na skutek skargi o wznowienie",
+      "d. Wniesienie skargi o wznowienie tamuje wykonanie zaskarżonego wyroku"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Sprawy należące do postępowania nieprocesowego rozpoznają w I instancji:",
+    "answers": [
+      "a. tylko sądy rejonowe",
+      "b. tylko sądy okręgowe",
+      "c. co do zasady sądy okręgowe",
+      "d. co do zasady sądy rejonowe"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "W postępowaniu przed sądem okręgowym nie mogą być stosowane przepisy o postępowaniu:",
+    "answers": [
+      "a. uproszczonym",
+      "b. nakazowym",
+      "c. elektronicznym upominawczym",
+      "d. upominawczym"
+    ],
+    "correct": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "Zażalenie wniesione po terminie podlega:",
+    "answers": [
+      "a. zwrotowi",
+      "b. oddaleniu",
+      "c. odrzuceniu",
+      "d. żadna z odpowiedzi nie jest prawidłowa"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "W elektronicznym postępowaniu upominawczym:",
+    "answers": [
+      "a. mogą być dochodzone roszczenia, które stały się wymagalne w okresie 3 lat przed dniem wniesienia pozwu",
+      "b. mogą być dochodzone roszczenia, które stały się wymagalne w okresie 6 lat przed dniem wniesienia pozwu",
+      "c. mogą być dochodzone roszczenia, które stały się wymagalne w okresie 10 lat przed dniem wniesienia pozwu",
+      "d. nie przewidziano żadnych ograniczeń związanych z datą wymagalności dochodzonego roszczenia"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Sąd Najwyższy przyjmuje skargę kasacyjną do rozpoznania:",
+    "answers": [
+      "a. jeżeli w sprawie występuje istotne zagadnienie prawne",
+      "b. jeżeli istnieje potrzeba wykładni przepisów prawnych budzących poważne wątpliwości lub wywołujących rozbieżności w orzecznictwie sądów",
+      "c. jeżeli zachodzi nieważność postępowania",
+      "d. tylko jeżeli wszystkie powyższe przesłanki są spełnione jednocześnie"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Sąd drugiej instancji może rozpoznać apelację na posiedzeniu niejawnym:",
+    "answers": [
+      "a. zawsze",
+      "b. nigdy",
+      "c. tylko gdy przeprowadzenie rozprawy nie jest konieczne i jednocześnie strona w apelacji lub odpowiedzi na apelację nie złożyła wniosku o przeprowadzenie rozprawy",
+      "d. gdy przeprowadzenie rozprawy nie jest konieczne i zachodzi nieważność postępowania"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Wniesienie odpowiedzi na pozew jest :",
+    "answers": [
+      "a. obligatoryjne",
+      "b. fakultatywne",
+      "c. obligatoryjne tylko jeśli przewodniczący uzna, że jest to niezbędne",
+      "d. żadna z odpowiedzi nie jest prawidłowa"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Sąd z urzędu uzasadnia zaskarżalne postanowienia wydane na posiedzeniu niejawnym w postępowaniu:",
+    "answers": [
+      "a. uproszczonym",
+      "b. upominawczym",
+      "c. elektronicznym upominawczym",
+      "d. egzekucyjnym"
+    ],
+    "correct": [
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Sądem I instancji jest sąd okręgowy w sprawach:",
+    "answers": [
+      "a. o zwalczaniu nieuczciwej konkurencji",
+      "b. o podział majątku po ustaniu wspólności majątkowej między małżonkami, ale tylko jeśli wartość przedmiotu zaskarżenia wynosi minimum 150 000 zł",
+      "c. o uzgodnienie treści księgi wieczystej z rzeczywistym stanem prawnym, ale tylko jeśli wartość przedmiotu sporu przewyższa 75 000 zł",
+      "d. rozpoznawanych w elektronicznym postępowaniu upominawczym, ale tylko gdy wartość przedmiotu sporu przewyższa 75 000 zł"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Sąd rozpoznający apelację, uznając ją za bezzasadną",
+    "answers": [
+      "a. zwraca apelację",
+      "b. odrzuca apelację",
+      "c. utrzymuje w mocy zaskarżony wyrok",
+      "d. oddala apelację"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Jan Pokrzywdzony wniósł apelację od wydanego na posiedzeniu niejawnym wyroku, który nie został podpisany. W tej sytuacji apelacja podlega:",
+    "answers": [
+      "a. zwrotowi",
+      "b. rozpoznaniu po uzupełnieniu przez sąd I instancji brakującego podpisu",
+      "c. odrzuceniu",
+      "d. oddaleniu"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Wydanie wyroku przez sąd pierwszej instancji na posiedzeniu niejawnym jest możliwe gdy:",
+    "answers": [
+      "a. po złożeniu przez strony pism procesowych i dokumentów, w tym również po wniesieniu zarzutów lub sprzeciwu od nakazu zapłaty, albo sprzeciwu od wyroku zaocznego, sąd uzna – mając na względzie wszystkich przytoczonych twierdzeń i zgłoszonych wniosków dowodowych, że przeprowadzenie rozprawy nie jest konieczne, ale tylko jeśli strona w pierwszym piśmie procesowym nie złożyła wniosku o przeprowadzenie rozprawy",
+      "b. pozwany uznał powództwo, ale tylko jeśli strona w pierwszym piśmie procesowym nie złożyła wniosku o przeprowadzenie rozprawy",
+      "c. powództwo jest oczywiście bezzasadne",
+      "d. po złożeniu przez strony pism procesowych i dokumentów, w tym również po wniesieniu zarzutów lub sprzeciwu od nakazu zapłaty, albo sprzeciwu od wyroku zaocznego, sąd uzna mając na względzie wszystkich przytoczonych twierdzeń i zgłoszonych wniosków dowodowych, że przeprowadzenie rozprawy nie jest konieczne"
+    ],
+    "correct": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "Zaskarżenie do sądu II instancji przysługuje na postanowienie sądu I instancji o:",
+    "answers": [
+      "a. odmowie odrzucenia pozwu",
+      "b. odrzucenie pozwu",
+      "c. zawieszeniu postępowania",
+      "d. podjęciu postępowania w innym trybie"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Od pozwu w postępowaniu „zwykłym” o zapłatę kwoty 100.000,00 zł tytułem odszkodowania należy uiścić opłatę w wysokości (ponad 20.000 zł, więc 5%):",
+    "answers": [
+      "a. 1000 zł",
+      "b. 2500 zł",
+      "c. 5000 zł",
+      "d. 7500 zł"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Wniesienie odpowiedzi na pozew jest:",
+    "answers": [
+      "a. fakultatywne, a obligatoryjne tylko na zarządzenie, czyli inaczej niż w postępowaniu nieprocesowym",
+      "b. fakultatywne, a obligatoryjne tylko na zarządzenie, czyli tak jak w postępowaniu nieprocesowym",
+      "c. zawsze obligatoryjne, czyli inaczej niż w postępowaniu nieprocesowym",
+      "d. zawsze obligatoryjne, czyli tak jak w postępowaniu nieprocesowym"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "W postępowaniu nieprocesowym w pierwszej instancji co do zasady właściwe są:",
+    "answers": [
+      "a. sądy rejonowe",
+      "b. sądy okręgowe",
+      "c. sądy apelacyjne",
+      "d. Sąd Najwyższy"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Sądem I instancji w postępowaniu procesowym jest sąd okręgowy w sprawach o:",
+    "answers": [
+      "a. ustanowienie rozdzielności majątkowej między małżonkami, ale tylko gdy wartość przedmiotu sporu jest wyższa niż 75.000 zł",
+      "b. rozwód",
+      "c. uchylenie, stwierdzenie nieważności albo o ustalenie istnienia lub nieistnienia uchwał organów osób prawnych",
+      "d. roszczenia wynikające z naruszenia praw przysługujących na mocy przepisów o ochronie danych osobowych"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Zażalenie wniesione przez podmiot nieuprawniony podlega:",
+    "answers": [
+      "a. zwrotowi",
+      "b. oddaleniu",
+      "c. odrzuceniu",
+      "d. żadna z odpowiedzi nie jest prawidłowa"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Polska procedura cywilna nie przewiduje możliwości wniesienia zażalenia:",
+    "answers": [
+      "a. do tego samego sądu, który wydał postanowienie, jeśli sąd ten orzeka jako sąd II instancji w sprawie, ale postanowienie wydał nie w wyniku rozpoznania zażalenia",
+      "b. do innego sądu I instancji niż sąd, który wydał zaskarżone postanowienie",
+      "c. do Sądu Najwyższego",
+      "d. do sądu wyższej instancji"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "W postępowaniu procesowym nie są wydawane następujące kategorie orzeczeń:",
+    "answers": [
+      "a. postanowienia zaskarżalne apelacją",
+      "b. postanowienia zaskarżalne zażaleniem",
+      "c. wyroki",
+      "d. żadna z odpowiedzi nie jest prawidłowa"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Przed wniesieniem pozwu zmarł pozwany. W tej sytuacji należy:",
+    "answers": [
+      "a. co do zasady zawiesić postępowanie",
+      "b. odrzucić pozew",
+      "c. w niektórych przypadkach umorzyć postępowanie",
+      "d. zwrócić pozew"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Apelację wnosi się do sądu, który wydał zaskarżony wyrok, w terminie co do zasady:",
+    "answers": [
+      "a. dwutygodniowym od ogłoszenia wyroku",
+      "b. 7 dni od upływu terminu do złożenia wniosku o uzasadnienie, jeśli strona skarżąca nie złożyła wniosku o uzasadnienie",
+      "c. 7 dni od doręczenia stronie skarżącej odpisu wyroku wydanego na posiedzeniu niejawnym",
+      "d. dwutygodniowym od doręczenia stronie skarżącej odpisu wyroku z uzasadnieniem"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Pełnomocnik powoda Jan Zapominalski nie opłacił pozwu. W tej sytuacji:",
+    "answers": [
+      "a. Jana Zapominalski zostanie wezwany do uzupełnienia braku fiskalnego pozwu, ale tylko, jeśli Jan Zapominalski nie jest pełnomocnikiem profesjonalnym",
+      "b. sąd zawiesi postępowanie",
+      "c. sąd odrzuci pozew",
+      "d. Jana Zapominalski zostanie wezwany do uzupełnienia braku fiskalnego pozwu, bez względu na to, czy jest pełnomocnikiem profesjonalnym czy nie"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Kuratora dla osoby nieznanej z miejsca pobytu sąd ustanawia:",
+    "answers": [
+      "a. zawsze z urzędu",
+      "b. zawsze na wniosek",
+      "c. z urzędu w postępowaniu nieprocesowym",
+      "d. na wniosek w postępowaniu procesowym"
+    ],
+    "correct": [
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Sądem I instancji jest sąd okręgowy w sprawach:",
+    "answers": [
+      "a. ochronę prawa do nowej odmiany rośliny",
+      "b. roszczenia wynikające z naruszenia praw przysługujących na mocy przepisów o ochronie danych osobowych",
+      "c. uzgodnienie treści księgi wieczystej z rzeczywistym stanem prawnym",
+      "d. rozpoznawanych w elektronicznym postępowaniu upominawczym, ale tylko gdy wartość przedmiotu sporu przewyższa siedemdziesiąt pięć tysięcy złotych"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Na orzeczenie w przedmiocie kosztów procesu przysługuje:",
+    "answers": [
+      "a. zawsze apelacja",
+      "b. zawsze zażalenie",
+      "c. apelacja, jeżeli strona kwestionuje także rozstrzygnięcie co do istoty sprawy",
+      "d. zażalenie, jeżeli strona kwestionuje tylko rozstrzygnięcie o kosztach"
+    ],
+    "correct": [
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Na postanowienie (nie merytoryczne) sądu II instancji:",
+    "answers": [
+      "a. zawsze przysługuje skarga kasacyjna",
+      "b. zawsze przysługuje apelacja",
+      "c. przysługuje tzw. zażalenie poziome, ale tylko w przypadku postanowień dotyczących wymienionych w KPC kwestii innych niż te wydane w wyniku rozpoznania zażalenia na postanowienie sądu I instancji",
+      "d. przysługuje tzw. zażalenie poziome, w przypadku wszystkich postanowień z wyjątkiem tych wydanych w wyniku rozpoznania zażalenia na postanowienie sądu I instancji"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Sąd przełożony może na wniosek stron przekazać sprawę do rozpoznania innemu sądowi równorzędnemu, jeżeli przemawiają za tym względy celowości:",
+    "answers": [
+      "a. zawsze",
+      "b. tylko sprawę rozpoznawaną w postępowaniu nieprocesowym",
+      "c. sprawę gospodarczą",
+      "d. tylko sprawę z zakresu prawa pracy i ubezpieczeń społecznych"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Postępowanie nieprocesowe jest wszczynane:",
+    "answers": [
+      "a. co do zasady z urzędu",
+      "b. tylko z urzędu",
+      "c. tylko na wniosek",
+      "d. co do zasady na wniosek"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "W sprawach rozpoznawanych w postępowaniu nieprocesowym skarga kasacyjna na wydane przez sąd II instancji prawomocne postanowienie co do istoty sprawy przysługuje:",
+    "answers": [
+      "a. zawsze",
+      "b. we wszystkich sprawach z zakresu prawa osobowego",
+      "c. we wszystkich sprawach z zakresu prawa spadkowego",
+      "d. we wszystkich sprawach z zakresu prawa rodzinnego, opiekuńczego i kurateli"
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Sprawy należące do postępowania nieprocesowego rozpoznają w I instancji:",
+    "answers": [
+      "a. sądy rejonowe (co do zasady)",
+      "b. sądy okręgowe (wyjątkowo)",
+      "c. sądy apelacyjne",
+      "d. Sąd Najwyższy (wyjątkowo?)"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Utratę mocy zaskarżonego orzeczenia nie powoduje wniesienie:",
+    "answers": [
+      "a. sprzeciwu od wyroku zaocznego",
+      "b. skargi na czynność komornika",
+      "c. sprzeciwu od nakazu zapłaty w postępowaniu upominawczym i elektronicznym upominawczym",
+      "d. co do zasady skargi na orzeczenie referendarza sądowego"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "W postępowaniu uproszczonym rozpoznawane są sprawy:",
+    "answers": [
+      "a. należące do właściwości sądów rejonowych jak i okręgowych",
+      "b. należące tylko do właściwości sądów rejonowych",
+      "c. należące tylko do właściwości sądów okręgowych",
+      "d. żadna z odp. nie jest prawidłowa"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Od pozwu w sprawach o prawa majątkowe w postępowaniu \"zwykłym\" pobiera się co do zasady opłatę:",
+    "answers": [
+      "a. stałą",
+      "b. stosunkową",
+      "c. stałą określoną „widełkowo”, ale tylko przy wartości przedmiotu sporu do 10.000 zł włącznie",
+      "d. stosunkową przy wartości przedmiotu sporu powyżej 20.000 zł"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Od pozwu w sprawach o prawa majątkowe w postępowaniu \"zwykłym\" pobiera się co do zasady opłatę:",
+    "answers": [
+      "a. stałą",
+      "b. stosunkową",
+      "c. stosunkową przy wartości przedmiotu sporu od 20.000 zł wzwyż",
+      "d. żadna z odpowiedzi nie jest prawidłowa"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "W pierwszej instancji w składzie będącym wyjątkiem od zasady obowiązującej w postępowaniu cywilnym rozpoznawane są:",
+    "answers": [
+      "a. sprawy o ubezwłasnowolnienie",
+      "b. sprawy o rozwód  k.p.c, 1 sędzia + 2 ławników)",
+      "c. wskazane w k.p.c. sprawy z zakresu prawa pracy",
+      "d. wnioski o wyłączenie sędziego",
+      "e. wszystkie sprawy rozpoznawane w postępowaniu odrębnym w sprawach małżeńskich.",
+      "f. wszystkie sprawy z zakresu prawa pracy."
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "W pierwszej instancji w składzie będącym zasadą w postępowaniu cywilnym rozpoznawane są:",
+    "answers": [
+      "a. sprawy o ubezwłasnowolnienie",
+      "b. sprawy o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką prowadzone na podstawie konwencji haskiej",
+      "c. wszystkie sprawy z zakresu prawa pracy",
+      "d. rozpoznając wniosek o wyłączenie sędziego",
+      "e. wszystkie sprawy rozpoznawane w postępowaniu uproszczonym"
+    ],
+    "correct": [
+      3,
+      4
+    ]
+  },
+  {
+    "question": "Sąd II instancji orzeka w składzie:",
+    "answers": [
+      "a. zawsze jednoosobowym.",
+      "b. zawsze trzyosobowym,",
+      "c. co do zasady trzyosobowym",
+      "d. jednoosobowym podczas rozpoznawania apelacji w postępowaniu uproszczonym"
+    ],
+    "correct": [
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Zażalenie sąd rozpoznaje w składzie:",
+    "answers": [
+      "a. co do zasady trzyosobowym",
+      "b. co do zasady ławniczym",
+      "c. trzyosobowym",
+      "d. jednoosobowym jeśli rozpoznaje zażalenie na postanowienie wydane w elektronicznym postępowaniu upominawczym"
+    ],
+    "correct": [
+      0,
+      3
+    ]
+  },
+  {
+    "question": "W procesie cywilnym regułą jest rozpoznawanie spraw w pierwszej instancji w składzie:",
+    "answers": [
+      "a. jednoosobowym",
+      "b. trzech sędziów zawodowych",
+      "c. jednego sędziego zawodowego i dwóch ławników",
+      "d. żadna odp. nie jest prawidłowa"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "W sprawach z zakresu prawa pracy:",
+    "answers": [
+      "a. sąd zawsze orzeka w składzie ławniczym",
+      "b. sąd zawsze orzeka w składzie trzyosobowym",
+      "c. sąd co do zasady orzeka w składzie jednoosobowym",
+      "d. sąd orzeka w składzie ławniczym we wskazanych w kpc sprawach"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Sądem I instancji nigdy nie jest sąd rejonowy w sprawach:",
+    "answers": [
+      "a. ochronę praw własności przemysłowej",
+      "b. ochronę posiadania (sąd rejonowy jest właściwy)",
+      "c. alimenty  k.p.c., sąd rejonowy jest właściwy)",
+      "d. w których wartość przedmiotu sporu przewyższa 75 000 zł  k.p.c., np. w sprawie o alimenty będzie właściwy sąd rejonowy)"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Możliwość wyznaczenia - na wniosek - przez sąd przełożony nad sądem właściwym innego sądu do rozpoznania sprawy gdy wymagają tego względy celowości, występuje:",
+    "answers": [
+      "a. w każdej sprawie",
+      "b. tylko w sprawie z zakresu prawa pracy lub ubezpieczeń społecznych",
+      "c. tylko w sprawie rozpoznawanej w postępowaniu nieprocesowym",
+      "d. tylko w sprawach o alimenty"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Z wyjątkiem spraw rozpoznawanych w postępowaniu upominawczym i nakazowym, sąd może skierować strony do mediacji bez ich wniosku:",
+    "answers": [
+      "a. tylko do zakończenia pierwszej rozprawy",
+      "b. tylko do zakończenia postępowania przed sądem i instancji",
+      "c. na każdym etapie postępowania",
+      "d. nieograniczoną ilość razy?"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Do mediacji sąd może skierować strony:",
+    "answers": [
+      "a. na każdym etapie postępowania",
+      "b. po zakończeniu pierwszego posiedzenia tylko na wniosek stron (zgodny)",
+      "c. tylko raz w toku postępowania",
+      "d. więcej niż jeden raz w toku postępowania tylko na wniosek stron"
+    ],
+    "correct": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "Sąd nie może skierować stron do mediacji:",
+    "answers": [
+      "a. w postępowaniu apelacyjnym",
+      "b. w sprawach rozpoznawanych w postępowaniu nakazowym",
+      "c. w sprawach rozpoznawanych w postępowaniu upominawczym",
+      "d. w sprawach rozpoznawanych w postępowaniu uproszczonym"
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "W toku postępowania strony zawarły ugodę sądową. W takiej sytuacji:",
+    "answers": [
+      "a. sąd powinien pozostawić pozew bez rozpoznania",
+      "b. powód powinien cofnąć powództwo zaś sąd powinien postępowanie umorzyć",
+      "c. sąd powinien postępowanie umorzyć",
+      "d. sąd powinien zatwierdzić ugodę, a następnie umorzyć postępowanie"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Proszę wskazać zdanie/a prawdziwe:",
+    "answers": [
+      "a. ugoda zawarta w wyniku mediacji podlega wykonaniu w drodze egzekucji, jej zatwierdzenie następuje przez nadanie przez sąd klauzuli wykonalności",
+      "b. ugoda zatwierdzona przez sąd przez nadanie klauzuli wykonalności stanowi tytuł wykonawczy",
+      "c. na postanowienie sądu co do nadania ugodzie klauzuli wykonalności nie przysługuje zażalenie",
+      "d. ugoda zawarta przed mediatorem może wywołać tylko skutki ugody pozasądowej jeżeli nie została zatwierdzona przez sąd"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Odrzucenie pozwu może nastąpić:",
+    "answers": [
+      "a. tylko po doręczeniu pozwu pozwanemu",
+      "b. tylko w postępowaniu przed sądem pierwszej instancji",
+      "c. w postępowaniu apelacyjnym",
+      "d. w postępowaniu kasacyjnym"
+    ],
+    "correct": [
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Odrzucenie pozwu na zarzut następuje w przypadku:",
+    "answers": [
+      "a. res iudicatae",
+      "b. zapisu na sąd polubowny",
+      "c. braku drogi sądowej",
+      "d. braku jurysdykcji krajowej"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Na postanowienie referendarza sądowego wydane w postępowaniu nieprocesowym służy:",
+    "answers": [
+      "a. zawsze skarga na orzeczenie referendarza",
+      "b. zawsze apelacja",
+      "c. zawsze zażalenie",
+      "d. skarga na orzeczenie referendarza, z wyjątkiem przypadków, w których na postanowienie sądu służyłaby apelacja"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Skarga na orzeczenie referendarza:",
+    "answers": [
+      "a. co do zasady nie powoduje utraty mocy orzeczenia referendarza,",
+      "b. co do zasady powoduje utratę mocy orzeczenia referendarza",
+      "c. jest rozpoznawana przez sąd I instancji,",
+      "d. jest rozpoznawana przez sąd II instancji,"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "W postępowaniu cywilnym udział prokuratora jest obowiązkowy w sprawach:",
+    "answers": [
+      "a. z zakresu ubezpieczeń społecznych.",
+      "b. ubezwłasnowolnienie",
+      "c. stwierdzenie nieważności małżeństwa.",
+      "d. odszkodowanie z tytułu wypadku drogowego."
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Wniosek o wykładnię wyroku może być wniesiony:",
+    "answers": [
+      "a. w każdym momencie",
+      "b. w takim samym terminie jak wniosek o uzupełnienie wyroku",
+      "c. do momentu jego uprawomocnienia się",
+      "d. żadna z odpowiedzi nie jest prawidłowa"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Wniosek o sprostowanie orzeczenia może być wniesiony:",
+    "answers": [
+      "a. w każdym momencie",
+      "b. w ciągu dwóch tygodni od ogłoszenia, a gdy doręczeni następuje z urzędu - od jego doręczenia",
+      "c. w ciągu 21 dni od ogłoszenia, a gdy doręczenie następuje z urzędu - od jego doręczenia",
+      "d. do momentu jego uprawomocnienia się"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Wniosek o sprostowanie wyroku może być wniesiony:",
+    "answers": [
+      "a. w takim samym terminie jak wniosek o wykładnię wyroku",
+      "b. w takim samym terminie jak wniosek o uzupełnienie wyroku",
+      "c. do momentu jego uprawomocnienia się",
+      "d. żadna odp. nie jest prawidłowa"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "W dniu 10 czerwca 2020 r. Sąd Rejonowy dla Krakowa - Nowej Huty w Krakowie wydał wyrok w całości uwzględniający powództwo Adama Wierzyciela o zapłatę przeciwko Janowi Dłużnikowi. Jan Dłużnik, po doręczeniu mu odpisu wyroku wraz z uzasadnieniem, wniósł apelację od wyroku. Adamowi Wierzycielowi zrobiło się żal Jana Dłużnika, który ma ciężką sytuację życiową i dwa dni po wniesieniu apelacji przez Jana Dłużnika cofnął powództwo ze zrzeczeniem się roszczenia. W tej sytuacji:",
+    "answers": [
+      "a. cofnięcie powództw nic nie zmieni, bo wyrok już zapadł",
+      "b. cofnięcie powództw nic nie zmieni, bo wyrok został zaskarżony przez pozwanego",
+      "c. sąd i instancji uchyli zaskarżony wyrok i umorzy postępowanie, a jeśli akta sprawy wraz z apelacją zostały już przekazane sądowi ii instancji, to zrobi to sąd ii instancji, chyba że sąd uzna takie cofnięcie za niedopuszczalne",
+      "d. sąd i instancji uchyli zaskarżony wyrok i umorzy postępowanie, ale tylko jeśli akta sprawy wraz z apelacją nie zostały jeszcze przekazane sądowi ii instancji, chyba że sąd uzna takie cofnięcie za niedopuszczalne"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Adwokatowi Janowi K. został zwrócony nieopłacony pozew wniesiony w dniu 25 maja 2018. Zarządzenie z dnia 12 czerwca 2018. o zwrocie pozwu zostało mu doręczone dnia 26 czerwca 2018 r. W dniu 29 czerwca 2018 adwokat uiścił brakującą opłatę. Pozew wywyła w tej sytuacji skutego od daty: - BYŁO NA STACJO",
+    "answers": [
+      "a. 25 maja 2018",
+      "b. 12 czerwca 2018",
+      "c. 26 czerwca 2018",
+      "d. 29 czerwca 2018"
+    ],
+    "correct": []
+  },
+  {
+    "question": "W dniu 3 stycznia 2018 r wskutek niezastania adresata w domu, została ona po raz drugi złożona w urzędzie pocztowym. W dniu 10 stycznia 2018 upłynął termin do odbioru złożonego pisma w oddawczym urzędzie pocztowym, a adresat znów nie zgłosił się w celu jego odbioru. W tej sytuacji:",
+    "answers": [
+      "a. pismo zostało doręczone adresatowi",
+      "b. za datę doręczenia pisma przyjmuje się datę pierwszego awizowania",
+      "c. za datę doręczenia pisma uważa się dzień 10 stycznia 2018",
+      "d. za datę doręczenia uważa się dzień 17 stycznia 2018"
+    ],
+    "correct": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "Wyrok sąd uzasadnia się:",
+    "answers": [
+      "a. co do zasady na wniosek",
+      "b. co do zasady z urzędu",
+      "c. z urzędu, w przypadku wyroków wydawanych w drugiej instancji, zawsze gdy apelację uwzględniono",
+      "d. z urzędu, gdy został on zaskarżony bez wniosku o jego uzasadnienie"
+    ],
+    "correct": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "W postępowaniu nieprocesowym:",
+    "answers": [
+      "a. jeśli chodzi o rozpoznawanie spraw na rozprawie, obowiązuje taka sama zasada jak w postępowaniu procesowym",
+      "b. obowiązek wyznaczenia rozprawy istnieje tylko wtedy, gdy stanowi tak przepis ustawy",
+      "c. co do zasady wyznaczenie rozprawy jest obligatoryjne w sprawach z zakresu prawa rzeczowego",
+      "d. co do zasady wyznaczenie rozprawy jest obligatoryjne w sprawach z zakresu prawa osobowego"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Wskaż zdanie/a prawdziwe:",
+    "answers": [
+      "a. W postępowaniu nieprocesowym zasadą jest rozpoznawanie spraw przez sąd rejonowy w pierwszej instancji",
+      "b. W postępowaniu nieprocesowym nie stosuje się przepisów o wyroku zaocznym",
+      "c. W postępowaniu nieprocesowym zasadą jest rozpoznawanie spraw w pierwszej instancji prze sąd w składzie jednoosobowym",
+      "d. Możliwe jest procedowanie w sprawie prowadzonej w trybie nieprocesowym z udziałem tylko jednego uczestnika"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "W sprawach rozpoznawanych w postępowaniu nieprocesowym skarga kasacyjna nie przysługuje:",
+    "answers": [
+      "a. w postępowaniu rejestrowym na żadne postanowienie.",
+      "b. w żadnej sprawie z zakresu prawa osobowego.",
+      "c. w sprawie o zniesienie współwłasności, jeżeli wartość przedmiotu zaskarżenia jest niższa niż 150 tysięcy złotych",
+      "d. w sprawach o zasiedzenie."
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "W postępowaniu egzekucyjnym zasadą jest, że czynności egzekucyjne wykonuje:",
+    "answers": [
+      "a. sąd",
+      "b. komornik",
+      "c. prezes sądu rejonowego",
+      "d. referendarz"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Postanowienie w przedmiocie zbiegu egzekucji administracyjnej i sądowej co do tej samej rzeczy lub prawa majątkowego może wydać:",
+    "answers": [
+      "a. tylko sąd",
+      "b. tylko referendarz",
+      "c. tylko sąd, jeśli egzekucja dotyczy świadczeń alimentacyjnych",
+      "d. referendarz"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Konieczność obligatoryjnego zawieszenia postępowania z urzędu powoduje:",
+    "answers": [
+      "a. zaistnienie sytuacji, w której rozstrzygnięcie sprawy zależy od wyniku innego toczącego się postępowania cywilnego",
+      "b. śmierć strony",
+      "c. zaprzestanie czynności przez sąd wskutek siły wyższej",
+      "d. zaistnienie sytuacji, w której powód dochodzi przeciwko spadkobiercy wykonania obowiązku, należącego do długów spadkowych a spadkobierca nie złożył jeszcze oświadczenia o przyjęciu spadku i termin do złożenia takiego oświadczenia jeszcze nie upłynął"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Osoby pełnoletnie chore psychicznie:",
+    "answers": [
+      "a. mają pełną zdolność procesową",
+      "b. nie mają zdolności procesowej",
+      "c. zawsze mają ograniczoną zdolność procesową",
+      "d. nie mają zdolności procesowej, jeśli zostały ubezwłasnowolnione całkowicie"
+    ],
+    "correct": [
+      0,
+      3
+    ]
+  },
+  {
+    "question": "W procesie cywilnym wyjątkiem od zasady jest rozpoznawanie spraw w pierwszej instancji:",
+    "answers": [
+      "a. jednoosobowo",
+      "b. trzech sędziów zawodowych",
+      "c. jednego sędziego zawodowego i dwóch ławników",
+      "d. żadna odp. nie jest prawidłowa"
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Sąd I instancji uzasadnia:",
+    "answers": [
+      "a. z urzędu wszystkie postanowienia niemerytoryczne",
+      "b. z urzędu postanowienia niemerytoryczne ogłoszone na posiedzeniu jawnym, jeżeli podlegają one zaskarżeniu",
+      "c. z urzędu postanowienia niemerytoryczne wydane na posiedzeniu niejawnym",
+      "d. z urzędu postanowienia niemerytoryczne wydane na posiedzeniu niejawnym, jeżeli podlegają one zaskarżeniu"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Skargę o wznowienie postępowania, której podstawa jest pozbawienie możności działania lub brak należytej reprezentacji wnosi się:",
+    "answers": [
+      "a. w terminie 3 miesięcznym od dnia , w którym o wyroku dowiedziała się strona, jej organ lub jej przedstawiciel ustawowy",
+      "b. w terminie jednego roku…",
+      "c. w terminie trzymiesięcznym od  dnia ogłoszenia wyroku",
+      "d. w terminie roku od  ogłoszenia wyroku"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Od pozwu w elektronicznym postępowaniu upominawczym:",
+    "answers": [
+      "a. nie pobiera się opłaty",
+      "b. pobiera się opłatę taką jak od pozwu w postępowaniu upominawczym",
+      "c. pobiera się całą opłatę stałą (zgodnie z „widełkami”)",
+      "d. pobiera się opłatę taką jak od pozwu w postępowaniu nakazowym"
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "W postępowaniu nieprocesowym:",
+    "answers": [
+      "a. wyjątkiem od reguły rozpoznawanie spraw na rozprawie",
+      "b. nie można rozpoznawać spraw na rozprawie",
+      "c. co do zasady wyznaczenie rozprawy jest obligatoryjne w sprawach z zakresu prawa rzeczowego",
+      "d. wyznaczenie rozprawy zależy wyłącznie od uznania przewodniczącego"
+    ],
+    "correct": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "Wskaż zdanie prawdziwe:",
+    "answers": [
+      "a. W postępowaniu nieprocesowym nie jest możliwe wznowienie postępowania",
+      "b. W postępowaniu nieprocesowym nie stosuje się przepisów o wyroku zaocznym.",
+      "c. W postępowaniu nieprocesowym po rozpoczęciu posiedzenia albo po złożeniu przez któregokolwiek z uczestników oświadczenia na piśmie cofnięcie wniosku jest  skuteczne tylko wtedy gdy inni nie sprzeciwili się temu w terminie wyznaczonym",
+      "d. W postępowaniu nieprocesowym akta sprawy są dostępne tylko dla uczestników"
+    ],
+    "correct": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "Wskaż zdanie prawdziwe:",
+    "answers": [
+      "a. W postępowaniu nieprocesowym akta sprawy są dostępne tylko dla uczestników postępowania",
+      "b. W postępowaniu nieprocesowym co do zasady każdy uczestnik ponosi koszty postępowania związane swym udziałem w sprawie",
+      "c. Wszystkie czynności w sprawach depozytów może wykonywać referendarz sądowy",
+      "d. Sprawy o przysposobienie w pierwszej instancji sąd rozpoznaje w składzie trzech sędziów zawodowych"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "question": "W postępowaniu o wpis do ksiąg wieczystych złożony został wniosek od którego nie uiszczono żadnej opłaty. W tej sytuacji przewodniczący:",
+    "answers": [
+      "a. wezwie do uiszczenia opłaty bez względu na to kto go złożył",
+      "b. zwróci wniosek bez względu na to kto go złożył",
+      "c. zwróci wniosek tylko jeśli został on złożony przez pełnomocnika profesjonalnego",
+      "d. zwróci wniosek i wezwie do opłaty tylko jeśli wniosek złożyła osoba działająca bez profesjonalnego pełnomocnika"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Proszę wskazać zdanie prawdziwe:",
+    "answers": [
+      "a. Wierzyciel ma prawo wyboru komornika na terytorium RP, z wyjątkiem spraw o egzekucje z nieruchomości.",
+      "b. Właściwość miejscowa komornika jest określona w przepisach właściwych dla danego sposobu egzekucji.",
+      "c. Złożenie wniosku o wyłączenie komornika nie jest dopuszczalne.",
+      "d. Wniosek o wyłączenie komornika rozpoznaje sad rejonowy , przy którym działa komornik."
+    ],
+    "correct": [
+      3
+    ]
+  },
+  {
+    "question": "Do rozpoznania skargi na czynności komornika właściwy jest",
+    "answers": [
+      "a. zawsze sąd przy którym działa komornik",
+      "b. sad przy którym działa komornik, chyba. że do prowadzenia egzekucji został wybrany komornik poza właściwością ogólną",
+      "c. sąd właściwy dla komornika wybranego do prowadzenia egzekucji, jeżeli komornik został  wybrany poza właściwością ogólną",
+      "d. sąd miejsca położenia majątku, z którego prowadzona jest egzekucja"
+    ],
+    "correct": []
+  },
+  {
+    "question": "W przypadku zbiegu egzekucji administracyjnej i sadowej co do tej samej rzeczy lub prawa  majątkowego",
+    "answers": [
+      "a. egzekucję w dalszym ciągu prowadzą oba organy",
+      "b. łączne prowadzenie egzekucji przejmuje zawsze egzekucyjny organ  sądowy",
+      "c. łączne prowadzenie egzekucji przejmuje zawsze  organ administracyjny",
+      "d. Sąd Rejonowy. w którego okręgu  wszczęto egzekucję  rozstrzyga  , który organ egzekucyjny – sadowy czy administracyjny ma dalej prowadzić łącznie egzekucję"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Tytułem egzekucyjnym jest:",
+    "answers": [
+      "a. prawomocne orzeczenie sądu",
+      "b. orzeczenie sądu podlegające natychmiastowemu wykonaniu",
+      "c. ugoda zawarta przed sądem",
+      "d. akt notarialny w przypadkach wskazanych w k.p.c"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Klauzulę wykonalności tytułowi egzekucyjnemu pochodzącemu od sądu nadaje na wniosek:",
+    "answers": [
+      "a. sąd I instancji, w którym sprawa się toczy",
+      "b. sąd II instancji dopóki akta sprawy się w nim znajdują",
+      "c. zawsze sąd który jako ostatni orzekał w sprawie",
+      "d. zawsze sąd który jako ostatni orzekał w sprawie z wyjątkiem SN"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Dalsze tytuły egzekucyjne sąd może wydać:",
+    "answers": [
+      "a. w razie potrzeby prowadzenia egzekucji na rzecz kilku osób lub przeciwko kilku osobom",
+      "b. w razie potrzeby prowadzenia egzekucji z kilku składowych części majątku tego samego dłużnika",
+      "c. tylko za zgodą dłużnika",
+      "d. zawsze, jeśli tylko wierzyciel złoży wniosek o wydanie dalszego tytułu egzekucyjnego"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Mimo braku wezwania strona może złożyć:",
+    "answers": [
+      "a. każde pismo przygotowawcze",
+      "b. odpowiedz na pozew",
+      "c. wniosek dowodowy",
+      "d. żadna odpowiedz nie jest prawidłowa"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Cofnięcie powództwa:",
+    "answers": [
+      "a. nie jest możliwe",
+      "b. jest możliwe bez ograniczeń",
+      "c. jest możliwe bez zgody pozwanego nie później niż do rozpoczęcia rozprawy, chyba że jest połączone ze zrzeczeniem się roszczenia",
+      "d. po rozpoczęciu rozprawy jest możliwe tylko za zgodą pozwanego"
+    ],
+    "correct": [
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Na urzędowym formularzu trzeba wnieść:",
+    "answers": [
+      "a. pozew w postępowaniu upominawczym",
+      "b. wniosek o wpis do księgi wieczystej",
+      "c. skargę na czynność komornika (może być wniesiona)",
+      "d. odpowiedź na pozew",
+      "e. pisma zawierające wnioski dowodowe",
+      "f. sprzeciw od wyroku zaocznego"
+    ],
+    "correct": [
+      1
+    ]
+  }
+]
